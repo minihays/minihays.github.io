@@ -3,7 +3,7 @@ layout: page
 title: Tidbits About Me
 permalink: /about/
 ---
-Let’s see. What might someone want to know about me?
+Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you.
 
 ![This is me.](/images/Selfie.JPG)
 
