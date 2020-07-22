@@ -15,7 +15,7 @@ I am married to my best friend and the most wonderful husband ever! His name is 
 
 We are busy people. I am a tad bit lazy by nature, but thankfully Chuck doesn’t sit still very well and keeps us active. We do projects around the house (he’s VERY handy), take trips, go camping, go boating, go tubing (we love being on the lake!), go fishing, bike ride, swim, go on walks, downhill ski, play hockey, play softball, he coaches hockey and softball for the kids and a multitude of other things. Life’s too short to sit around. A lot of our recent activities include parks or activities to entertain the kiddos!
 
-![Family Hockey](/images/FamilyHockey.jpg)
+![Family Hockey](/images/FamilyHockey.JPG)
 
 Along with being very active, we are advocates for STEM and STEAM. We are teaching our kids all about coding, math, science, technology and art, have robots all over the house and a dedicated room for crafts, building and being creative. We host two [First LEGO League Jr.](https://www.firstinspires.org/robotics/fll) teams with our kids and some of their friends. It has been such an amazing experience to help these kids get excited about programming and seeing their ideas come to life.
 
@@ -25,13 +25,13 @@ I went back to school before my oldest was born for a couple semesters to try my
 
 I also love to read. I listen to audio books ALL the time (while doing dishes, chores, running, in the car, any spare minute I can find) and read on my Kindle the rest of the time. I usually have a couple books going at one time in various forms (physical book, audio book and ebook). I also have managed a book club since early 2012. I am glad that my kids have become avid readers as well.
 
-![Book Love](/images/BookLove.jpg)
+![Book Love](/images/booklove.jpg)
 
 I keep a blog because I want to “journal” things. I am glad to have readers, but I do this for me. If you don’t like the content...wait until tomorrow. You might like it then. 🙂 And if not, well, maybe I’m just not for you. I tend to be quite random about what I post here. But I suppose that is because I am a very random person! I am really working on embracing doing things for me and not for everyone else. Which is a hard thing to do as a pleaser.
 
 I get incredibly nervous to try new things, but I am working to get over that fear. It’s quite debilitating at times and frankly no fun. I am mostly afraid to fail. I am learning that failing is ok. You learn from it and grow. So it isn’t all bad!
 
-![Hays on the 4th](/images/Hays4th.jpg)
+![Hays on the 4th](/images/Hays4th.JPG)
 
 My hubby currently works for [Google](http://google.com). He works with some of the most interesting and smartest people I know. And he is the smartest of them all (I’m not biased at all!). This guy never ceases to amaze me with all he knows and all he can do! He is always building something and working on various projects. He is so amazing! 
 
