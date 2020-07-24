@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you.
 
-![This is me.](/images/Selfie.JPG)
+![Andi](/images/Selfie.JPG)
 
 I am married to my best friend and the most wonderful husband ever! His name is [Chuck](http://madebychuck.com). We live in Minnesota and are the proud parents of two girls, Madeline (Maddie – Feb. 2011) and Danielle (Dannie – Nov. 2012) and a boy, Alexander (Alex – Nov. 2014).
 
