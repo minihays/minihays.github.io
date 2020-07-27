@@ -23,6 +23,10 @@ I used to work full time as a legal assistant at an Intellectual Property law fi
 
 I went back to school before my oldest was born for a couple semesters to try my hand at Computer Science. I didn’t pursue it and wish I had stuck with it. I am currently working on learning more JavaScript because i am fascinated by web development.  I love working on websites and playing around on them. So I am working on learning more front-end and back-end stuff and I’ll see where it takes me. I am learning some Jekyll as well to make more websites from scratch. I would really like to find a job doing something in tech. I know this is something I love and just need to find the right fit for me in the world of tech.
 
+Here are a couple websites I have created or helped with for friends and family:
+- [Gansers Goodies](http://gansersgoodies.com/) - This a storefront for selling baked goods
+- [Operation HighGround](http://operationhighground.org/) - This is a non-profit company helping veterans
+
 I also love to read. I listen to audio books ALL the time (while doing dishes, chores, running, in the car, any spare minute I can find) and read on my Kindle the rest of the time. I usually have a couple books going at one time in various forms (physical book, audio book and ebook). I also have managed a book club since early 2012. I am glad that my kids have become avid readers as well.
 
 ![Book Love](/images/booklove.jpg)
