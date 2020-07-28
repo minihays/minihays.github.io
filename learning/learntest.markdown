@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blogging Like a Hacker
+# title: Blogging Like a Hacker
+permalink: /learntest/
 ---
 
 This is another separate page. I wonder what else might be a good thing for pages...

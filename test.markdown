@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Make Something Appear
+# title: The Tester Page
+permalink: /test/
 ---
+This is where I am going to play around with things and see how they work. 
 
 # This is the H1 header
 ## This is the H2 header
