@@ -1,17 +1,106 @@
 ---
 layout: page
 title: Books We Have Read
-show-in-nav: false
+
 ---
 # Here is a list of all the books we have read for book club:
 
-- **November 2020** - [*The House of Spirits*](https://www.amazon.com/House-Spirits-Novel-Isabel-Allende-ebook/dp/B01675AB28/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963392&sr=8-2) by Isabel Allende
-- **October 2020** - [*Vacationland*](https://www.amazon.com/Vacationland-Sarah-Stonich-ebook/dp/B00C13Q2ZG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963444&sr=8-4) by Sarah Stonich
-- **September 2020** - [*Open Book*](https://www.amazon.com/Untitled-Memoir-Lou-Htims-ebook/dp/B07GVJPXV9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963467&sr=8-2) by Jessica Simpson
-- **August 2020** - [*Stubborn Archivist*](https://www.amazon.com/Stubborn-Archivist-Yara-Rodrigues-Fowler-ebook-dp-B07FPBKZWX/dp/B07FPBKZWX/ref=mt_other?_encoding=UTF8&me=&qid=1595963496) by Yara Rodrigues Fowler
-- **July 2020** - [*The Rosie Project*](https://www.amazon.com/Rosie-Project-Novel-Tillman-Book-ebook/dp/B00BSBR9N6/ref=sr_1_2?dchild=1&keywords=rosie+project&qid=1595963533&s=digital-text&sr=1-2) by Graeme Simsion
-- **June 2020** - [*Maid*](https://www.amazon.com/Maid-Hard-Work-Mothers-Survive-ebook/dp/B07CWPRXFG/ref=sr_1_2?dchild=1&keywords=Maid&qid=1595963560&s=digital-text&sr=1-2) by Stephanie Land
-- **May 2020** - [*How To Walk Away*](https://www.amazon.com/How-Walk-Away-Katherine-Center-ebook/dp/B076B271QT/ref=sr_1_2?dchild=1&keywords=how+to+walk+away&qid=1595963585&s=digital-text&sr=1-2) by Katherine Center
-- **April 2020** - [*The Giver of Stars*](https://www.amazon.com/Giver-Stars-Novel-Jojo-Moyes-ebook/dp/B07NKP3JL4/ref=sr_1_2?dchild=1&keywords=the+giver+of+stars&qid=1595963611&s=digital-text&sr=1-2) by Jojo Moyes
-- **March 2020** - [*Three Women*](https://www.amazon.com/Three-Women-Lisa-Taddeo-ebook/dp/B07MNJS37D/ref=sr_1_2?dchild=1&keywords=three+women&qid=1595963633&s=digital-text&sr=1-2) by Lisa Taddeo
-- **February 2020** - [*The Glass Castle*](https://www.amazon.com/Glass-Castle-Memoir-Jeannette-Walls-ebook/dp/B000OVLKMM/ref=sr_1_2?dchild=1&keywords=the+glass+castle&qid=1595963657&s=digital-text&sr=1-2) by Jeannette Walls
+- **November 2020** - [The House of Spirits](https://www.amazon.com/House-Spirits-Novel-Isabel-Allende-ebook/dp/B01675AB28/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963392&sr=8-2) by Isabel Allende
+- **October 2020** - [Vacationland](https://www.amazon.com/Vacationland-Sarah-Stonich-ebook/dp/B00C13Q2ZG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963444&sr=8-4) by Sarah Stonich
+- **September 2020** - [Open Book](https://www.amazon.com/Untitled-Memoir-Lou-Htims-ebook/dp/B07GVJPXV9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963467&sr=8-2) by Jessica Simpson
+- **August 2020** - [Stubborn Archivist](https://www.amazon.com/Stubborn-Archivist-Yara-Rodrigues-Fowler-ebook-dp-B07FPBKZWX/dp/B07FPBKZWX/ref=mt_other?_encoding=UTF8&me=&qid=1595963496) by Yara Rodrigues Fowler
+- **July 2020** - [The Rosie Project](https://www.amazon.com/Rosie-Project-Novel-Tillman-Book-ebook/dp/B00BSBR9N6/ref=sr_1_2?dchild=1&keywords=rosie+project&qid=1595963533&s=digital-text&sr=1-2) by Graeme Simsion
+- **June 2020** - [Maid](https://www.amazon.com/Maid-Hard-Work-Mothers-Survive-ebook/dp/B07CWPRXFG/ref=sr_1_2?dchild=1&keywords=Maid&qid=1595963560&s=digital-text&sr=1-2) by Stephanie Land
+- **May 2020** - [How To Walk Away](https://www.amazon.com/How-Walk-Away-Katherine-Center-ebook/dp/B076B271QT/ref=sr_1_2?dchild=1&keywords=how+to+walk+away&qid=1595963585&s=digital-text&sr=1-2) by Katherine Center
+- **April 2020** - [The Giver of Stars](https://www.amazon.com/Giver-Stars-Novel-Jojo-Moyes-ebook/dp/B07NKP3JL4/ref=sr_1_2?dchild=1&keywords=the+giver+of+stars&qid=1595963611&s=digital-text&sr=1-2) by Jojo Moyes
+- **March 2020** - [Three Women](https://www.amazon.com/Three-Women-Lisa-Taddeo-ebook/dp/B07MNJS37D/ref=sr_1_2?dchild=1&keywords=three+women&qid=1595963633&s=digital-text&sr=1-2) by Lisa Taddeo
+- **February 2020** - [The Glass Castle](https://www.amazon.com/Glass-Castle-Memoir-Jeannette-Walls-ebook/dp/B000OVLKMM/ref=sr_1_2?dchild=1&keywords=the+glass+castle&qid=1595963657&s=digital-text&sr=1-2) by Jeannette Walls
+- **December 2019/January 2020** - [The Goldfinch](https://www.amazon.com/Goldfinch-Novel-Pulitzer-Prize-Fiction-ebook/dp/B00BAXFECK/ref=sr_1_2?dchild=1&keywords=the+goldfinch&qid=1595966238&s=digital-text&sr=1-2) by Donna Tartt
+- **November 2019** - [The Princess Bride](https://www.amazon.com/Princess-Bride-Morgensterns-Classic-Adventure-ebook/dp/B003IEJZRY/ref=sr_1_2?dchild=1&keywords=the+princess+bride&qid=1595966283&s=digital-text&sr=1-2) by William Goldman
+- **October 2019** - [The Rent Collector](https://www.amazon.com/Rent-Collector-Camron-Wright-ebook/dp/B0091X6T4I/ref=sr_1_2?dchild=1&keywords=the+rent+collector&qid=1595966317&s=digital-text&sr=1-2) by Camron Wright
+- **September 2019** - [Educated](https://www.amazon.com/Educated-Memoir-Tara-Westover-ebook/dp/B072BLVM83/ref=sr_1_2?dchild=1&keywords=educated&qid=1595966352&s=digital-text&sr=1-2) by Tara Westover
+- **August 2019** - [The Gifted School](https://www.amazon.com/Gifted-School-Novel-Bruce-Holsinger-ebook/dp/B07JYQ2W93/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595966479&sr=1-2) by Bruce Holsinger 
+- **July 2019** - [Where the Crawdads Sing](https://www.amazon.com/Where-Crawdads-Sing-Delia-Owens-ebook/dp/B078GD3DRG/ref=sr_1_2?crid=2177EVSTV15KA&dchild=1&keywords=where+the+crawdads+sing&qid=1595966527&s=digital-text&sprefix=where+the+cra%2Cdigital-text%2C332&sr=1-2) by Delia Owens
+- **June 2019** - [Flight Behavior](https://www.amazon.com/Flight-Behavior-Novel-Barbara-Kingsolver-ebook/dp/B007HBY89E/ref=sr_1_2?dchild=1&keywords=flight+behavior&qid=1595966554&s=digital-text&sr=1-2) by Barbara Kingsolver
+- **May 2019** - [Eleanor Oliphant Is Completely Fine](https://www.amazon.com/Eleanor-Oliphant-Completely-Fine-Novel-ebook/dp/B01KGZVTOE/ref=sr_1_2?crid=2B1NWXJNFXJ4T&dchild=1&keywords=eleanor+oliphant+is+completely+fine&qid=1595966587&s=digital-text&sprefix=eleanor+oliph%2Cdigital-text%2C274&sr=1-2) by Gail Honeyman
+- **April 2019** - [The Immortalists](https://www.amazon.com/Immortalists-Chloe-Benjamin-ebook/dp/B071D3D2ZX/ref=sr_1_2?crid=107D7K9QOTOJP&dchild=1&keywords=the+immortalists&qid=1595966613&s=digital-text&sprefix=the+immor%2Cdigital-text%2C301&sr=1-2) by Chloe Benjamin
+- **March 2019** - [Neither Wolf, Nor Dog](https://www.amazon.com/Neither-Wolf-nor-25th-Anniversary-ebook/dp/B07VT9R1W4/ref=sr_1_2?crid=2PJKZO7KMINBY&dchild=1&keywords=neither+wolf+nor+dog+by+kent+nerburn&qid=1595966652&s=digital-text&sprefix=neither+wolf%2Cdigital-text%2C-1&sr=1-2) by Kent Nerburn
+- **February 2019** - [The Witness Tree](https://www.amazon.com/Witness-Tree-Amy-Pendino-ebook/dp/B07H5QML1S/ref=sr_1_1?dchild=1&keywords=the+witness+tree&qid=1595966725&s=digital-text&sr=1-1) by Amy Pendino
+- **December 2018/January 2019** - [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas-ebook/dp/B01M0614T9/ref=sr_1_2?dchild=1&keywords=the+hate+you+give&qid=1595966756&s=digital-text&sr=1-2) by Angie Thomas **and/or** [The Handmaid’s Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_2?dchild=1&keywords=the+handmaid%27s+tale&qid=1595966777&s=digital-text&sr=1-2) by Margaret Atwood
+- **November 2018** - [The Alice Network](https://www.amazon.com/Alice-Network-Novel-Kate-Quinn-ebook/dp/B01LZFL63S/ref=sr_1_2?dchild=1&keywords=the+alice+network&qid=1595967228&s=digital-text&sr=1-2) by Kate Quinn
+- October 2018 * Crazy, Rich Asians by Kevin Kwan
+- September 2018 * Before We Were Yours by Lisa Wingate
+- August 2018 * American Marriage by Tayari Jones
+- July 2018 * The Good Girl by Mary Kubica
+- June 2018 * The Book that Matters Most by Ann Hood
+- May 2018 * A River in Darkness by Masaji Ishikawa
+- April 2018 * The Odds of Loving Grover Cleveland by Rebekah Crane
+- March 2018 * The Librarian of Auschwitz by Antonio Iturbe
+- February 2018 * The Subtle Art of Not Giving a F*ck by Mark Manson
+- December 2017/January 2018 * I am Malala by Malala Yousafzai OR Half the Sky by Nicholas D. Kristof and Sheryl WuDunn 
+- November 2017 * Unbroken by Laura Hillenbrand
+- October 2017 * The Girls by Emma Cline 
+- September 2017 * The Light Between Oceans by M. L. Stedman
+- August 2017 * Behind Closed Doors by B. A. Paris
+- July 2017 * Confessions of a Domestic Failure by Bunmi Laditan
+- June 2017 *  Red Queen by Victoria Aveyard
+- May 2017 *  New York by Edward Rutherford
+- April 2017 * Salt to the Sea by Ruta Sepetys
+- March 2017 * A Man Called Ove by Fredrik Backman
+- February 2017 *  Killing Hemmingway by Arthur Byrne
+- December 2016/January 2017 * The Poisonwood Bible by Barbara Kingsolver
+- November 2016 * Animal, Vegetable, Miracle by Barbara Kingsolver
+- October 2016 * Effortless With You by Lizzy Charles
+- September 2016 * Defending Jacob by William Landay
+- August 2016 * All The Light We Cannot See by Anthony Doerr
+- July 2016 * The Lake House by Kate Morton
+- June 2016 * The Nest by Cynthia D’Aprix Sweeney 
+- May 2016 * Me Before You by Jojo Moyes 
+- April 2016 * Speak by Laurie Halse Anderson
+- March 2016 * Term Limits by Vince Flynn 
+- February 2016 * The Nightingale by Kristin Hannah
+- December 2015/January 2016 * Dept. of Speculation by Jenny Offill
+- November 2015 * The One You Love by Paul Pilkington
+- October 2015 * This Life She's Chosen by Kirsten Sundberg Lunstrum 
+- September 2015 * Exit Strategy by Kelley Armstrong
+- August 2015 * Night by Elie Wiesel
+- July 2015 * Three Wishes by Liane Moriarty
+- June 2015 * The 5th Wave by Rick Yancy
+- May 2015 * The Devil in the White City by Erik Larson
+- April 2015 * The Silver Star by Jeanette Walls
+- March 2015 * The Girl on the Train by Paula Hawkins
+- February 2015 * Wuthering Heights by Emily Bronte
+
+- December 2014/January 2015 - Classic or Historical Fiction?
+- November 2014 - Young Adult - "Althea and Oliver" by Cristina Moracho
+- October 2014 -  Local Author/Debut (OneBook, OneRosemount) - "Where the Mountain Meets The Moon" by Grace Lin
+- September 2014 - Humor/Comedy  - "Is Everyone Hanging Out Without Me" by Mindy Kaling
+- August 2014 - Food/Health - "Bread and Wine: A Love Letter to Life Around the Table with Recipes" by Shauna Niequist
+- July 2014 - Travel  - "To the Moon and Timbuktu: A Trek through the Heart of Africa" by Nina Sovich
+- June 2014 - Choose Your Own Book (And report back)
+- May 2014 - Mystery - "Sharp Objects" by Gillian Flynn
+- April 2014 - Lifestyle - "The Happiness Project" by Gretchen Rubin
+- March 2014 - Memoir/Biography - "Maximum Insecurity: A Doctor in the Supermax" by William Wright, M.D.
+- February 2014 - Chick Lit - "The Storyteller" by Jodi Piccoult
+- December 2013/January 2014 - Classic - "A Tree Grows in Brooklyn" by Betty Smith
+- November 2013 - Historical Fiction - "The Book Thief" by Markus Zusak
+- October 2013 - Young Adult - "The Fault in our Stars" by John Green
+- September 2013 - Local Author/Debut - "Murder at Spirit Falls" by Barbara Deese and Dorothy Olson
+- August 2013 - Humor/Comedy - "Stop Dressing Your Six-Year-Old Like a Skank: And Other Words of Delicate Southern Wisdom" by Celia Rivenbark
+- July 2013 - SciFi - "The Maze Runner (Book 1)" by James Dashner
+- June 2013 - Travel - "Into The Wild" by Jon Krakauer
+- May 2013 - Mystery - "The Boy in The Suitcase" by Lene Kaaberboel
+- April 2013 - Action/Adventure - "Wild" by Cheryl Strayed
+- March 2013 - Memoir/Biography - "Beyond Belief: My Secret Life Inside Scientology and My Harrowing Escape" by Jenna Miscavige Hill
+- February 2013 - Chick Lit - "On The Island" by Tracy Garvis Graves
+- December 2012/January 2013 - "The Paris Wife" by Paula Mclain
+- November 2012 - "The Red House" by Mark Haddon
+- October 2012 - "One Thousand White Women" by Jim Fergus
+- September 2012 - OneBook, OneRosemount - "Moon Over Manifest" by Clare Vanderpool
+- August 2012 - "The Sweetness at the Bottom of the Pie" by Alan Bradley
+- July 2012 - "The Kindness of Stranger" by Mike McIntyre
+- June 2012 - "The Kitchen House" by Kathleen Grissom
+- May 2012 - "Sarah's Key" by Tatiana de Rosnay
+- April 2012 - "Yellow Crocus" by Laila Ibrahim
+- March 2012 - "My Year With Eleanor" by Noelle Hancock
+- February 2012 - "Extremely Loud and Incredibly Close" by Jonathan Safran Foer
