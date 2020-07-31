@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books We Have Read
-
+permalink: /bookclub/booksread/
 ---
 # Here is a list of all the books we have read for book club:
 
