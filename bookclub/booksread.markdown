@@ -28,31 +28,31 @@ permalink: /bookclub/booksread/
 - **February 2019** - [The Witness Tree](https://www.amazon.com/Witness-Tree-Amy-Pendino-ebook/dp/B07H5QML1S/ref=sr_1_1?dchild=1&keywords=the+witness+tree&qid=1595966725&s=digital-text&sr=1-1) by Amy Pendino
 - **December 2018/January 2019** - [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas-ebook/dp/B01M0614T9/ref=sr_1_2?dchild=1&keywords=the+hate+you+give&qid=1595966756&s=digital-text&sr=1-2) by Angie Thomas **and/or** [The Handmaid’s Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_2?dchild=1&keywords=the+handmaid%27s+tale&qid=1595966777&s=digital-text&sr=1-2) by Margaret Atwood
 - **November 2018** - [The Alice Network](https://www.amazon.com/Alice-Network-Novel-Kate-Quinn-ebook/dp/B01LZFL63S/ref=sr_1_2?dchild=1&keywords=the+alice+network&qid=1595967228&s=digital-text&sr=1-2) by Kate Quinn
-- October 2018 * Crazy, Rich Asians by Kevin Kwan
-- September 2018 * Before We Were Yours by Lisa Wingate
-- August 2018 * American Marriage by Tayari Jones
-- July 2018 * The Good Girl by Mary Kubica
-- June 2018 * The Book that Matters Most by Ann Hood
-- May 2018 * A River in Darkness by Masaji Ishikawa
-- April 2018 * The Odds of Loving Grover Cleveland by Rebekah Crane
-- March 2018 * The Librarian of Auschwitz by Antonio Iturbe
-- February 2018 * The Subtle Art of Not Giving a F*ck by Mark Manson
-- December 2017/January 2018 * I am Malala by Malala Yousafzai OR Half the Sky by Nicholas D. Kristof and Sheryl WuDunn 
-- November 2017 * Unbroken by Laura Hillenbrand
-- October 2017 * The Girls by Emma Cline 
-- September 2017 * The Light Between Oceans by M. L. Stedman
-- August 2017 * Behind Closed Doors by B. A. Paris
-- July 2017 * Confessions of a Domestic Failure by Bunmi Laditan
-- June 2017 *  Red Queen by Victoria Aveyard
-- May 2017 *  New York by Edward Rutherford
-- April 2017 * Salt to the Sea by Ruta Sepetys
-- March 2017 * A Man Called Ove by Fredrik Backman
-- February 2017 *  Killing Hemmingway by Arthur Byrne
-- December 2016/January 2017 * The Poisonwood Bible by Barbara Kingsolver
-- November 2016 * Animal, Vegetable, Miracle by Barbara Kingsolver
-- October 2016 * Effortless With You by Lizzy Charles
-- September 2016 * Defending Jacob by William Landay
-- August 2016 * All The Light We Cannot See by Anthony Doerr
+- **October 2018** - [Crazy Rich Asians](https://www.amazon.com/Crazy-Rich-Asians-Trilogy-Book-ebook/dp/B00AP2VQEM/ref=sr_1_3?dchild=1&keywords=crazy+rich&qid=1596154594&s=digital-text&sr=1-3) by Kevin Kwan
+- **September 2018** - [Before We Were Yours](https://www.amazon.com/Before-We-Were-Yours-Novel-ebook/dp/B01M14UN1J/ref=sr_1_2?dchild=1&keywords=before+we+were+yours&qid=1596154626&s=digital-text&sr=1-2) by Lisa Wingate
+- **August 2018** - [An American Marriage](https://www.amazon.com/American-Marriage-Novel-Oprahs-Selection-ebook/dp/B01NCUXEFR/ref=sr_1_2?dchild=1&keywords=american+marriage&qid=1596154653&s=digital-text&sr=1-2) by Tayari Jones
+- **July 2018** - [The Good Girl](https://www.amazon.com/Good-Girl-addictively-suspenseful-gripping-ebook/dp/B00IB5BSBG/ref=sr_1_2?dchild=1&keywords=the+good+girl&qid=1596154686&s=digital-text&sr=1-2) by Mary Kubica
+- **June 2018** - [The Book that Matters Most](https://www.amazon.com/Book-That-Matters-Most-Novel-ebook/dp/B016CAJJ12/ref=sr_1_2?dchild=1&keywords=the+book+that+matters+most&qid=1596154718&s=digital-text&sr=1-2) by Ann Hood
+- **May 2018** - [A River in Darkness](https://www.amazon.com/River-Darkness-Escape-North-Korea-ebook/dp/B06XKRKFZL/ref=sr_1_2?dchild=1&keywords=a+river+in+darkness&qid=1596154745&s=digital-text&sr=1-2) by Masaji Ishikawa
+- **April 2018** - [The Odds of Loving Grover Cleveland](https://www.amazon.com/Odds-Loving-Grover-Cleveland-ebook/dp/B01ELCZOBM/ref=sr_1_2?crid=22DX2AHBHXGCF&dchild=1&keywords=the+odds+of+loving+grover+cleveland&qid=1596154781&s=digital-text&sprefix=the+odds+%2Cdigital-text%2C171&sr=1-2) by Rebekah Crane
+- **March 2018** - [The Librarian of Auschwitz](https://www.amazon.com/Librarian-Auschwitz-Antonio-Iturbe-ebook/dp/B06XR8L9XW/ref=sr_1_2?crid=3E25PC78TBM6M&dchild=1&keywords=the+librarian+of+auschwitz&qid=1596154808&s=digital-text&sprefix=the+libraryan+of%2Cdigital-text%2C172&sr=1-2) by Antonio Iturbe
+- **February 2018** - [The Subtle Art of Not Giving a F*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=sr_1_2?crid=U3EV2YVFUEME&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1596154838&s=digital-text&sprefix=the+subtl%2Cdigital-text%2C182&sr=1-2) by Mark Manson
+- **December 2017/January 2018** - [I am Malala](https://www.amazon.com/Am-Malala-Stood-Education-Taliban-ebook/dp/B00CH3DBNQ/ref=sr_1_2?dchild=1&keywords=I+am+malala&qid=1596154865&s=digital-text&sr=1-2) by Malala Yousafzai **OR** [Half the Sky](https://www.amazon.com/Half-Sky-Nicholas-D-Kristof-ebook/dp/B002MHOCTO/ref=sr_1_2?dchild=1&keywords=half+the+sky&qid=1596154890&s=digital-text&sr=1-2) by Nicholas D. Kristof and Sheryl WuDunn 
+- **November 2017** - [Unbroken](https://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption-ebook/dp/B003WUYPPG/ref=sr_1_2?dchild=1&keywords=unbroken&qid=1596154918&s=digital-text&sr=1-2) by Laura Hillenbrand
+- **October 2017** - [The Girls](https://www.amazon.com/Girls-Novel-Emma-Cline-ebook/dp/B015LYZH20/ref=sr_1_2?dchild=1&keywords=the+girls&qid=1596154943&s=digital-text&sr=1-2) by Emma Cline 
+- **September 2017** - [The Light Between Oceans](https://www.amazon.com/Light-Between-Oceans-Novel-ebook/dp/B0064CL1T2/ref=sr_1_2?crid=2K1WMPSUB1HCO&dchild=1&keywords=the+light+between+oceans&qid=1596154972&s=digital-text&sprefix=the+light+between+o%2Cdigital-text%2C173&sr=1-2) by M. L. Stedman
+- **August 2017** - [Behind Closed Doors](https://www.amazon.com/Behind-Closed-Doors-B-Paris-ebook/dp/B01CXO4VRI/ref=sr_1_2?dchild=1&keywords=behind+closed+doors&qid=1596155015&s=digital-text&sr=1-2) by B. A. Paris
+- **July 2017** - [Confessions of a Domestic Failure](https://www.amazon.com/Confessions-Domestic-Failure-Humorous-Perfect-ebook/dp/B01N3JKY1D/ref=sr_1_2?crid=3EO7Q93G8EHRV&dchild=1&keywords=confessions+of+a+domestic+failure&qid=1596155049&s=digital-text&sprefix=confessions+of+a+domes%2Cdigital-text%2C171&sr=1-2) by Bunmi Laditan
+- **June 2017** - [Red Queen](https://www.amazon.com/Red-Queen-Victoria-Aveyard-ebook/dp/B00KFG156C/ref=sr_1_2?dchild=1&keywords=red+queen&qid=1596155080&s=digital-text&sr=1-2) by Victoria Aveyard
+- **May 2017** - [New York](https://www.amazon.com/New-York-Novel-Edward-Rutherfurd-ebook/dp/B002PMVY3I/ref=sr_1_3?dchild=1&keywords=new+york&qid=1596155105&s=digital-text&sr=1-3) by Edward Rutherford
+- **April 2017** - [Salt to the Sea](https://www.amazon.com/Salt-Sea-Ruta-Sepetys-ebook/dp/B00YM34WM8/ref=sr_1_2?dchild=1&keywords=salt+to+the+sea&qid=1596155130&s=digital-text&sr=1-2) by Ruta Sepetys
+- **March 2017** - [A Man Called Ove](https://www.amazon.com/Man-Called-Ove-Novel-ebook/dp/B00GEEB730/ref=sr_1_2?dchild=1&keywords=a+man+called+ove&qid=1596155155&s=digital-text&sr=1-2) by Fredrik Backman
+- **February 2017** - [Killing Hemmingway](https://www.amazon.com/gp/product/B00U01ICUO/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) by Arthur Byrne
+- **December 2016/January 2017** - [The Poisonwood Bible](https://www.amazon.com/Barbara-Kingsolver-ebook/dp/B000QTE9WU/ref=sr_1_2?dchild=1&keywords=the+poisonwood+bible&qid=1596155246&s=digital-text&sr=1-2) by Barbara Kingsolver
+- **November 2016** - [Animal, Vegetable, Miracle](https://www.amazon.com/Animal-Vegetable-Miracle-10th-anniversary-ebook/dp/B01JYX7LKU/ref=sr_1_2?crid=37BJXK0OQZQUJ&dchild=1&keywords=animal+vegetable+miracle+by+barbara+kingsolver&qid=1596155273&s=digital-text&sprefix=animal+vege%2Cdigital-text%2C173&sr=1-2) by Barbara Kingsolver
+- **October 2016** - [Effortless With You](https://www.amazon.com/Effortless-You-Lizzy-Charles-ebook/dp/B00EHZVW1U/ref=sr_1_2?dchild=1&keywords=effortless+with+you&qid=1596155304&s=digital-text&sr=1-2) by Lizzy Charles
+- **September 2016** - [Defending Jacob](https://www.amazon.com/Defending-Jacob-Novel-William-Landay-ebook/dp/B0050DIWFC/ref=sr_1_2?dchild=1&keywords=defending+jacob&qid=1596155332&s=digital-text&sr=1-2) by William Landay
+- **August 2016** - [All The Light We Cannot See](https://www.amazon.com/All-Light-We-Cannot-See-ebook/dp/B00DPM7TIG/ref=sr_1_2?dchild=1&keywords=all+the+light+we+cannot+see&qid=1596155356&s=digital-text&sr=1-2) by Anthony Doerr
 - July 2016 * The Lake House by Kate Morton
 - June 2016 * The Nest by Cynthia D’Aprix Sweeney 
 - May 2016 * Me Before You by Jojo Moyes 
