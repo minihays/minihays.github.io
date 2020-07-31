@@ -53,23 +53,23 @@ permalink: /bookclub/booksread/
 - **October 2016** - [Effortless With You](https://www.amazon.com/Effortless-You-Lizzy-Charles-ebook/dp/B00EHZVW1U/ref=sr_1_2?dchild=1&keywords=effortless+with+you&qid=1596155304&s=digital-text&sr=1-2) by Lizzy Charles
 - **September 2016** - [Defending Jacob](https://www.amazon.com/Defending-Jacob-Novel-William-Landay-ebook/dp/B0050DIWFC/ref=sr_1_2?dchild=1&keywords=defending+jacob&qid=1596155332&s=digital-text&sr=1-2) by William Landay
 - **August 2016** - [All The Light We Cannot See](https://www.amazon.com/All-Light-We-Cannot-See-ebook/dp/B00DPM7TIG/ref=sr_1_2?dchild=1&keywords=all+the+light+we+cannot+see&qid=1596155356&s=digital-text&sr=1-2) by Anthony Doerr
-- July 2016 * The Lake House by Kate Morton
-- June 2016 * The Nest by Cynthia D’Aprix Sweeney 
-- May 2016 * Me Before You by Jojo Moyes 
-- April 2016 * Speak by Laurie Halse Anderson
-- March 2016 * Term Limits by Vince Flynn 
-- February 2016 * The Nightingale by Kristin Hannah
-- December 2015/January 2016 * Dept. of Speculation by Jenny Offill
-- November 2015 * The One You Love by Paul Pilkington
-- October 2015 * This Life She's Chosen by Kirsten Sundberg Lunstrum 
-- September 2015 * Exit Strategy by Kelley Armstrong
-- August 2015 * Night by Elie Wiesel
-- July 2015 * Three Wishes by Liane Moriarty
-- June 2015 * The 5th Wave by Rick Yancy
-- May 2015 * The Devil in the White City by Erik Larson
-- April 2015 * The Silver Star by Jeanette Walls
-- March 2015 * The Girl on the Train by Paula Hawkins
-- February 2015 * Wuthering Heights by Emily Bronte
+- **July 2016** - [The Lake House](https://www.amazon.com/Lake-House-Novel-Kate-Morton-ebook/dp/B00LD1S3PY/ref=sr_1_2?dchild=1&keywords=the+lake+house&qid=1596158745&s=digital-text&sr=1-2) by Kate Morton
+- **June 2016** - [The Nest](https://www.amazon.com/Nest-Cynthia-DAprix-Sweeney-ebook/dp/B010LU8V8Q/ref=sr_1_2?dchild=1&keywords=the+nest&qid=1596159014&s=digital-text&sr=1-2) by Cynthia D’Aprix Sweeney 
+- **May 2016** - [Me Before You](https://www.amazon.com/Me-Before-You-Novel-Trilogy-ebook/dp/B0089EHWQE/ref=sr_1_2?dchild=1&keywords=me+before+you&qid=1596159049&s=digital-text&sr=1-2) by Jojo Moyes 
+- **April 2016** - [Speak](https://www.amazon.com/Speak-Laurie-Halse-Anderson-ebook/dp/B004QGY36Q/ref=sr_1_2?dchild=1&keywords=speak&qid=1596159073&s=digital-text&sr=1-2) by Laurie Halse Anderson
+- **March 2016** - [Term Limits](https://www.amazon.com/Term-Limits-Vince-Flynn-ebook/dp/B002F53LYU/ref=sr_1_2?dchild=1&keywords=term+limits&qid=1596159111&s=digital-text&sr=1-2) by Vince Flynn 
+- **February 2016** - [The Nightingale](https://www.amazon.com/Nightingale-Novel-Kristin-Hannah-ebook/dp/B00JO8PEN2/ref=sr_1_2?dchild=1&keywords=the+nightingale&qid=1596159145&s=digital-text&sr=1-2) by Kristin Hannah
+- **December 2015/January 2016** [Dept. of Speculation](https://www.amazon.com/Dept-Speculation-Vintage-Contemporaries-Offill-ebook/dp/B00F1W0DV8/ref=sr_1_2?crid=1UHSIMZL56GQX&dchild=1&keywords=dept+of+speculation&qid=1596159178&s=digital-text&sprefix=dept+of+spec%2Cdigital-text%2C176&sr=1-2) by Jenny Offill
+- **November 2015** - [The One You Love](https://www.amazon.com/Love-Holden-Suspense-Mystery-Trilogy-ebook/dp/B004YDSL9Q/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1596159223&sr=1-9) by Paul Pilkington
+- **October 2015** - [This Life She's Chosen](https://www.amazon.com/This-Chosen-Kirsten-Sundberg-Lunstrum/dp/0811856569/ref=sr_1_2?crid=32RCS8JRA9EYT&dchild=1&keywords=kirsten+sundberg+lunstrum&qid=1596159300&s=digital-text&sprefix=kirsten+sun%2Cdigital-text%2C163&sr=1-2-catcorr) by Kirsten Sundberg Lunstrum 
+- **September 2015** - [Exit Strategy](https://www.amazon.com/Exit-Strategy-Nadia-Stafford-Book-ebook/dp/B000SMQFZY/ref=sr_1_7?dchild=1&keywords=exit+strategy&qid=1596159345&s=digital-text&sr=1-7) by Kelley Armstrong
+- **August 2015** - [Night](https://www.amazon.com/Night-Trilogy-Elie-Wiesel-ebook/dp/B0071VUXXA/ref=sr_1_2?dchild=1&keywords=night&qid=1596159382&s=digital-text&sr=1-2) by Elie Wiesel
+- **July 2015** - [Three Wishes](https://www.amazon.com/Three-Wishes-Novel-Liane-Moriarty-ebook/dp/B0014H32E4/ref=sr_1_2?dchild=1&keywords=three+wishes&qid=1596159405&s=digital-text&sr=1-2) by Liane Moriarty
+- **June 2015** - [The 5th Wave](https://www.amazon.com/5th-Wave-Rick-Yancey-ebook/dp/B009VMC7UO/ref=sr_1_2?dchild=1&keywords=the+fifth+wave&qid=1596159432&s=digital-text&sr=1-2) by Rick Yancy
+- **May 2015** - [The Devil in the White City](https://www.amazon.com/Devil-White-City-Changed-America-ebook/dp/B000FC0ZIA/ref=sr_1_2?dchild=1&keywords=devil+in+the+white+city&qid=1596159469&s=digital-text&sr=1-2) by Erik Larson
+- **April 2015** - [The Silver Star](https://www.amazon.com/Silver-Star-Novel-Jeannette-Walls-ebook/dp/B00A28HOEA/ref=sr_1_2?dchild=1&keywords=the+silver+star&qid=1596159496&s=digital-text&sr=1-2) by Jeanette Walls
+- **March 2015** - [The Girl on the Train](https://www.amazon.com/Girl-Train-Novel-Paula-Hawkins-ebook/dp/B00L9B7IKE/ref=sr_1_2?dchild=1&keywords=the+girl+on+the+train&qid=1596159528&s=digital-text&sr=1-2) by Paula Hawkins
+- **February 2015** - [Wuthering Heights](https://www.amazon.com/Wuthering-Heights-AmazonClassics-Emily-Bront%C3%AB-ebook/dp/B073QM98F5/ref=sr_1_3?dchild=1&keywords=wuthering+heights&qid=1596159632&sr=8-3) by Emily Bronte
 
 - December 2014/January 2015 - Classic or Historical Fiction?
 - November 2014 - Young Adult - "Althea and Oliver" by Cristina Moracho
