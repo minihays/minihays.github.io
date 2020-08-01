@@ -70,37 +70,36 @@ permalink: /bookclub/booksread/
 - **April 2015** - [The Silver Star](https://www.amazon.com/Silver-Star-Novel-Jeannette-Walls-ebook/dp/B00A28HOEA/ref=sr_1_2?dchild=1&keywords=the+silver+star&qid=1596159496&s=digital-text&sr=1-2) by Jeanette Walls
 - **March 2015** - [The Girl on the Train](https://www.amazon.com/Girl-Train-Novel-Paula-Hawkins-ebook/dp/B00L9B7IKE/ref=sr_1_2?dchild=1&keywords=the+girl+on+the+train&qid=1596159528&s=digital-text&sr=1-2) by Paula Hawkins
 - **February 2015** - [Wuthering Heights](https://www.amazon.com/Wuthering-Heights-AmazonClassics-Emily-Bront%C3%AB-ebook/dp/B073QM98F5/ref=sr_1_3?dchild=1&keywords=wuthering+heights&qid=1596159632&sr=8-3) by Emily Bronte
-
-- December 2014/January 2015 - Classic or Historical Fiction?
-- November 2014 - Young Adult - "Althea and Oliver" by Cristina Moracho
-- October 2014 -  Local Author/Debut (OneBook, OneRosemount) - "Where the Mountain Meets The Moon" by Grace Lin
-- September 2014 - Humor/Comedy  - "Is Everyone Hanging Out Without Me" by Mindy Kaling
-- August 2014 - Food/Health - "Bread and Wine: A Love Letter to Life Around the Table with Recipes" by Shauna Niequist
-- July 2014 - Travel  - "To the Moon and Timbuktu: A Trek through the Heart of Africa" by Nina Sovich
-- June 2014 - Choose Your Own Book (And report back)
-- May 2014 - Mystery - "Sharp Objects" by Gillian Flynn
-- April 2014 - Lifestyle - "The Happiness Project" by Gretchen Rubin
-- March 2014 - Memoir/Biography - "Maximum Insecurity: A Doctor in the Supermax" by William Wright, M.D.
-- February 2014 - Chick Lit - "The Storyteller" by Jodi Piccoult
-- December 2013/January 2014 - Classic - "A Tree Grows in Brooklyn" by Betty Smith
-- November 2013 - Historical Fiction - "The Book Thief" by Markus Zusak
-- October 2013 - Young Adult - "The Fault in our Stars" by John Green
-- September 2013 - Local Author/Debut - "Murder at Spirit Falls" by Barbara Deese and Dorothy Olson
-- August 2013 - Humor/Comedy - "Stop Dressing Your Six-Year-Old Like a Skank: And Other Words of Delicate Southern Wisdom" by Celia Rivenbark
-- July 2013 - SciFi - "The Maze Runner (Book 1)" by James Dashner
-- June 2013 - Travel - "Into The Wild" by Jon Krakauer
-- May 2013 - Mystery - "The Boy in The Suitcase" by Lene Kaaberboel
-- April 2013 - Action/Adventure - "Wild" by Cheryl Strayed
-- March 2013 - Memoir/Biography - "Beyond Belief: My Secret Life Inside Scientology and My Harrowing Escape" by Jenna Miscavige Hill
-- February 2013 - Chick Lit - "On The Island" by Tracy Garvis Graves
-- December 2012/January 2013 - "The Paris Wife" by Paula Mclain
-- November 2012 - "The Red House" by Mark Haddon
-- October 2012 - "One Thousand White Women" by Jim Fergus
-- September 2012 - OneBook, OneRosemount - "Moon Over Manifest" by Clare Vanderpool
-- August 2012 - "The Sweetness at the Bottom of the Pie" by Alan Bradley
-- July 2012 - "The Kindness of Stranger" by Mike McIntyre
-- June 2012 - "The Kitchen House" by Kathleen Grissom
-- May 2012 - "Sarah's Key" by Tatiana de Rosnay
-- April 2012 - "Yellow Crocus" by Laila Ibrahim
-- March 2012 - "My Year With Eleanor" by Noelle Hancock
-- February 2012 - "Extremely Loud and Incredibly Close" by Jonathan Safran Foer
+- **December 2014/January 2015** - ?? (moved across the country in December...so I don't remember what was read)
+- **November 2014** - [Althea and Oliver](https://www.amazon.com/Althea-Oliver-Cristina-Moracho-ebook/dp/B00INIXP26/ref=sr_1_1?dchild=1&keywords=althea+and+oliver&qid=1596279677&s=digital-text&sr=1-1) by Cristina Moracho
+- **October 2014** - [Where the Mountain Meets The Moon](https://www.amazon.com/Where-Mountain-Meets-Moon-Grace-ebook/dp/B0029KHT80/ref=sr_1_2?crid=3L9CV1QEB43HP&dchild=1&keywords=where+the+mountain+meets+the+moon&qid=1596279718&s=digital-text&sprefix=where+the+moun%2Cdigital-text%2C172&sr=1-2) by Grace Lin
+- **September 2014 - [Is Everyone Hanging Out Without Me](https://www.amazon.com/Everyone-Hanging-Without-Other-Concerns-ebook/dp/B004JN1D3M/ref=sr_1_2?crid=XBTSBGMIQSIH&dchild=1&keywords=is+everyone+hanging+out+without+me&qid=1596279746&s=digital-text&sprefix=is+everyone%2Cdigital-text%2C171&sr=1-2) by Mindy Kaling
+- **August 2014** - [Bread and Wine: A Love Letter to Life Around the Table with Recipes](https://www.amazon.com/Bread-Wine-Letter-Around-Recipes-ebook/dp/B008EGV68M/ref=sr_1_2?dchild=1&keywords=bread+and+wine&qid=1596279878&s=digital-text&sr=1-2) by Shauna Niequist
+- **July 2014** - [To the Moon and Timbuktu: A Trek through the Heart of Africa](https://www.amazon.com/Moon-Timbuktu-Through-Heart-Africa-ebook/dp/B00B77UDW0/ref=sr_1_1?crid=3MA3C4I15O62S&dchild=1&keywords=to+the+moon+and+timbuktu&qid=1596281747&s=digital-text&sprefix=to+the+moon+and+tim%2Cdigital-text%2C265&sr=1-1) by Nina Sovich
+- **June 2014** - Choose Your Own Book (And report back)
+- **May 2014** - [Sharp Objects](https://www.amazon.com/Sharp-Objects-Novel-Gillian-Flynn-ebook/dp/B000JMKTLO/ref=sr_1_2?dchild=1&keywords=sharp+objects&qid=1596281789&s=digital-text&sr=1-2) by Gillian Flynn
+- **April 2014** - [The Happiness Project](https://www.amazon.com/Happiness-Project-Tenth-Anniversary-Aristotle-ebook/dp/B07CRQMQ17/ref=sr_1_2?dchild=1&keywords=the+happiness+project&qid=1596281824&s=digital-text&sr=1-2) by Gretchen Rubin
+- **March 2014** - [Maximum Insecurity: A Doctor in the Supermax](https://www.amazon.com/Maximum-Insecurity-William-Wright-M-D-ebook/dp/B00HGZ8II8/ref=sr_1_fkmr1_1?dchild=1&keywords=maximum+in+security+william+wright&qid=1596281887&s=digital-text&sr=1-1-fkmr1) by William Wright, M.D.
+- **February 2014** - [The Storyteller](https://www.amazon.com/Storyteller-Jodi-Picoult-ebook/dp/B008J48RA4/ref=sr_1_2?dchild=1&keywords=the+storyteller&qid=1596281923&s=digital-text&sr=1-2) by Jodi Piccoult
+- **December 2013/January 2014** [A Tree Grows in Brooklyn](https://www.amazon.com/dp/B08F3D3ZSB/ref=sr_1_3?crid=1GFHLAT4HUPYD&dchild=1&keywords=a+tree+grows+in+brooklyn&qid=1596281963&s=digital-text&sprefix=a+tree+grows+%2Cdigital-text%2C163&sr=1-3) by Betty Smith
+- **November 2013** - [The Book Thief](https://www.amazon.com/Book-Thief-Markus-Zusak-ebook/dp/B000XUBFE2/ref=sr_1_2?dchild=1&keywords=the+book+thief&qid=1596281999&s=digital-text&sr=1-2) by Markus Zusak
+- **October 2013** - [The Fault in our Stars](https://www.amazon.com/Fault-Our-Stars-John-Green-ebook/dp/B005ZOBNOI/ref=sr_1_2?crid=1BTU7CTINO82L&dchild=1&keywords=the+fault+in+our+stars&qid=1596282036&s=digital-text&sprefix=the+fault+in+%2Cdigital-text%2C182&sr=1-2) by John Green
+- **September 2013** - [Murder at Spirit Falls](https://www.amazon.com/Murder-Spirit-Falls-Ordinary-Mysteries-ebook/dp/B01LCHE9OW/ref=sr_1_2?dchild=1&keywords=murder+at+spirit+falls&qid=1596282070&s=digital-text&sr=1-2) by Barbara Deese and Dorothy Olson
+- **August 2013** - [Stop Dressing Your Six-Year-Old Like a Skank: And Other Words of Delicate Southern Wisdom](https://www.amazon.com/Stop-Dressing-Your-Six-Year-Old-Skank-ebook/dp/B000V76ZZQ/ref=sr_1_1?crid=1CWJVPRQIU8GI&dchild=1&keywords=stop+dressing+your+six+year+old+like+a+skank&qid=1596282114&s=digital-text&sprefix=stop+dress%2Cdigital-text%2C173&sr=1-1) by Celia Rivenbark
+- **July 2013** - [The Maze Runner](https://www.amazon.com/Maze-Runner-Book-ebook/dp/B002QE3CTY/ref=sr_1_2?dchild=1&keywords=the+maze+runner&qid=1596282171&s=digital-text&sr=1-2) by James Dashner
+- **June 2013** - [Into The Wild](https://www.amazon.com/Into-Wild-Jon-Krakauer-ebook/dp/B000SEFNMS/ref=sr_1_2?dchild=1&keywords=into+the+wild&qid=1596282205&s=digital-text&sr=1-2) by Jon Krakauer
+- **May 2013** - [The Boy in The Suitcase](https://www.amazon.com/Boy-Suitcase-Nina-Borg-Book-ebook/dp/B004NNUXXE/ref=sr_1_2?dchild=1&keywords=the+boy+in+the+suitcase&qid=1596282236&s=digital-text&sr=1-2) by Lene Kaaberboel
+- **April 2013** - [Wild](https://www.amazon.com/Wild-Oprahs-Book-Club-Digital-ebook/dp/B005CRQ4XI/ref=sr_1_2?dchild=1&keywords=wild&qid=1596282265&s=digital-text&sr=1-2) by Cheryl Strayed
+- **March 2013** - [Beyond Belief: My Secret Life Inside Scientology and My Harrowing Escape](https://www.amazon.com/Beyond-Belief-Secret-Scientology-Harrowing-ebook/dp/B008XOJ7C2/ref=sr_1_2?dchild=1&keywords=beyond+belief&qid=1596282316&s=digital-text&sr=1-2) by Jenna Miscavige Hill
+- **February 2013** - [On The Island](https://www.amazon.com/Island-Novel-Tracey-Garvis-Graves-ebook/dp/B0089PFZGW/ref=sr_1_2?dchild=1&keywords=on+the+island&qid=1596282341&s=digital-text&sr=1-2) by Tracy Garvis Graves
+- **December 2012/January 2013** - [The Paris Wife](https://www.amazon.com/Paris-Wife-Novel-Paula-McLain-ebook/dp/B004DEPELY/ref=sr_1_2?dchild=1&keywords=the+paris+wife&qid=1596282369&s=digital-text&sr=1-2) by Paula Mclain
+- **November 2012** - [The Red House](https://www.amazon.com/Red-House-Novel-Mark-Haddon-ebook/dp/B006NKNGJ8/ref=sr_1_2?dchild=1&keywords=the+red+house&qid=1596282525&s=digital-text&sr=1-2) by Mark Haddon
+- **October 2012** - [One Thousand White Women](https://www.amazon.com/One-Thousand-White-Women-Journals-ebook/dp/B0042XA3OE/ref=sr_1_2?crid=3P3KNCIXSEEO&dchild=1&keywords=one+thousand+white+women&qid=1596282555&s=digital-text&sprefix=one+thousand%2Cdigital-text%2C185&sr=1-2) by Jim Fergus
+- **September 2012** - [Moon Over Manifest](https://www.amazon.com/Moon-Over-Manifest-Clare-Vanderpool-ebook/dp/B003F3FJVE/ref=sr_1_2?dchild=1&keywords=moon+over+manifest&qid=1596282637&s=digital-text&sr=1-2) by Clare Vanderpool
+- **August 2012** - [The Sweetness at the Bottom of the Pie](https://www.amazon.com/Sweetness-Bottom-Pie-Flavia-Novel-ebook/dp/B0027G6XDS/ref=sr_1_2?crid=O1YPFKF6F7E5&dchild=1&keywords=the+sweetness+at+the+bottom+of+the+pie&qid=1596282667&s=digital-text&sprefix=the+sweetness%2Cdigital-text%2C170&sr=1-2) by Alan Bradley
+- **July 2012** - [The Kindness of Stranger](https://www.amazon.com/Kindness-Strangers-Penniless-Across-America-ebook/dp/B004183KI6/ref=sr_1_5?dchild=1&keywords=the+kindness+of+strangers&qid=1596282692&s=digital-text&sr=1-5) by Mike McIntyre
+- **June 2012** - [The Kitchen House](https://www.amazon.com/Kitchen-House-Novel-Kathleen-Grissom-ebook/dp/B0034DGPEU/ref=sr_1_2?dchild=1&keywords=the+kitchen+house&qid=1596282731&s=digital-text&sr=1-2) by Kathleen Grissom
+- **May 2012** - [Sarah's Key](https://www.amazon.com/Sarahs-Key-Tatiana-Rosnay-ebook/dp/B001HNE3NO/ref=sr_1_2?dchild=1&keywords=sarah%27s+key&qid=1596282751&s=digital-text&sr=1-2) by Tatiana de Rosnay
+- **April 2012** - [Yellow Crocus](https://www.amazon.com/Yellow-Crocus-Laila-Ibrahim-ebook/dp/B00IUA8IN8/ref=sr_1_2?dchild=1&keywords=yellow+crocus&qid=1596282788&s=digital-text&sr=1-2) by Laila Ibrahim
+- **March 2012** - [My Year With Eleanor](https://www.amazon.com/My-Year-Eleanor-Noelle-Hancock-ebook/dp/B004MMEIKK/ref=sr_1_2?dchild=1&keywords=my+year+with+eleanor&qid=1596282810&s=digital-text&sr=1-2) by Noelle Hancock
+- **February 2012** - [Extremely Loud and Incredibly Close](https://www.amazon.com/Extremely-Loud-Incredibly-Close-Novel-ebook/dp/B003K16PXC/ref=sr_1_2?crid=3EFWRIAKTGOW1&dchild=1&keywords=extremely+loud+and+incredibly+close&qid=1596282834&s=digital-text&sprefix=extremely+%2Cdigital-text%2C173&sr=1-2) by Jonathan Safran Foer
