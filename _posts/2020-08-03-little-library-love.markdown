@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Little Library Love"
-categories: blog books LFL
-tags: blog books LFL
+categories: Books
+# tags: books LFL
 ---
 I have always loved seeing a [Little Free Library](https://littlefreelibrary.org/) while I am wandering around. I always take pictures of them and love to see what book treasures are inside. Some days I find lots of good books and other days, nothing is appealing to me. 
 

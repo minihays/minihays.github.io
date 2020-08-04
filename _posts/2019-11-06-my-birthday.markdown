@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Birthday!"
-categories: blog personal
+categories: Randomness
 tags: blog happy
 
 ---
