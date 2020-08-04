@@ -9,3 +9,7 @@ So during the summer of 2019, we started searching for houses and properties for
 
 Here are our adventures! 
 
+# Lake-related Blog Posts:
+{% for post in site.categories.Lake %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
