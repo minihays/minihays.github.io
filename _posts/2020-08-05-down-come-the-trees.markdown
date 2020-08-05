@@ -7,7 +7,7 @@ We had heard that sometimes the fire department would be willing to burn the pro
 
 We needed to get a tree company in to remove some trees we knew would be in the way of the new house plan. It turned out that a few others were unhealthy as well, so those were also taken down. Our neighbors on one side decided to get one of their trees taken down at the same time. We also contacted the neighbor on the other side to get permission to trim up one of their trees. The tree crew also trimmed up our huge oak tree on the lake side of the house. 
 
-![Trees](/images/Tree1.JPG)
+![Trees](/images/Trees1.JPG)
 
 ![Trees](/images/Trees2.JPG)
 
