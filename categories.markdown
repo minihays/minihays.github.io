@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /categories/
-title: Categories
+title: Blog Categories
 ---
 
-
+<!-- 
 <div id="archives">
 {% assign categories_sorted = site.categories | sort %}
 {% for category in categories_sorted %}
@@ -22,28 +22,34 @@ title: Categories
     {% endfor %}
   </div>
 {% endfor %}
-</div>
+</div> -->
 
+# All Things Books
 {% for post in site.categories.Books %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
+# All Things COVID
 {% for post in site.categories.Covid %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
+# All Things Kids
 {% for post in site.categories.Kids %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
+# All Things Lake
 {% for post in site.categories.Lake %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
+# Randomness
 {% for post in site.categories.Randomness %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
+# All Things Tech
 {% for post in site.categories.Tech %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
