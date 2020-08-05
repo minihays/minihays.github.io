@@ -30,6 +30,7 @@ instagram_username: minihays
 github_username:  minihays
 facebook_username: minihays
 linkedin_username: andihays
+show_excerpts: true
 
 # Build settings
 #theme: minima
