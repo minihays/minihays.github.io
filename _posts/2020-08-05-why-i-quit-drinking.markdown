@@ -5,7 +5,7 @@ categories: Randomness
 ---
 Yes. You read that right. I quit drinking. During a pandemic. It was something I have been pondering off and on for a while, but it felt like it was the right time for me.
 
-![NA](/images/NA.JPG)
+![NA](/images/NA.jpg)
 
 I have always felt like it was expected to have a drink in just about any social situation. My mind had taken me into a place where I didn’t really remember hanging out with certain friends and NOT having a drink. Or even very many social situations without it. My family always had drinks at events and festivities and any type of gathering. It was normal. It was expected. 
 
