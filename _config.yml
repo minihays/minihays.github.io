@@ -20,8 +20,9 @@
 
 title: andihays.dev
 email: blog@andihays.net
+copyright: ©Andi Hays 2020
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my new space for learning some web development and some blogging sprinkled in.
+  This is my new space for learning some web development and some blogging sprinkled in. My previous web playground was andihays.net. All thoughts and ideas are my own. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: minihays
