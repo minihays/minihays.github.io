@@ -3,6 +3,7 @@ layout: post
 title:  "The Fun Begins"
 categories: Lake
 ---
+![HAYS](/images/haysonthelake.jpg)
 I mentioned briefly about how we came to start our journey on the lake. The process of buying a lot, tearing a house down and building a new one has been quite the experience. And we aren't finished yet! Here is what the house looked like when we started. 
 
 ![Old House](/images/LakeHouse3.JPG)

@@ -3,6 +3,7 @@ layout: post
 title:  "Down Come The Trees"
 categories: Lake
 ---
+![Trees](/images/cuttrees.png)
 We had heard that sometimes the fire department would be willing to burn the property down and use it for training purposes. We had them come out and take a look, but ultimately, we didn't have the right set up to make it work. The plan was to have it torn down. But to make it safe to tear down, we first had to get some tree issues taken care of.
 
 We needed to get a tree company in to remove some trees we knew would be in the way of the new house plan. It turned out that a few others were unhealthy as well, so those were also taken down. Our neighbors on one side decided to get one of their trees taken down at the same time. We also contacted the neighbor on the other side to get permission to trim up one of their trees. The tree crew also trimmed up our huge oak tree on the lake side of the house. 
