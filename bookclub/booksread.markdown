@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Books We Have Read
+title: Book Club Reads
 permalink: /bookclub/booksread/
 ---
+****
 # Here is a list of all the books we have read for book club:
 
 - **November 2020** - [The House of Spirits](https://www.amazon.com/House-Spirits-Novel-Isabel-Allende-ebook/dp/B01675AB28/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963392&sr=8-2) by Isabel Allende
