@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tidbits About Me
+title: All About Andi
 permalink: /about/
 ---
 Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you.
