@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Book Club Reads
+# title: Book Club Reads
 permalink: /bookclub/booksread/
 ---
-****
-# Here is a list of all the books we have read for book club:
+<h2>- Book Club's Monthly Book Picks-</h2>
 
 - **November 2020** - [The House of Spirits](https://www.amazon.com/House-Spirits-Novel-Isabel-Allende-ebook/dp/B01675AB28/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963392&sr=8-2) by Isabel Allende
 - **October 2020** - [Vacationland](https://www.amazon.com/Vacationland-Sarah-Stonich-ebook/dp/B00C13Q2ZG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963444&sr=8-4) by Sarah Stonich
