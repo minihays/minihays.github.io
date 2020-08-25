@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Distance Learning"
-categories: COVID, Kids
+categories: [COVID, Kids]
 ---
 ![DL](/images/distance3.jpg)
 We have had a lot of decisions that have needed to be made recently as we are getting closer to being done building our house. But one decision that was really weighing on me was what we were going to do in the fall when school started. I was constantly thinking about it and was so relieved when we finally chose.
