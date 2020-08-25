@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Welcome"
+categories: [Randomness, Tech]
+---
+[ADD WELCOME IMAGE]
+Welcome to my new web playground! 
+
+Some of you (OK, probably none of you) are probably wondering why I bothered to start a new blog when the other one worked fine. For many years, I have used [Wordpress](http://wordpress.org) for my website/blog. If you've been around a while, you have probably visited [andihays.net](http://andihays.net) before. If not, feel free to go check it out. I have reproduced some of the content here (the About page for instance) with some updates. 
+
+It isn't that there was anything wrong with the old site. It was fine. But it wasn't something I was learning from. I was just inputting content or adding plugins. For a long time, I've been wanting to learn more about web development and design. Chuck thought trying [Jekyll](http://jekyllrb.com) would be a good place for me to learn more and get a bit more experience with some various tools and programming. It's something you really need to build from scratch, but it can ultimately be more customizable as I get better.
+
+I have really been having a blast playing around so far. I have changed things numerous times and it is so incredibly satisfying when what I *think* is going to happen...actually happens! I know this site is going to change and morph as I get better at navigating everything. There is huge list of things I'd like to implement as I learn more and styles/preferences change. 
+
+This is also a great way for my to become more familiar and comfortable with [GitHub](http://github.com). On GitHub, it keeps track of all your edits, additions and changes so you can look back on them and revert to something you did or see what you did to make something happen. It's really useful. I have tried using it in the past, but it never really made sense to me. Now that I have to use it to make things show up (so you can see them, not just me seeing them locally on my computer), it makes me feel like I should have figured this out sooner. :) 
+
+Currently, I have stuck with this longer than I have some of the other coding things I have done. And it's something that I am really interested in. 
+
+Ultimately, I would really love to help people make websites for personal use or their businesses in the future. And if I'm really lucky, creating websites will be something that could turn into a career or, at least, a profitable hobby. 
+
+Take a minute to look around and check out what else is here. If you have any questions, comments or suggestions, please let me know. I'm glad you stopped by!
+
+![andi](/images/andi.jpg)
