@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome"
 categories: [Randomness, Tech]
 ---
-[ADD WELCOME IMAGE]
+![welcome](/images/welcome.jpg)
 Welcome to my new web playground! 
 
 Some of you (OK, probably none of you) are probably wondering why I bothered to start a new blog when the other one worked fine. For many years, I have used [Wordpress](http://wordpress.org) for my website/blog. If you've been around a while, you have probably visited [andihays.net](http://andihays.net) before. If not, feel free to go check it out. I have reproduced some of the content here (the About page for instance) with some updates. 
