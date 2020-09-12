@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Distance Learning"
-categories: [COVID, Kids]
+categories: [COVID, Kids, Tech]
 ---
 ![DL](/images/distance3.jpg)
 We have had a lot of decisions that have needed to be made recently as we are getting closer to being done building our house. But one decision that was really weighing on me was what we were going to do in the fall when school started. I was constantly thinking about it and was so relieved when we finally chose.
@@ -14,7 +14,7 @@ I was also not interested in homeschooling the children. I know a lot of friends
 
 ![DL](/images/distance2.jpg)
 
-With distnace learning, I like that they are still getting guidance and required school-related work from a licensed teacher. They know what is best for their age levels and can do things appropriately to make sure that they aren't missing something. I am happy to be their helper or even tutor, but I didn't want the title of teacher. I think teaching them on my own would have quickly lost its appeal fairly quickly.
+With distance learning, I like that they are still getting guidance and required school-related work from a licensed teacher. They know what is best for their age levels and can do things appropriately to make sure that they aren't missing something. I am happy to be their helper or even tutor, but I didn't want the title of teacher. I think teaching them on my own would have quickly lost its appeal fairly quickly.
 
 Our oldest and youngest children wanted distance learning. They are still very hesitant to be around people full time...as am I! My middle child did initially want to go back to school. Then we told her all the ways it would be different from what she was expecting and she said "nope. That isn't something I would enjoy." 
 
