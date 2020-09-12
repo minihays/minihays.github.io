@@ -3,11 +3,11 @@ layout: page
 title: All About Andi
 permalink: /about/
 ---
-Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you.
+Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you. First, my old web playground was [andihays.net](http://andihays.net). I started this new space for a place to learn more and for a bit of a change. You can read more at my [welcome post](https://andihays.dev/randomness/tech/2020/08/01/welcome.html).
 
 ![Andi](/images/Selfie2.jpg)
 
-I am married to my best friend and the most wonderful husband ever! His name is [Chuck](http://madebychuck.com). We live in Minnesota and are the proud parents of two girls, Madeline (Maddie – Feb. 2011) and Danielle (Dannie – Nov. 2012) and a boy, Alexander (Alex – Nov. 2014).
+I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We live in Minnesota and are the proud parents of two girls, Madeline (Maddie – Feb. 2011) and Danielle (Dannie – Nov. 2012) and a boy, Alexander (Alex – Nov. 2014).
 
 ![Chuck & Andi](/images/CandA.jpg)
 
@@ -23,13 +23,17 @@ I used to work full time as a legal assistant at an Intellectual Property law fi
 
 I went back to school before my oldest was born for a couple semesters to try my hand at Computer Science. I didn’t pursue it and wish I had stuck with it. I am currently working on learning more JavaScript because i am fascinated by web development.  I love working on websites and playing around on them. So I am working on learning more front-end and back-end stuff and I’ll see where it takes me. I am learning some Jekyll as well to make more websites from scratch. I would really like to find a job doing something in tech. I know this is something I love and just need to find the right fit for me in the world of tech.
 
-Here are a couple websites I have created or helped with for friends and family:
-- [Gansers Goodies](http://gansersgoodies.com/) 
-> My dear friend and former neighbor started a baking business to sell her delicious goodies. I was so honored that she asked me to help her put together a storefront for her to sell her baked goods. If you ever need some tasty treats for an event or just because, she’s your girl!
+Here are a couple websites I have created, helped with, or maintained:
+- [Kelly, Holt & Christenson, PLLC](http://khcip.com/)
+> This is an intellectual property (patents and trademarks) law firm that I work for. They are a small firm providing big results with a powerhouse team of employees.
 - [Operation HighGround](http://operationhighground.org/)
 > This is a non-profit company my dad organized to help soldiers reintegrate into the community after serving our country.
+- [Ganser's Goodies](http://gansersgoodies.com/) 
+> A friend and former neighbor started a baking business to sell her delicious goodies. I was so honored that she asked me to help her put together a storefront for her to sell her baked goods. If you ever need some tasty treats for an event or just because, she’s your girl!
+- [andihays.net](http://andihays.net)
+> My previous blog and web playground where I learned to use Wordpress and developed skills pertaining to developing, editing and maintianing my own site.
 
-I also love to read. I listen to audio books ALL the time (while doing dishes, chores, running, in the car, any spare minute I can find) and read on my Kindle the rest of the time. I usually have a couple books going at one time in various forms (physical book, audio book and ebook). I also have managed a book club since early 2012. I am glad that my kids have become avid readers as well.
+I also **LOVE** to read. I listen to audio books ALL the time (while doing dishes, chores, running, in the car, any spare minute I can find) and read on my Kindle the rest of the time. I usually have a couple books going at one time in various forms (physical book, audio book and ebook). I also have managed a book club since early 2012. I am glad that my kids have become avid readers as well.
 
 ![Book Love](/images/booklove.jpg)
 
@@ -48,3 +52,5 @@ We recently sold that house that we had for 11 years and are currently building 
 Let me know if there is anything else you might want to know about me! I'm quite chatty (as you can probably tell) and am an open book on most things!
 
 ![Andi at the lake](/images/AndiLake.jpg)
+
+![signature](/images/andi.jpg)
