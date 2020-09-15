@@ -33,4 +33,6 @@ So these are some I have found over the years that have caught my eye. There hav
 
 Have you found any Little Free Libraries that you have loved? Do you take books when you find them? Do you ever leave books? Have you found something other than books in a LFL? 
 
-![signature](/images/andi.jpg)
+![Andi](/images/andi.jpg)
+
+----

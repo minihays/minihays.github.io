@@ -32,3 +32,5 @@ In summary, being a maximizer isn't bad, but sometimes it's just good to let it 
 What do you consider yourself to be? A maximzer? A satisficer? A little of both depending on the situation?
 
 ![signature](/images/andi.jpg)
+
+----

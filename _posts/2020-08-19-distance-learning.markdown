@@ -29,3 +29,5 @@ I must also say a HUGE thank you to all the teachers who are learning how to do 
 What have you decided to do for the school year? No judgement here because I know that nothing is the perfect option right now. 
 
 ![andi](/images/andi.jpg)
+
+----

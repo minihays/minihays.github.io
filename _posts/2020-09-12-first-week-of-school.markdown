@@ -41,3 +41,5 @@ There is definitely going to be a learning curve doing DL and we know that we ar
 Have your kids started school yet? Which way are your kids starting the year - DL, Hybrid, in-person? Best of luck to all the parents out there helping their kids in this new time. And **THANK YOU** to all the teachers out there who are working so hard to help make this year fun and educational while they are teaching in a way they never expected or could have imagined.
 
 ![signature](/images/andi.jpg)
+
+----

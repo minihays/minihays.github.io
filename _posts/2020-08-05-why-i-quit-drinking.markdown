@@ -37,3 +37,5 @@ So this is where I am. I have chatted with a couple friends about it (one who qu
 I realize that as life goes back to normal one day, I might feel a pull to drink again; hanging out more with those who do drink. But I don't think so. I think it will just be something that no one actaully cares about and just won't matter. Sometimes you just see something about yourself you aren't liking and it's ok to change that thing so you can start to like yourself again.
 
 ![Andi](/images/andi.jpg)
+
+----

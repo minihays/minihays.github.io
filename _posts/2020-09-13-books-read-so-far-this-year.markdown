@@ -40,3 +40,5 @@ So there you go. More than you expected I am sure. I tend to be a little long wi
 I love to read no matter what form the book comes in. I love having books on my kindle at all times that I can read whenever. I love having an audiobook going at the same time, too. And sometimes, I even read a physical book as well. What are you currently reading? Anything you want to recommend? Do you read more than one book at the same time?
 
 ![andi](/images/andi.jpg)
+
+----
