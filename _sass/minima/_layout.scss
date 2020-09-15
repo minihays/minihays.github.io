@@ -256,3 +256,21 @@
     }
   }
 }
+
+.PageNavigation {
+  font-size: 16px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 0px 0px 20px;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
