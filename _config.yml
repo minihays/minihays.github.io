@@ -32,6 +32,7 @@ github_username:  minihays
 facebook_username: minihays
 linkedin_username: andihays
 show_excerpts: true
+paginate: 5
 
 # Build settings
 #theme: minima
