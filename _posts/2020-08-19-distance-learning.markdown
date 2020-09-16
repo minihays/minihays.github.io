@@ -8,7 +8,7 @@ We have had a lot of decisions that have needed to be made recently as we are ge
 
 We opted for full time distance learning.
 
-There was a lot of thought and consideration that went into this decision. I don't feel like ANY of the options are perfect right now. Because none of them are normal (although, maybe this is our new normal). But our district is quite small and had made the decision to start K-4 in-person full time. That was not an option that made us comfortable. Had we starte din a hybrid model, we might have considered that more, but that was not how they are planning to start. 
+There was a lot of thought and consideration that went into this decision. I don't feel like ANY of the options are perfect right now. Because none of them are normal (although, maybe this is our new normal). But our district is quite small and had made the decision to start K-4 in-person full time. That was not an option that made us comfortable. Had we started in a hybrid model, we might have considered that more, but that was not how they are planning to start. 
 
 I was also not interested in homeschooling the children. I know a lot of friends that have pulled their kids from their districts and chosen homeschooling. And I think that is a great option. But for ME? I don't think I would have enjoyed figuring out their curriculum and being their sole teacher. It wasn't something that was appealing and I still have a job that I do remotely that I am not willing to give up. And I am extremely grateful for being able to work from home so I can have the option to choose distance learning.
 
