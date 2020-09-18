@@ -37,14 +37,14 @@ layout: default
   <div id="disqus_thread"></div>
   <script>
     var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.url | absolute_url }}';
+      this.page.url = '{{ andihays.dev }}';
+      this.page.identifier = '{{ andihays-dev.disqus.com }}';
     };
 
     (function () {
       var d = document, s = d.createElement('script');
 
-      s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+      s.src = 'https://{{minihays}}.disqus.com/embed.js';
 
       s.setAttribute('data-timestamp', +new Date());
       (d.head || d.body).appendChild(s);
@@ -69,9 +69,9 @@ layout: default
   {% endif %} -->
 
 
-  {%- if site.disqus.shortname -%}
+  <!-- {%- if site.disqus.andihays-dev -%}
   {%- include disqus_comments.html -%}
-  {%- endif -%}
+  {%- endif -%} -->
 
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
