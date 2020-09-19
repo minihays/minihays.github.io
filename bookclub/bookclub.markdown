@@ -20,8 +20,9 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 })();
 </script>
 
-----
-# -Book Blog Posts-
+![header](/images/SkinnyRainbow.jpg)
+
+# -All The Book Blog Posts-
 {% for post in site.categories.Books %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}

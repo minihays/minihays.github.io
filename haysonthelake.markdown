@@ -18,8 +18,9 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 })();
 </script>
 
-----
-# Lake-related Blog Posts:
+![header](/images/SkinnyRainbow.jpg)
+
+# All The Lake Blog Posts:
 {% for post in site.categories.Lake %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
