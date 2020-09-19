@@ -38,7 +38,14 @@ And it wouldn't be the first week of school without someone falling asleep. I we
 
 There is definitely going to be a learning curve doing DL and we know that we are the guinea pigs for everyone. I am certain we will all end up DL at some point this year. So we will just help them work out all the kinks for everyone else. Then it should be running nice and smoothly by the time everyone else needs to do it. 
 
-Have your kids started school yet? Which way are your kids starting the year - DL, Hybrid, in-person? Best of luck to all the parents out there helping their kids in this new time. And **THANK YOU** to all the teachers out there who are working so hard to help make this year fun and educational while they are teaching in a way they never expected or could have imagined.
+Best of luck to all the parents out there helping their kids in this new time. And **THANK YOU** to all the teachers out there who are working so hard to help make this year fun and educational while they are teaching in a way they never expected or could have imagined.
+
+![header](/images/SkinnyRainbow.jpg)
+**Ponder This:**
+- Have your kids started school yet? 
+- Which way are your kids starting the year - DL, Hybrid, in-person? 
+- Are you trying to work while your kids are learning at home?
+- How is it going for you, your kids and your family?
 
 ![signature](/images/andi.jpg)
 

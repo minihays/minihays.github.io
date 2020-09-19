@@ -29,7 +29,12 @@ Chuck told me I need to be more of a satisficer because he thinks it will help m
 
 In summary, being a maximizer isn't bad, but sometimes it's just good to let it go and be a satisficer. It's sometimes the best thing for you, your sanity as well as those who have to live with you. ;) 
 
-What do you consider yourself to be? A maximzer? A satisficer? A little of both depending on the situation?
+![header](/images/SkinnyRainbow.jpg)
+**Ponder This:**
+- What do you consider yourself to be? 
+- A maximzer? Why?
+- A satisficer? Why? 
+- Are you maybe a little of both depending on the situation?
 
 ![signature](/images/andi.jpg)
 

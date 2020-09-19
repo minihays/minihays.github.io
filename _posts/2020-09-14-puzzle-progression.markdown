@@ -28,7 +28,12 @@ Eventually, I made my way out of the red-orange world and then flew through the 
 
 ![puzzle](/images/Puzzle7.jpg)
 
-Do you put a puzzle together more than once? I will happily do a puzzle more than once, but I know a few people who will give them away and never do them again. I found that to be quite interesting, so I was wondering what the rest of you did. Or maybe you think doing puzzles are not fun at all, and I would totally understand that...But I think you're wrong. :) 
+![header](/images/SkinnyRainbow.jpg)
+**Ponder This:**
+- Do you put a puzzle together more than once? I will happily do a puzzle more than once, but I know a few people who will give them away and never do them again. 
+- Do you do the ouside first? 
+- Have you ever gone side to side with a puzzle like we did?
+- Or do you think doing puzzles are not fun at all? (In which case I think you're wrong. :) ) 
 
 ![andi](/images/andi.jpg)
 

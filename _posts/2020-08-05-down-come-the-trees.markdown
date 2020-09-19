@@ -23,5 +23,3 @@ Next, we will get to actually tearing down the house!! That was quite the sight!
 ![Andi](/images/andi.jpg)
 
 ----
-
-<!-- We ended up using a company that did both the tear down and excavating for the new house. It was a huge project to tear down the house and it was so fun to watch. When I thought about the size of the house, I didn't realize how much work and how long it would take to get the house taken down and then take out all of its "guts". We did install a camera to take time lapse videos and that has been quite exciting to look back at how far we have come.  -->

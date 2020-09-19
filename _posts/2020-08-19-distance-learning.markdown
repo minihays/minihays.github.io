@@ -26,7 +26,10 @@ Overall, Im just so happy to have a decision made. And one that doesn't also add
 
 I must also say a HUGE thank you to all the teachers who are learning how to do distnace learning better, who are reluctant to go back to work in schools right now, but are doing so to help children and families in ways that they need, and to all the staff in districts who are really trying to accommodate everyone. This is such a confusing time and the efforts they are making are not going unnoticed.
 
-What have you decided to do for the school year? No judgement here because I know that nothing is the perfect option right now. 
+![header](/images/SkinnyRainbow.jpg)
+**Ponder This:**
+- What have you decided to do for the school year? No judgement here because I know that there is no perfect option right now. 
+- Are you nervous (or happy, or upset) about what your school/district decided?
 
 ![andi](/images/andi.jpg)
 

@@ -37,7 +37,13 @@ Some of these books have been for book club and others have been just for fun. A
 
 So there you go. More than you expected I am sure. I tend to be a little long winded, especially when it comes to books. 
 
-I love to read no matter what form the book comes in. I love having books on my kindle at all times that I can read whenever. I love having an audiobook going at the same time, too. And sometimes, I even read a physical book as well. What are you currently reading? Anything you want to recommend? Do you read more than one book at the same time?
+I love to read no matter what form the book comes in. I love having books on my kindle at all times that I can read whenever. I love having an audiobook going at the same time, too. And sometimes, I even read a physical book as well. 
+
+![header](/images/SkinnyRainbow.jpg)
+**Ponder This:**
+- What are you currently reading? 
+- Anything you want to recommend? 
+- Do you read more than one book at the same time?
 
 ![andi](/images/andi.jpg)
 
