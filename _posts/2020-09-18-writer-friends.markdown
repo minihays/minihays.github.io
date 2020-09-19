@@ -63,7 +63,12 @@ I have not met [Angie Thomas](https://angiethomas.com/), but my mom has. Angie c
 
 Another friend has been quietly working on a book as well and she shared this fun tidbit with us at a book club gathering once. I really hope I get the chance to read her book one day!
 
-I am sure I am missing other authors I have had join us for a book club event or who I know in person. Are you an author? DO you know any authors? Do you get as excited as I do when you meet an author? 
+![header](/images/SkinnyRainbow.jpg)
+**Ponder This:** 
+- Are you an author? 
+- Do you know any authors? 
+- Do you get as excited as I do when you meet an author? 
+- What is your most memorable author run-in?
 
 ![Andi](/images/andi.jpg)
 
