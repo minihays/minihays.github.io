@@ -31,7 +31,7 @@ I cannot fathom how someone is not concerned about what her death means to our c
 
 When this upcoming election rolls around I hope you vote. I hope you vote for equal rights - gender rights, women's rights, the rights of those who need us to fight for them. I am sad and angry and ready for things to change. I'm ready to make a change. I will not be quiet as this election rolls around. I will make my voice heard and I will stand up for what is important. It is time for a change and time for something good to come out of this horrible 2020 year. 
 
-Please help make your voice heard and stand up for equality. I am important. You are important. Women are important. LBGTQ people are important. People of color are important. We need to fight for all of us. And we all need our voices heard.
+Please help make your voice heard and stand up for equality. I am important. You are important. Women are important. LBGTQ+ people are important. People of color are important. We need to fight for all of us. And we all need our voices heard.
 
 ![RBG](/images/rbg6.PNG)
 
