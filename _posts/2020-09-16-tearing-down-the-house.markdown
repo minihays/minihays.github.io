@@ -2,7 +2,6 @@
 layout: post
 title: "Tearing Down The House"
 categories: [Lake]
-comments: true
 ---
 ![teardown](/images/teardown1.JPG)
 Having the house knocked down was probably the most exciting part of our house building process. This felt like the real start to making our dream of living at the lake happen. 

@@ -2,7 +2,6 @@
 layout: post
 title: "Even More Concrete"
 categories: [Lake]
-comments: true
 ---
 ![concrete](/images/concrete8.JPG)
 The next step was to build the basement walls. This meant a whole bunch of forms needed to be dropped off. These things were HUGE and I am thankful I didn't need to move them around!

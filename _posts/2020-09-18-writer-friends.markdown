@@ -2,7 +2,6 @@
 layout: post
 title: "Writer Friends"
 categories: [Books]
-comments: true
 ---
 ![writers](/images/writer.jpg)
 If you know me at all, you know I am a lover of books and reading. One thing that has made me so happy over the years is meeting authors. And even better, when those authors become my friends.
