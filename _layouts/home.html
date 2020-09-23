@@ -4,38 +4,54 @@ layout: default
 
 <div class="home">
   {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
 
+  <!-- Place <div> tag where you want the feed to appear -->
+  <div id="curator-feed-minihays-layout">
+    <a class="crt-logo crt-tag" href="https://curator.io" target="_blank">Powered by Curator.io</a>
+  </div>
+  <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+  <script type="text/javascript">
+    /* curator-feed-minihays-layout */
+    (function () {
+      var i,
+        e,
+        d = document,
+        s = "script";
+      i = d.createElement("script");
+      i.async = 1;
+      i.src = "https://cdn.curator.io/published/877acea4-e96d-4193-b425-f0e292855841.js";
+      e = d.getElementsByTagName(s)[0];
+      e.parentNode.insertBefore(i, e);
+    })();
+  </script>
 
+  <img src="/images/SkinnyRainbow.jpg"></img><br/>
 
-  <!-- <img src="/images/SkinnyRainbow.jpg"></img><br /> -->
-
-
-  {%- if site.posts.size > 0 -%}
+{%- if site.posts.size > 0 -%}
   <h1 class="post-list-heading">{{ page.list_title | default: "- Random Thoughts About Everything & Nothing -" }}</h1>
   <ul class="post-list">
     {%- for post in site.posts -%}
-    <li>
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {% if post.excerpt != post.content %}
-      <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
-      {% endif %}
-      {%- endif -%}
-    </li>
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+          {% if post.excerpt != post.content %}
+            <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+          {% endif %}
+        {%- endif -%}
+      </li>
     {%- endfor -%}
   </ul>
-
 
 
   <!-- <p class="rss-subscribe">subscribe
