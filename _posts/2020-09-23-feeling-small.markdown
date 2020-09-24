@@ -8,7 +8,7 @@ I am feeling small. My voice is small. I’m only one person. But I want to shou
 
 Why do we need to **FIGHT** for rights at all? Why is it so unfair? And why don’t people see how unfair it is? I just can’t wrap my mind around it at all. 
 
-Why am I less than a man? Why is my black friend less than a white person? Why is my trans friend less than any other person? Why is my gay friend less than for loving whomever they choose? 
+Why am I less than a man? Why are my black friends less than white people? Why are my trans friends less than any other person? Why are my gay friends less than for loving whomever they choose? 
 
 Why do we decide these things at all? Why can’t it just be a given? 
 
