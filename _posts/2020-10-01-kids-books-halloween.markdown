@@ -60,6 +60,7 @@ Then for the younger group, we have a bunch of favorites. I am only listing a sm
 - [Happy Halloween, Stinky Face](https://www.amazon.com/Happy-Halloween-Stinky-Face-McCourt/dp/1338029207/ref=sr_1_15?crid=3URPHJX5CFOLC&dchild=1&keywords=spooky+wheels+on+the+bus&qid=1601405943&sprefix=spooky+wheels%2Caps%2C177&sr=8-15)
 - [One, Two, Boo!](https://www.amazon.com/One-Two-Boo-Kristen-Depken/dp/037584418X/ref=sr_1_17?crid=3URPHJX5CFOLC&dchild=1&keywords=spooky+wheels+on+the+bus&qid=1601405943&sprefix=spooky+wheels%2Caps%2C177&sr=8-17)
 - [Itsy Bitsy Pumpkin](https://www.amazon.com/Itsy-Bitsy-Pumpkin-Sonali-Fry/dp/1481405055/ref=sr_1_18?crid=3URPHJX5CFOLC&dchild=1&keywords=spooky+wheels+on+the+bus&qid=1601405943&sprefix=spooky+wheels%2Caps%2C177&sr=8-18)
+- [That Monster on the Block](https://www.amazon.com/dp/B07YL8Z7LF/ref=kf_lp_desktop_sb_7)
 
 It is worth noting that just about every children's series has a Halloween-themed book. If you search online for your favorite series, you will probably come across one. Finally, let's not forget that libraries are a great resource when you don't want to have a huge collection of seasonal books. If you are up for going into a library, they usually have sections dedicated to books for upcoming holidays or themes you could search through. If not, utilize their holds feature and pick up books when they are ready for you. It's wonderful. 
 
