@@ -62,7 +62,11 @@ Then for the younger group, we have a bunch of favorites. I am only listing a sm
 - [Itsy Bitsy Pumpkin](https://www.amazon.com/Itsy-Bitsy-Pumpkin-Sonali-Fry/dp/1481405055/ref=sr_1_18?crid=3URPHJX5CFOLC&dchild=1&keywords=spooky+wheels+on+the+bus&qid=1601405943&sprefix=spooky+wheels%2Caps%2C177&sr=8-18)
 - [That Monster on the Block](https://www.amazon.com/dp/B07YL8Z7LF/ref=kf_lp_desktop_sb_7)
 
-It is worth noting that just about every children's series has a Halloween-themed book. If you search online for your favorite series, you will probably come across one. Finally, let's not forget that libraries are a great resource when you don't want to have a huge collection of seasonal books. If you are up for going into a library, they usually have sections dedicated to books for upcoming holidays or themes you could search through. If not, utilize their holds feature and pick up books when they are ready for you. It's wonderful. 
+It is worth noting that just about every children's series has a Halloween-themed book. If you search online for your favorite series, you will probably come across one. 
+
+Also, since kids are back in school, don't forget to check out [Scholastic Books](https://clubs.scholastic.com/home) for some of these books. Your kids' school and class can get free books by ordering this way. And Scholastic has made it easy to ship books directly to your home.
+
+Finally, let's not forget that libraries are a great resource when you don't want to have a huge collection of seasonal books. If you are up for going into a library, they usually have sections dedicated to books for upcoming holidays or themes you could search through. If not, utilize their holds feature and pick up books when they are ready for you. It's wonderful. 
 
 I hope you found something new to check out on these lists. Happy Spooky Reading!
 
