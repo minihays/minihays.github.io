@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Protein Balls"
-categories: [Randomness, Food]
+categories: [Food]
 ---
 ![protein balls](/images/balls.JPG)
 We love these protein balls. I haven't made them in a while, but everyone was happy when they appeared in the fridge. 
