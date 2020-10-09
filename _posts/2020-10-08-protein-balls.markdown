@@ -3,7 +3,7 @@ layout: post
 title: "Protein Balls"
 categories: [Randomness, Food]
 ---
-![protein balls](/images/balls.jpg)
+![protein balls](/images/balls.JPG)
 We love these protein balls. I haven't made them in a while, but everyone was happy when they appeared in the fridge. 
 
 Years ago, a friend gave this recipe to me and I have used it a lot since then. Part of the reason I hadn't made them was because I didn't have all the ingredients. The other part was because I just wasn't motivated to make them while we weren't in our own house. I can't wait to get all my things back soon and make all my favorite goodies and use all of my kitchen supplies! It's going to be like Christmas opening up all the boxes!
