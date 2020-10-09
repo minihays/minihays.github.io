@@ -14,6 +14,11 @@ permalink: /blogcategories/
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 <br />
+# <span style="text-decoration: underline">All Things Food</span>
+{% for post in site.categories.Food %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+<br />
 # <span style="text-decoration: underline">All Things Kids</span>
 {% for post in site.categories.Kids %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
