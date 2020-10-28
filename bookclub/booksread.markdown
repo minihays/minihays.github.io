@@ -5,6 +5,11 @@ permalink: /bookclub/booksread/
 ---
 <h2>- Book Club's Monthly Book Picks-</h2>
 
+- **May 2021** - [American Dirt](https://www.amazon.com/American-Dirt-Novel-Jeanine-Cummins-ebook/dp/B07QQLCZY1/ref=sr_1_1?dchild=1&keywords=american+dirt&qid=1603851432&sr=8-1) by Jeanine Cummings
+- **April 2021** - [Group](https://www.amazon.com/Group-How-One-Therapist-Circle-Strangers-Saved-My-Life-ebook/dp/B084GBBGHS/ref=sr_1_1?dchild=1&keywords=group&qid=1603851287&sr=8-1) by Christie Tate
+- **March 2021** - [Peace Like a River](https://www.amazon.com/Peace-Like-River-Leif-Enger-ebook/dp/B0062A4882/ref=sr_1_1?crid=16K4C2TO9GDGH&dchild=1&keywords=peace+like+a+river+by+leif+enger&qid=1603850920&s=digital-text&sprefix=peace+like+a+%2Cdigital-text%2C186&sr=1-1) by Leif Enger
+- **February 2021** - [Evicted](https://www.amazon.com/Evicted-Poverty-Profit-American-City-ebook/dp/B010ZXKCAO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1603851189&sr=8-1) by Matthew Desmond
+- **December 2020/January 2021** - [Untamed](https://www.amazon.com/Untamed-Glennon-Doyle-ebook/dp/B07VSZTKJ8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1603891581&sr=1-1-791c2399-d602-4248-afbb-8a79de2d236f) by Glennon Doyle
 - **November 2020** - [The House of Spirits](https://www.amazon.com/House-Spirits-Novel-Isabel-Allende-ebook/dp/B01675AB28/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963392&sr=8-2) by Isabel Allende
 - **October 2020** - [Vacationland](https://www.amazon.com/Vacationland-Sarah-Stonich-ebook/dp/B00C13Q2ZG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963444&sr=8-4) by Sarah Stonich
 - **September 2020** - [Open Book](https://www.amazon.com/Untitled-Memoir-Lou-Htims-ebook/dp/B07GVJPXV9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963467&sr=8-2) by Jessica Simpson
