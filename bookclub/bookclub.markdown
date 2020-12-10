@@ -9,6 +9,8 @@ Most of the members of book club are avid readers even if they aren't reading ou
 
 We pick a book from our [book picks list](/bookclub/booksread/) for each month and meet in person or virtually at the end of each month. We read one book for December/January since we don't meet at the end of December. I try to get books chosen for about 6 months at a time so people have time get on waiting lists if need be. 
 
+I also keep an ongoing [wish list](https://www.amazon.com/hz/wishlist/ls/BX6IO38STJYM?ref_=wl_share) on Amazon of the books I want. Some are listed in paperback form, but usually I get Kindle ones. I like to keep track in case I have any discounts or coupons to use. Most of the books on here are for me, but some are for the kids as well. 
+
 Below are the most recent posts from my [@minihaysreads](http://instagram.com/minihaysreads/) Instagram page.
 
 <div id="curator-feed-minihaysreads-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
