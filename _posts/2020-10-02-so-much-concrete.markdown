@@ -2,7 +2,6 @@
 layout: post
 title: "So Much Concrete"
 categories: [Lake]
-comments: true
 ---
 ![concrete](/images/concrete1.JPG)
 After the house was torn down, the excavator came in to dig out the basement of the house. Then there will be lots more concrete to be poured...so much conrete!
