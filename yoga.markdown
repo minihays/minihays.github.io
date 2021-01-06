@@ -1,6 +1,6 @@
 <h1>2021 Yoga Challenge</h1>
 
-We decided to follow [Yoga With Adriene](http://www.yogawithadriene.com). This 30 day yoga journey is all about <i>-BREATH-</i>. Thank you for doing this with me!
+We decided to follow [Yoga With Adriene](https://yogawithadriene.com/breath-a-30-day-yoga-journey/). This 30 day yoga journey is all about <i>-BREATH-</i>. Thank you for doing this with me!
 
 I have added a workout tracker for us. Check your box for the day and we can see our results at the end.
 
