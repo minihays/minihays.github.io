@@ -12,14 +12,13 @@ Last night, President Biden and Vice President Harris stood to reflect and honor
 ![inauguration](/images/flags.jpeg)
 Since this year was so different for the inaugural ceremonies, flags were placed on the mall to represent the people who were not able to attend in person. What a beautiful way to show honor to the Americans who couldn't stand there and watch history being made.
 
-
 ![inauguration](/images/biden.jpg)
 
 ![inauguration](/images/kamala.png)
 Mister President and Madame Vice President took their oaths today. It was such a touching moment to see a woman hold this top office. To see a woman of color in this position was all the more heartwarming. I was crying tears of joy when she was saying her oath. It made me so proud and excited to see a woman in the White House. She will not be the last!
 
 ![inauguration](/images/bumps.jpeg){: .center-image }
-This image made me so happy. These two always look like they have so much fun. 
+This image made me so happy. These two always look like they have so much fun. Biden also didn't mince any words when he spoke of the disarray our country is in right now. Of the attacks on freedoms and our division as a nation. I am so hopeful to see every person being held accountable and each and every person being included and part of what makes America such a wonderful and diverse place to live. Our differences make us the place that we are and with acceptance, kindness and respect, we can make sure all voices are heard and prove that each and every individual person matters and is important.
 
 ![inauguration](/images/amandagorman.jpeg)
 My second most favorite part (second to seeing Kalama Harris become VP) was this amazing poem by [Amanda Gorman](https://www.instagram.com/amandascgorman/?hl=en). Here is a video of her performing her poem and the poem is reproduced below. 
