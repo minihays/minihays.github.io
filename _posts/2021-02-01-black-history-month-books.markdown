@@ -14,7 +14,7 @@ My library system provided a [variety of lists](https://www.hclib.org/about/news
 
 Here are a number of books I selected to share. I tried to include a wide variety of books for various age groups and interests. Many of them I have read and some are on my list to read this month.
 
-![Black History](/images/BHM1.JPG){: .center-image}
+![Black History](/images/BHM1.jpg){: .center-image}
 - [Homegoing](https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061) by Yaa Gyasi
 - [Such A Fun Age](https://www.amazon.com/Such-Fun-Age-Kiley-Reid/dp/052554190X/ref=sr_1_1?dchild=1&keywords=such+a+fun+age&qid=1611969397&s=books&sr=1-1) by Kiley Reid
 - [You Should See Me In A Crown](https://www.amazon.com/You-Should-See-Me-Crown-ebook/dp/B07YBTCB9F/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1611969442&sr=1-1) by Leah Johnson
@@ -27,7 +27,7 @@ Here are a number of books I selected to share. I tried to include a wide variet
 - [Ada Twist And The Perilous Pants](https://www.amazon.com/Ada-Twist-Perilous-Pants-Questioneers/dp/1419734229/ref=sr_1_3?dchild=1&keywords=ada+twist&qid=1611969946&s=books&sr=1-3) by Andrea Beaty and is a chapter book. And not pictured, but this is a similar book for younger kids: [Ada Twist Scientist](https://www.amazon.com/Ada-Twist-Scientist-Andrea-Beaty/dp/1419721372/ref=sr_1_1?dchild=1&keywords=ada+twist&qid=1611969996&s=books&sr=1-1).
 - [Sulwe](https://www.amazon.com/Sulwe-Lupita-Nyongo/dp/1534425365/ref=sr_1_1?dchild=1&keywords=sulwe&qid=1611970149&s=books&sr=1-1) by Lupita Nyong'o
 
-![Black History](/images/BHM2.JPG){: .center-image}
+![Black History](/images/BHM2.jpg){: .center-image}
 - [Hair Love](https://www.amazon.com/Hair-Love-Matthew-Cherry/dp/0525553363/ref=sr_1_1?dchild=1&keywords=hair+love&qid=1611970312&s=books&sr=1-1) by Matthew A. Cherry
 - [The Vanishing Half](https://www.amazon.com/Vanishing-Half-Novel-Brit-Bennett-ebook/dp/B07XNG5L99/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1611970881&sr=1-1) by Brit Bennett. Another great one by her is [The Mothers](https://www.amazon.com/gp/product/B01BD1SSO4/ref=dbs_a_def_rwt_bibl_vppi_i1).
 - [Becoming](https://www.amazon.com/Becoming-Michelle-Obama/dp/1524763136/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1611973739&sr=1-1) by Michelle Obama
@@ -39,7 +39,7 @@ Here are a number of books I selected to share. I tried to include a wide variet
 - [Ambitious Girl](https://www.amazon.com/Ambitious-Girl-Meena-Harris/dp/0316229695/ref=sr_1_1?dchild=1&keywords=ambitious+Girl&qid=1611974975&s=books&sr=1-1) by Meena Harris
 - [Amazing Grace](https://www.amazon.com/Amazing-Grace-Grace-picture-Books-Hoffman/dp/0803710402/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1611975084&sr=1-2) by Mary Hoffman. There are a couple other [books about Grace](https://marymhoffman.wixsite.com/maryh1/grace-books) as well.
 
-![Black History](/images/BHM3.JPG){: .center-image}
+![Black History](/images/BHM3.jpg){: .center-image}
 - [Monster Trouble](https://www.amazon.com/Monster-Trouble-Lane-Fredrickson/dp/1454913452/ref=sr_1_1?dchild=1&keywords=monster+trouble&qid=1611975583&s=books&sr=1-1) by Lane Fredrickson
 - [Hidden Figures](https://www.amazon.com/Hidden-Figures-Story-Black-Women/dp/0062742469/ref=sr_1_2?dchild=1&keywords=hidden+figures&qid=1611975624&s=books&sr=1-2) by Margot Lee Shetterly which is a picture book. There is also an [adult novel](https://www.amazon.com/Hidden-Figures-American-Untold-Mathematicians/dp/0062363603/ref=sr_1_1?dchild=1&keywords=hidden+figures&qid=1611975693&s=books&sr=1-1) and a version adapted for [young readers](https://www.amazon.com/Hidden-Figures-Readers-Margot-Shetterly/dp/0062662376/ref=pd_bxgy_img_3/143-2307029-6305411?_encoding=UTF8&pd_rd_i=0062662376&pd_rd_r=7f58d910-3381-4481-b5cf-4e15a98f73bf&pd_rd_w=mjfK3&pd_rd_wg=zoQ5i&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=P4N21TDAW4NDBNBR5TGR&psc=1&refRID=P4N21TDAW4NDBNBR5TGR).
 - [I Love My Hair](https://www.amazon.com/Love-Hair-Natasha-Anastasia-Tarpley/dp/0316523755/ref=sr_1_1?dchild=1&keywords=I+love+my+hair&qid=1611975766&s=books&sr=1-1) by Natasha Anastasia Tarpley
