@@ -3,6 +3,8 @@ layout: page
 title: Books & Reading
 permalink: /bookclub/
 ---
+![rainbow](/images/skinnyRainbow.jpg)
+
 Welcome to my little corner about all things book related! I have always been a lover of books and reading since I was very young. I still read all the time and am doing my best to raise kids who love reading and grow up to be readers. I usually have more than one book going at a time in various forms (ebook on my Kindle, a physical book, an audiobook, and a couple books I am reading to the kids or with an individual child). 
 
 Another fun fact is I started a book club many years ago when my oldest was very young. We are nearing 9 years for our little group that has changed and grown over the years. Currently, we have a [group on Facebook](http://facebook.com/groups/bookwormsandpuzzlepiecers/) where we do a lot of our communication. I also recently learned about Amazon Book Clubs and added [our group](https://www.amazon.com/amazonbookclubs/detail/amzn1.club.bookclub.28ba7cf3-de83-fac6-efe0-4252034d9917?) on there as well. 
