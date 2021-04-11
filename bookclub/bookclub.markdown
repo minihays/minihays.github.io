@@ -3,7 +3,7 @@ layout: page
 title: Books & Reading
 permalink: /bookclub/
 ---
-![rainbow](/images/skinnyRainbow.jpg)
+![rainbow](/images/SkinnyRainbow.jpg)
 
 Welcome to my little corner about all things book related! I have always been a lover of books and reading since I was very young. I still read all the time and am doing my best to raise kids who love reading and grow up to be readers. I usually have more than one book going at a time in various forms (ebook on my Kindle, a physical book, an audiobook, and a couple books I am reading to the kids or with an individual child). 
 
