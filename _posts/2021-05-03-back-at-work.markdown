@@ -3,7 +3,7 @@ layout: post
 title: "Back At Work"
 categories: [COVID, Randomness, Tech]
 ---
-![office](/images/office2.jpeg)
+![office](/images/office4.jpeg)
 I've recently been going into the office for work now that the kids have been back at school. It has been so wonderful!
 
 I came outside to leave while the kids were waiting for the bus with Chuck and was told I looked different...I was wearing clothes people wear to go to work. Which honestly was jeans, a shirt, a sweater (all things I usually wear), but I had added a necklace and high heels. They were flabbergasted. I was happy as a clam to be wearing heels even when most people at the office don't dress up. 
