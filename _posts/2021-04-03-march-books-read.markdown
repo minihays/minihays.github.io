@@ -8,7 +8,7 @@ I was shocked last month when I read 16 books. And here I am again, sharing 16 m
 
 All but one of the books this month (And We Came Outside And Saw The Stars Again - which was a compilation of aruthors' works) is by a woman author. And this wasn't by accident since March is Women's History Month. I made an effort to pass on books that were on my to-read this if they weren't by females this month. It was really nice filling my reading with so many female authors. I have so many more I want to read, but
 
-I enjoyed the majority of the books this month, but if you want full reviews, check out my [bookstagram page](http://instagram.com/minihaysreads). I have also decided that ranking books isn't something I am going to do anymore, starting in April. I will do another blog post on this expanation soon.
+I enjoyed the majority of the books this month, but if you want full reviews, check out my [bookstagram page](http://instagram.com/minihaysreads). I have also decided that ranking books isn't something I am going to do anymore, starting in April. I will do another blog post on this explanation soon.
 
 Here is a summary and a link for each of the books. 
 

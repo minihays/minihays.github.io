@@ -4,7 +4,7 @@ title: "No More Book Ranking"
 categories: [Books]
 ---
 ![stars](/images/stars.png)
-I have decided that rating books (with 5 stars or whatever other arbitrary numbering system you choose) is no longer for me. There are a few reasons for this and if you are intersted in my why...keep reading.
+I have decided that rating books (with 5 stars or whatever other arbitrary numbering system you choose) is no longer for me. There are a few reasons for this and if you are interested in my why...keep reading.
 
 I have been pondering this for quite some time. Why do we rate or rank books? Everyone feels so differently about books and reasonates with books in their own way. Why does my rating mean anything?
 
