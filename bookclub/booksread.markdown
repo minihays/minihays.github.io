@@ -3,14 +3,14 @@ layout: page
 # title: Book Club Reads
 permalink: /bookclub/booksread/
 ---
-<h2>- Book Club's Monthly Book Picks-</h2>
+<h2>- Book Club's Monthly Book Picks -</h2>
 
 - **November 2021** - [This Is How It Always Is](https://www.amazon.com/This-How-Always-LAURIE-FRANKEL/dp/1250088569/ref=sr_1_1?dchild=1&keywords=this+is+how+it+always+is&qid=1619566329&sr=8-1) by Laurie Frankel
 - **October 2021** - [Firekeeper's Daughter](https://www.amazon.com/Firekeepers-Daughter-Angeline-Boulley/dp/1250766567) by Angeline Boulley
 - **September 2021** - [The Haunting Of Brynn Wilder](https://www.amazon.com/Haunting-Brynn-Wilder-Novel-ebook/dp/B0844QT2FT/ref=sr_1_1?dchild=1&keywords=haunting+of+brynn+wilder&qid=1619566273&sr=8-1) by Wendy Webb
 - **August 2021** - [The Henna Artist](https://www.amazon.com/Henna-Artist-Novel-Alka-Joshi/dp/0778331474/ref=sr_1_1?dchild=1&keywords=the+henna+artist&qid=1619566238&sr=8-1) by Alka Joshi
-- **July 2021** - [Beach Read](https://www.amazon.com/Beach-Read-Emily-Henry/dp/1984806734/ref=sr_1_1?dchild=1&keywords=beach+read&qid=1619566208&sr=8-1) by Emily Henry
-- **June 2021** - [The Radium Girls](https://www.amazon.com/Radium-Girls-Story-Americas-Shining/dp/149264935X) by Kate Moore
+- **July 2021** - [The Radium Girls](https://www.amazon.com/Radium-Girls-Story-Americas-Shining/dp/149264935X) by Kate Moore
+- **June 2021** - [Beach Read](https://www.amazon.com/Beach-Read-Emily-Henry/dp/1984806734/ref=sr_1_1?dchild=1&keywords=beach+read&qid=1619566208&sr=8-1) by Emily Henry
 - **May 2021** - [American Dirt](https://www.amazon.com/American-Dirt-Novel-Jeanine-Cummins-ebook/dp/B07QQLCZY1/ref=sr_1_1?dchild=1&keywords=american+dirt&qid=1603851432&sr=8-1) by Jeanine Cummings
 - **April 2021** - [Group](https://www.amazon.com/Group-How-One-Therapist-Circle-Strangers-Saved-My-Life-ebook/dp/B084GBBGHS/ref=sr_1_1?dchild=1&keywords=group&qid=1603851287&sr=8-1) by Christie Tate
 - **March 2021** - [Peace Like a River](https://www.amazon.com/Peace-Like-River-Leif-Enger-ebook/dp/B0062A4882/ref=sr_1_1?crid=16K4C2TO9GDGH&dchild=1&keywords=peace+like+a+river+by+leif+enger&qid=1603850920&s=digital-text&sprefix=peace+like+a+%2Cdigital-text%2C186&sr=1-1) by Leif Enger
