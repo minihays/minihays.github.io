@@ -40,6 +40,7 @@ permalink: /links/
 - [Alex's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/BX6IO38STJYM?ref_=wl_share)
 
 <span style="text-decoration: underline">Bookish Links:</span>
+- [Book Club Book Picks List](/bookclub/booksread/)
 - [Andi's Amazon Book Wish List](https://www.amazon.com/hz/wishlist/ls/3IS6FYQDSCTD0/ref=nav_wishlist_lists_3?_encoding=UTF8&type=wishlist)
 - [Hays Kids Amazon Book With List](https://www.amazon.com/hz/wishlist/genericItemsPage/EY284C689ZRR)
 
