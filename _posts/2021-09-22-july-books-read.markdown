@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "July Books Read"
+title: "The Books I Read - July 2021"
 categories: [Books]
 ---
 ![books](/images/July2021Books.JPG)
