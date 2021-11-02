@@ -5,6 +5,7 @@ permalink: /bookclub/booksread/
 ---
 <h2>- Book Club's Monthly Book Picks -</h2>
 
+- **December 2021/January 2022** - [Lies My Teacher Told Me](https://www.amazon.com/gp/product/1620973928?ref_=abc_aa_bsp_r_ds_srw_cdc&storeType=ebooks) by James W. Loewen
 - **November 2021** - [This Is How It Always Is](https://www.amazon.com/This-How-Always-LAURIE-FRANKEL/dp/1250088569/ref=sr_1_1?dchild=1&keywords=this+is+how+it+always+is&qid=1619566329&sr=8-1) by Laurie Frankel
 - **October 2021** - [Firekeeper's Daughter](https://www.amazon.com/Firekeepers-Daughter-Angeline-Boulley/dp/1250766567) by Angeline Boulley
 - **September 2021** - [The Haunting Of Brynn Wilder](https://www.amazon.com/Haunting-Brynn-Wilder-Novel-ebook/dp/B0844QT2FT/ref=sr_1_1?dchild=1&keywords=haunting+of+brynn+wilder&qid=1619566273&sr=8-1) by Wendy Webb
