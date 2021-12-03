@@ -5,7 +5,8 @@ permalink: /bookclub/booksread/
 ---
 <h2>- Book Club's Monthly Book Picks -</h2>
 
-- **December 2021/January 2022** - [Lies My Teacher Told Me](https://www.amazon.com/gp/product/1620973928?ref_=abc_aa_bsp_r_ds_srw_cdc&storeType=ebooks) by James W. Loewen
+- **January 2022** - [Anxious People](https://www.amazon.com/Anxious-People-Novel-Fredrik-Backman/dp/1501160842/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1638494279&sr=1-1) by Frederik Bachman
+- **December 2021** - [Choose Your Own Autobiography](https://www.amazon.com/Neil-Patrick-Harris-Target/dp/0804187088/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Neil Patrick Harris
 - **November 2021** - [This Is How It Always Is](https://www.amazon.com/This-How-Always-LAURIE-FRANKEL/dp/1250088569/ref=sr_1_1?dchild=1&keywords=this+is+how+it+always+is&qid=1619566329&sr=8-1) by Laurie Frankel
 - **October 2021** - [Firekeeper's Daughter](https://www.amazon.com/Firekeepers-Daughter-Angeline-Boulley/dp/1250766567) by Angeline Boulley
 - **September 2021** - [The Haunting Of Brynn Wilder](https://www.amazon.com/Haunting-Brynn-Wilder-Novel-ebook/dp/B0844QT2FT/ref=sr_1_1?dchild=1&keywords=haunting+of+brynn+wilder&qid=1619566273&sr=8-1) by Wendy Webb
