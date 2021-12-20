@@ -4,7 +4,7 @@ title: "The Books I Read - September 2021"
 categories: [Books]
 ---
 ![books](/images/September2021Books.JPG)
-These are the 8 books I completed in August. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
+These are the 8 books I completed in September. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
 
 Here is a link for each of the books and summaries for each. I hope you find something that looks interesting to you. 
 
