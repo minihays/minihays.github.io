@@ -4,7 +4,7 @@ title: "The Books I Read - December 2021"
 categories: [Books]
 ---
 ![books](/images/December2021Books.JPG)
-These are the 18(!!) books I completed in December. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). I think next month/year I will just post links to each of the books instead of the descriptions for each. Then if there are any you are interested in, you can go and read a blurb about them. 
+These are the 18(!!) books I completed in December. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). I think next month/year (which is actually this month because I am still trying to get caught up) I will just post links to each of the books instead of the descriptions for each. Then if there are any you are interested in, you can go and read a blurb about them. 
 
 Here is a link for each of the books and summaries for each. I hope you find something that looks interesting to you. 
 
