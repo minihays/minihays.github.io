@@ -31,7 +31,8 @@ permalink: /links/
   </script>
 - [@minihaysreads](http://instagram.com/minihaysreads/) - Instagram page containing all things books/reading
 - [@haysonthelake](http://instagram.com/haysonthelake/) - Instagram page about building a house and moving to the lake
-- [@minihaysbento](http://www.instagram.com/minihaysbento/) - Instagram page about kid lunches and other food related things
+- [@minihays.eats](http://www.instagram.com/minihays.eats/) - Instagram page about kid lunches and other food related things
+- [@technicallyscattered](http://www.instagram.com/technicallyscattered/) - Instagram page about STEAM, tech and advocating for women & girls in these fields
 - [madebychuck.com](http://madebychuck.com) - My hubby's web page
 - [jigsawpuzzles.io](http://jigsawpuzzles.io) - A fun site to do puzzles online (alone, with friends or with random players)
 - [Andi's Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/OSDMB7W5CJP0?ref_=wl_share)
