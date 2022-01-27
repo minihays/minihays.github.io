@@ -8,7 +8,7 @@ These are the 13 books I completed in November. If you want a little more on my 
 
 Here is a link for each of the books and summaries for each. I hope you find something that looks interesting to you. 
 
-1. [This Is How It Always is](https://www.amazon.com/This-How-Always-Laurie-Frankel-ebook/dp/B01HW6Z3FG/ref=sr_1_1?crid=18EIEDVC83X4G&keywords=this+is+how+it+always+is&qid=1641607507&sprefix=this+is+how%2Caps%2C201&sr=8-1) by Laurie Frankel
+1. [This Is How It Always Is](https://www.amazon.com/This-How-Always-Laurie-Frankel-ebook/dp/B01HW6Z3FG/ref=sr_1_1?crid=18EIEDVC83X4G&keywords=this+is+how+it+always+is&qid=1641607507&sprefix=this+is+how%2Caps%2C201&sr=8-1) by Laurie Frankel
 >*This is how* a family keeps a secret…and how that secret ends up keeping them.
 >
 >*This is how* a family lives happily ever after…until happily ever after becomes complicated.
