@@ -7,7 +7,7 @@ permalink: /about/
 
 Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you. First, my old web playground was [andihays.net](http://andihays.net). I started this new space for a place to learn more and for a bit of a change. You can read more at my [welcome post](https://andihays.dev/randomness/tech/2020/08/01/welcome.html).
 
-![Andi](/images/RinkMom.JPG){: .smaller-image .center-image}
+![Andi](/images/RinkMom.jpg){: .smaller-image .center-image}
 
 I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We live in Minnesota and are the proud parents of two girls, Madeline (Maddie – 2/2011) and Danielle (Dannie – 11/2012) and a boy, Alexander (Alex – 11/2014).
 
