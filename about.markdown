@@ -15,7 +15,7 @@ I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the be
 
 We are busy people. I am a tad bit lazy by nature, but thankfully Chuck doesn’t sit still very well and keeps us active. We do projects around the house (he’s VERY handy), take trips, go camping, go boating, go tubing (we love being on the lake!), go fishing, bike ride, swim, go on walks, downhill ski, play hockey, play softball, he coaches hockey and softball for the kids and a multitude of other things. Life’s too short to sit around. A lot of our recent activities include parks or activities to entertain the kiddos!
 
-![Hays Crew](/images/HaysExplore.jpg){: .smaller-image .center-image}
+![Hays Crew](/images/HaysExplore.JPG){: .smaller-image .center-image}
 
 Along with being very active, we are advocates for STEM and STEAM. We are teaching our kids all about coding, math, science, technology and art, have robots all over the house and a dedicated room for crafts, building and being creative. We used to host two [First LEGO League Jr.](https://www.firstinspires.org/robotics/fll) teams with our kids and some of their friends. It has been such an amazing experience to help these kids get excited about programming and seeing their ideas come to life. We are hoping to start a group at our middle school starting fall 2022.
 
@@ -45,7 +45,7 @@ I keep a blog because I want to “journal” things. I am glad to have readers,
 
 I get incredibly nervous to try new things, but I am working to get over that fear. It’s quite debilitating at times and frankly no fun. I am mostly afraid to fail. I am learning that failing is ok. You learn from it and grow. So it isn’t all bad!
 
-![Hays on the 4th](/images/Xmas2021.JPG){: .smaller-image .center-image}
+![Hays Xmas](/images/Xmas2021.jpg){: .smaller-image .center-image}
 
 My hubby currently works for [Google](http://google.com). He works with some of the most interesting and smartest people I know. And he is the smartest of them all (I’m not biased at all!). This guy never ceases to amaze me with all he knows and all he can do! He is always building something and working on various projects. He is so amazing! 
 
