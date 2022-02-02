@@ -4,7 +4,7 @@ title: "The Books I Read - January 2022"
 categories: [Books]
 ---
 ![books](/images/January2022Books.jpg)
-Somehow, I completed 21 books in January. I think that might be a record for me. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
+Somehow I completed 21 books in January. I think that might be a record for me. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
 
 Here is a link for each of the books. I hope you find something that looks interesting to you. 
 
