@@ -5,6 +5,17 @@ permalink: /bookclub/booksread/
 ---
 <h2>- Book Club's Monthly Book Picks -</h2>
 
+- **December 2022** - [Twenty-Four Hours In The Life Of A Woman](https://www.amazon.com/Twenty-Four-Hours-Woman-Stefan-Zweig/dp/1782272151) by Stefan Zweig (Austria)
+- **November 2022** - [Zuleikha](https://www.amazon.com/Zuleikha-Guzel-Yakhina/dp/1786073498) by Guzel Yakhina (Russia, Siberia)
+- **October 2022** - [The Good Life Elsewhere](https://www.amazon.com/Good-Life-Elsewhere-Vladimir-Lorchenkov/dp/1939931010) by Vladimir Lorchenkov (Moldova)
+- **September 2022** - [The Girl With Seven Names](https://www.amazon.com/Girl-Seven-Names-Korean-Defectors-ebook/dp/B00JD3ZL9U) by Hyeonseo Lee (North Korea)
+- **August 2022** - [Half Of A Yellow Sun](https://www.amazon.com/Half-Yellow-Chimamanda-Ngozi-Adichie/dp/1400095204) by  Chimamanda Ngozi Adichie (Nigeria)
+- **July 2022** - [Annie John](https://www.amazon.com/Annie-John-Novel-Jamaica-Kincaid/dp/0374525102) by Jamaica Kincaid (Antigua/Barbados)
+- **June 2022** - [Disgrace](https://www.amazon.com/Disgrace-Novel-J-M-Coetzee/dp/0140296409) by J.M. Coetzee AND/OR [Born A Crime](https://www.amazon.com/Born-Crime-Stories-African-Childhood-ebook/dp/B01DHWACVY) by Trevor Noah (South Africa)
+- **May 2022** - [The Boy Who Harnessed The Wind](https://www.amazon.com/Boy-Who-Harnessed-Wind-Electricity/dp/0061730335) by William Kamkwamba (Malawi)
+- **April 2022** - [Murmur Of Bees](https://www.amazon.com/Murmur-Bees-Sofia-Segovia-ebook/dp/B07GNCQXXB) by Sofia Segovia (Mexico)
+- **March 2022** - [Anxious People](https://www.amazon.com/Anxious-People-Novel-Fredrik-Backman/dp/1501160834) by Fredrik Bachman (Sweden)
+- **February 2022** - [Out Of Africa](https://www.amazon.com/Africa-Modern-Library-Nonfiction-Books/dp/0679600213) by Isak Dinesen (Africa, Denmark)
 - **January 2022** - [Unaccustomed Earth](https://www.amazon.com/Unaccustomed-Earth-Jhumpa-Lahiri-ebook/dp/B0011UGLK6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1639967166&sr=8-1) by Jhumpa Lahiri (Cambridge, Seattle, India, Thailand)
 - **December 2021** - [Choose Your Own Autobiography](https://www.amazon.com/Neil-Patrick-Harris-Target/dp/0804187088/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Neil Patrick Harris
 - **November 2021** - [This Is How It Always Is](https://www.amazon.com/This-How-Always-LAURIE-FRANKEL/dp/1250088569/ref=sr_1_1?dchild=1&keywords=this+is+how+it+always+is&qid=1619566329&sr=8-1) by Laurie Frankel
