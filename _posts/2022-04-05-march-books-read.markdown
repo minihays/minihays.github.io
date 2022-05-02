@@ -4,7 +4,7 @@ title: "The Books I Read - March 2022"
 categories: [Books]
 ---
 ![books](/images/March2022Books.JPG)
-I read 8 books in February. This was a pretty slow month. I actually had a lot of books ready at the library, but I skipped over a number of them this month. I just wasn't in the mood for some of them at the time. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
+I read 8 books in March. This was a pretty slow month. I actually had a lot of books ready at the library, but I skipped over a number of them this month. I just wasn't in the mood for some of them at the time. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
 
 Here is a link for each of the books. I hope you find something that looks interesting to you. 
 
