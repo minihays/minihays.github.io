@@ -4,7 +4,7 @@ title: "What Is Wrong With People?"
 categories: [Randomness]
 ---
 ![Uvalde](/images/uvalde.jpeg)
-I have some feelings on the events that have happened recently. I have had this written but hadn't posted it yet.
+I have some feelings on the events that have happened recently. I had this written but hadn't posted it yet.
 
 Why are people carrying guns into a school and killing 21 people - 19 KIDS and 2 TEACHERS, injuring and changing the lives of 17 others and killing their grandmother beforehand? Why are people bringing guns into a grocery store and killing 10 innocent people? Why is a mother carrying around a shotgun and then shooting her 6 year old “up to 9 times”? Why are we allowing this to continue? How is this possible and happening in 2022? 
 
