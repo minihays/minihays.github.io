@@ -45,7 +45,7 @@ I keep a blog because I want to “journal” things. I am glad to have readers,
 
 I get incredibly nervous to try new things, but I am working to get over that fear. It’s quite debilitating at times and frankly no fun. I am mostly afraid to fail. I am learning that failing is ok. You learn from it and grow. So it isn’t all bad!
 
-![Hays Xmas](/images/Xmas2021.jpg){: .smaller-image .center-image}
+![Hays Xmas](/images/Hays2022.JPG){: .smaller-image .center-image}
 
 My hubby currently works for [Google](http://google.com). He works with some of the most interesting and smartest people I know. And he is the smartest of them all (I’m not biased at all!). This guy never ceases to amaze me with all he knows and all he can do! He is always building something and working on various projects. He is so amazing! 
 
