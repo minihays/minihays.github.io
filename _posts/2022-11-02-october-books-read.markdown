@@ -22,7 +22,7 @@ Here is a link for each of the books. I hope you find something that looks inter
 
 7. [Josh And Hazel's Guide To Not Dating](https://smile.amazon.com/Josh-Hazels-Guide-Not-Dating/dp/1501165852/ref=monarch_sidesheet) by Christina Lauren
 
-8. [13 Story Treehouse](https://smile.amazon.com/13-Story-Treehouse-Monkey-Mayhem-Books/dp/1250070651/ref=monarch_sidesheet) by Andy Griffiths and Terry Denton
+8. [The 13-Story Treehouse](https://smile.amazon.com/13-Story-Treehouse-Monkey-Mayhem-Books/dp/1250070651/ref=monarch_sidesheet) by Andy Griffiths and Terry Denton
 
 9. [Ahmed Aziz's Epic Year](https://smile.amazon.com/Ahmed-Azizs-Epic-Year-Hamza/dp/0063024896/ref=monarch_sidesheet) by Nina Hamza
 
@@ -30,7 +30,7 @@ Here is a link for each of the books. I hope you find something that looks inter
 
 11. [The Fate Of Mercy Alban](https://smile.amazon.com/Fate-Mercy-Alban-Wendy-Webb/dp/1401341934/ref=monarch_sidesheet) by Wendy Webb
 
-10. [And Yet](https://smile.amazon.com/Yet-Poems-Kate-Baer/dp/0063115557/ref=monarch_sidesheet) by Kate Baer
+12. [And Yet](https://smile.amazon.com/Yet-Poems-Kate-Baer/dp/0063115557/ref=monarch_sidesheet) by Kate Baer
 
 ![Andi](/images/andi.jpg)
 
