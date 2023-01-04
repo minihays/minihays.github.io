@@ -12,6 +12,8 @@ permalink: /bookclub/booksread/
 - **MARCH 2023** - [The Book of Essie](https://smile.amazon.com/Book-Essie-Meghan-MacLean-Weir/dp/0525436073/ref=monarch_sidesheet) by Meghan MacLean Weir
 - **FEBRUARY 2023** - [The Sentence](https://smile.amazon.com/Sentence-Novel-Louise-Erdrich/dp/0062671138/ref=monarch_sidesheet) by Louise Erdich
 - **JANUARY 2023** - [Young Jane Young](https://smile.amazon.com/Young-Jane-Novel-Gabrielle-Zevin/dp/1616208694/ref=monarch_sidesheet) by Gabrielle Zevin
+
+----
 - **December 2022** - [Twenty-Four Hours In The Life Of A Woman](https://www.amazon.com/Twenty-Four-Hours-Woman-Stefan-Zweig/dp/1782272151) by Stefan Zweig (Austria)
 - **November 2022** - [Zuleikha](https://www.amazon.com/Zuleikha-Guzel-Yakhina/dp/1786073498) by Guzel Yakhina (Russia, Siberia)
 - **October 2022** - [The Good Life Elsewhere](https://www.amazon.com/Good-Life-Elsewhere-Vladimir-Lorchenkov/dp/1939931010) by Vladimir Lorchenkov (Moldova)
@@ -24,6 +26,8 @@ permalink: /bookclub/booksread/
 - **March 2022** - [Anxious People](https://www.amazon.com/Anxious-People-Novel-Fredrik-Backman/dp/1501160834) by Fredrik Bachman (Sweden)
 - **February 2022** - [Out Of Africa](https://www.amazon.com/Africa-Modern-Library-Nonfiction-Books/dp/0679600213) by Isak Dinesen (Africa, Denmark)
 - **January 2022** - [Unaccustomed Earth](https://www.amazon.com/Unaccustomed-Earth-Jhumpa-Lahiri-ebook/dp/B0011UGLK6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1639967166&sr=8-1) by Jhumpa Lahiri (Cambridge, Seattle, India, Thailand)
+
+----
 - **December 2021** - [Choose Your Own Autobiography](https://www.amazon.com/Neil-Patrick-Harris-Target/dp/0804187088/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Neil Patrick Harris
 - **November 2021** - [This Is How It Always Is](https://www.amazon.com/This-How-Always-LAURIE-FRANKEL/dp/1250088569/ref=sr_1_1?dchild=1&keywords=this+is+how+it+always+is&qid=1619566329&sr=8-1) by Laurie Frankel
 - **October 2021** - [Firekeeper's Daughter](https://www.amazon.com/Firekeepers-Daughter-Angeline-Boulley/dp/1250766567) by Angeline Boulley
@@ -35,6 +39,8 @@ permalink: /bookclub/booksread/
 - **April 2021** - [Group](https://www.amazon.com/Group-How-One-Therapist-Circle-Strangers-Saved-My-Life-ebook/dp/B084GBBGHS/ref=sr_1_1?dchild=1&keywords=group&qid=1603851287&sr=8-1) by Christie Tate
 - **March 2021** - [Peace Like a River](https://www.amazon.com/Peace-Like-River-Leif-Enger-ebook/dp/B0062A4882/ref=sr_1_1?crid=16K4C2TO9GDGH&dchild=1&keywords=peace+like+a+river+by+leif+enger&qid=1603850920&s=digital-text&sprefix=peace+like+a+%2Cdigital-text%2C186&sr=1-1) by Leif Enger
 - **February 2021** - [Evicted](https://www.amazon.com/Evicted-Poverty-Profit-American-City-ebook/dp/B010ZXKCAO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1603851189&sr=8-1) by Matthew Desmond
+
+----
 - **December 2020/January 2021** - [Untamed](https://www.amazon.com/Untamed-Glennon-Doyle-ebook/dp/B07VSZTKJ8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1603891581&sr=1-1-791c2399-d602-4248-afbb-8a79de2d236f) by Glennon Doyle
 - **November 2020** - [The House of Spirits](https://www.amazon.com/House-Spirits-Novel-Isabel-Allende-ebook/dp/B01675AB28/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963392&sr=8-2) by Isabel Allende
 - **October 2020** - [Vacationland](https://www.amazon.com/Vacationland-Sarah-Stonich-ebook/dp/B00C13Q2ZG/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1595963444&sr=8-4) by Sarah Stonich
@@ -46,6 +52,8 @@ permalink: /bookclub/booksread/
 - **April 2020** - [The Giver of Stars](https://www.amazon.com/Giver-Stars-Novel-Jojo-Moyes-ebook/dp/B07NKP3JL4/ref=sr_1_2?dchild=1&keywords=the+giver+of+stars&qid=1595963611&s=digital-text&sr=1-2) by Jojo Moyes
 - **March 2020** - [Three Women](https://www.amazon.com/Three-Women-Lisa-Taddeo-ebook/dp/B07MNJS37D/ref=sr_1_2?dchild=1&keywords=three+women&qid=1595963633&s=digital-text&sr=1-2) by Lisa Taddeo
 - **February 2020** - [The Glass Castle](https://www.amazon.com/Glass-Castle-Memoir-Jeannette-Walls-ebook/dp/B000OVLKMM/ref=sr_1_2?dchild=1&keywords=the+glass+castle&qid=1595963657&s=digital-text&sr=1-2) by Jeannette Walls
+
+----
 - **December 2019/January 2020** - [The Goldfinch](https://www.amazon.com/Goldfinch-Novel-Pulitzer-Prize-Fiction-ebook/dp/B00BAXFECK/ref=sr_1_2?dchild=1&keywords=the+goldfinch&qid=1595966238&s=digital-text&sr=1-2) by Donna Tartt
 - **November 2019** - [The Princess Bride](https://www.amazon.com/Princess-Bride-Morgensterns-Classic-Adventure-ebook/dp/B003IEJZRY/ref=sr_1_2?dchild=1&keywords=the+princess+bride&qid=1595966283&s=digital-text&sr=1-2) by William Goldman
 - **October 2019** - [The Rent Collector](https://www.amazon.com/Rent-Collector-Camron-Wright-ebook/dp/B0091X6T4I/ref=sr_1_2?dchild=1&keywords=the+rent+collector&qid=1595966317&s=digital-text&sr=1-2) by Camron Wright
@@ -57,6 +65,8 @@ permalink: /bookclub/booksread/
 - **April 2019** - [The Immortalists](https://www.amazon.com/Immortalists-Chloe-Benjamin-ebook/dp/B071D3D2ZX/ref=sr_1_2?crid=107D7K9QOTOJP&dchild=1&keywords=the+immortalists&qid=1595966613&s=digital-text&sprefix=the+immor%2Cdigital-text%2C301&sr=1-2) by Chloe Benjamin
 - **March 2019** - [Neither Wolf, Nor Dog](https://www.amazon.com/Neither-Wolf-nor-25th-Anniversary-ebook/dp/B07VT9R1W4/ref=sr_1_2?crid=2PJKZO7KMINBY&dchild=1&keywords=neither+wolf+nor+dog+by+kent+nerburn&qid=1595966652&s=digital-text&sprefix=neither+wolf%2Cdigital-text%2C-1&sr=1-2) by Kent Nerburn
 - **February 2019** - [The Witness Tree](https://www.amazon.com/Witness-Tree-Amy-Pendino-ebook/dp/B07H5QML1S/ref=sr_1_1?dchild=1&keywords=the+witness+tree&qid=1595966725&s=digital-text&sr=1-1) by Amy Pendino
+
+----
 - **December 2018/January 2019** - [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas-ebook/dp/B01M0614T9/ref=sr_1_2?dchild=1&keywords=the+hate+you+give&qid=1595966756&s=digital-text&sr=1-2) by Angie Thomas **and/or** [The Handmaid’s Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_2?dchild=1&keywords=the+handmaid%27s+tale&qid=1595966777&s=digital-text&sr=1-2) by Margaret Atwood
 - **November 2018** - [The Alice Network](https://www.amazon.com/Alice-Network-Novel-Kate-Quinn-ebook/dp/B01LZFL63S/ref=sr_1_2?dchild=1&keywords=the+alice+network&qid=1595967228&s=digital-text&sr=1-2) by Kate Quinn
 - **October 2018** - [Crazy Rich Asians](https://www.amazon.com/Crazy-Rich-Asians-Trilogy-Book-ebook/dp/B00AP2VQEM/ref=sr_1_3?dchild=1&keywords=crazy+rich&qid=1596154594&s=digital-text&sr=1-3) by Kevin Kwan
@@ -68,6 +78,8 @@ permalink: /bookclub/booksread/
 - **April 2018** - [The Odds of Loving Grover Cleveland](https://www.amazon.com/Odds-Loving-Grover-Cleveland-ebook/dp/B01ELCZOBM/ref=sr_1_2?crid=22DX2AHBHXGCF&dchild=1&keywords=the+odds+of+loving+grover+cleveland&qid=1596154781&s=digital-text&sprefix=the+odds+%2Cdigital-text%2C171&sr=1-2) by Rebekah Crane
 - **March 2018** - [The Librarian of Auschwitz](https://www.amazon.com/Librarian-Auschwitz-Antonio-Iturbe-ebook/dp/B06XR8L9XW/ref=sr_1_2?crid=3E25PC78TBM6M&dchild=1&keywords=the+librarian+of+auschwitz&qid=1596154808&s=digital-text&sprefix=the+libraryan+of%2Cdigital-text%2C172&sr=1-2) by Antonio Iturbe
 - **February 2018** - [The Subtle Art of Not Giving a F*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=sr_1_2?crid=U3EV2YVFUEME&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1596154838&s=digital-text&sprefix=the+subtl%2Cdigital-text%2C182&sr=1-2) by Mark Manson
+
+----
 - **December 2017/January 2018** - [I am Malala](https://www.amazon.com/Am-Malala-Stood-Education-Taliban-ebook/dp/B00CH3DBNQ/ref=sr_1_2?dchild=1&keywords=I+am+malala&qid=1596154865&s=digital-text&sr=1-2) by Malala Yousafzai **OR** [Half the Sky](https://www.amazon.com/Half-Sky-Nicholas-D-Kristof-ebook/dp/B002MHOCTO/ref=sr_1_2?dchild=1&keywords=half+the+sky&qid=1596154890&s=digital-text&sr=1-2) by Nicholas D. Kristof and Sheryl WuDunn 
 - **November 2017** - [Unbroken](https://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption-ebook/dp/B003WUYPPG/ref=sr_1_2?dchild=1&keywords=unbroken&qid=1596154918&s=digital-text&sr=1-2) by Laura Hillenbrand
 - **October 2017** - [The Girls](https://www.amazon.com/Girls-Novel-Emma-Cline-ebook/dp/B015LYZH20/ref=sr_1_2?dchild=1&keywords=the+girls&qid=1596154943&s=digital-text&sr=1-2) by Emma Cline 
@@ -79,6 +91,8 @@ permalink: /bookclub/booksread/
 - **April 2017** - [Salt to the Sea](https://www.amazon.com/Salt-Sea-Ruta-Sepetys-ebook/dp/B00YM34WM8/ref=sr_1_2?dchild=1&keywords=salt+to+the+sea&qid=1596155130&s=digital-text&sr=1-2) by Ruta Sepetys
 - **March 2017** - [A Man Called Ove](https://www.amazon.com/Man-Called-Ove-Novel-ebook/dp/B00GEEB730/ref=sr_1_2?dchild=1&keywords=a+man+called+ove&qid=1596155155&s=digital-text&sr=1-2) by Fredrik Backman
 - **February 2017** - [Killing Hemmingway](https://www.amazon.com/gp/product/B00U01ICUO/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) by Arthur Byrne
+
+----
 - **December 2016/January 2017** - [The Poisonwood Bible](https://www.amazon.com/Barbara-Kingsolver-ebook/dp/B000QTE9WU/ref=sr_1_2?dchild=1&keywords=the+poisonwood+bible&qid=1596155246&s=digital-text&sr=1-2) by Barbara Kingsolver
 - **November 2016** - [Animal, Vegetable, Miracle](https://www.amazon.com/Animal-Vegetable-Miracle-10th-anniversary-ebook/dp/B01JYX7LKU/ref=sr_1_2?crid=37BJXK0OQZQUJ&dchild=1&keywords=animal+vegetable+miracle+by+barbara+kingsolver&qid=1596155273&s=digital-text&sprefix=animal+vege%2Cdigital-text%2C173&sr=1-2) by Barbara Kingsolver
 - **October 2016** - [Effortless With You](https://www.amazon.com/Effortless-You-Lizzy-Charles-ebook/dp/B00EHZVW1U/ref=sr_1_2?dchild=1&keywords=effortless+with+you&qid=1596155304&s=digital-text&sr=1-2) by Lizzy Charles
@@ -90,6 +104,8 @@ permalink: /bookclub/booksread/
 - **April 2016** - [Speak](https://www.amazon.com/Speak-Laurie-Halse-Anderson-ebook/dp/B004QGY36Q/ref=sr_1_2?dchild=1&keywords=speak&qid=1596159073&s=digital-text&sr=1-2) by Laurie Halse Anderson
 - **March 2016** - [Term Limits](https://www.amazon.com/Term-Limits-Vince-Flynn-ebook/dp/B002F53LYU/ref=sr_1_2?dchild=1&keywords=term+limits&qid=1596159111&s=digital-text&sr=1-2) by Vince Flynn 
 - **February 2016** - [The Nightingale](https://www.amazon.com/Nightingale-Novel-Kristin-Hannah-ebook/dp/B00JO8PEN2/ref=sr_1_2?dchild=1&keywords=the+nightingale&qid=1596159145&s=digital-text&sr=1-2) by Kristin Hannah
+
+----
 - **December 2015/January 2016** [Dept. of Speculation](https://www.amazon.com/Dept-Speculation-Vintage-Contemporaries-Offill-ebook/dp/B00F1W0DV8/ref=sr_1_2?crid=1UHSIMZL56GQX&dchild=1&keywords=dept+of+speculation&qid=1596159178&s=digital-text&sprefix=dept+of+spec%2Cdigital-text%2C176&sr=1-2) by Jenny Offill
 - **November 2015** - [The One You Love](https://www.amazon.com/Love-Holden-Suspense-Mystery-Trilogy-ebook/dp/B004YDSL9Q/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1596159223&sr=1-9) by Paul Pilkington
 - **October 2015** - [This Life She's Chosen](https://www.amazon.com/This-Chosen-Kirsten-Sundberg-Lunstrum/dp/0811856569/ref=sr_1_2?crid=32RCS8JRA9EYT&dchild=1&keywords=kirsten+sundberg+lunstrum&qid=1596159300&s=digital-text&sprefix=kirsten+sun%2Cdigital-text%2C163&sr=1-2-catcorr) by Kirsten Sundberg Lunstrum 
@@ -101,6 +117,8 @@ permalink: /bookclub/booksread/
 - **April 2015** - [The Silver Star](https://www.amazon.com/Silver-Star-Novel-Jeannette-Walls-ebook/dp/B00A28HOEA/ref=sr_1_2?dchild=1&keywords=the+silver+star&qid=1596159496&s=digital-text&sr=1-2) by Jeanette Walls
 - **March 2015** - [The Girl on the Train](https://www.amazon.com/Girl-Train-Novel-Paula-Hawkins-ebook/dp/B00L9B7IKE/ref=sr_1_2?dchild=1&keywords=the+girl+on+the+train&qid=1596159528&s=digital-text&sr=1-2) by Paula Hawkins
 - **February 2015** - [Wuthering Heights](https://www.amazon.com/Wuthering-Heights-AmazonClassics-Emily-Bront%C3%AB-ebook/dp/B073QM98F5/ref=sr_1_3?dchild=1&keywords=wuthering+heights&qid=1596159632&sr=8-3) by Emily Bronte
+
+----
 - **December 2014/January 2015** - ?? (moved across the country in December...so I don't remember what was read)
 - **November 2014** - [Althea and Oliver](https://www.amazon.com/Althea-Oliver-Cristina-Moracho-ebook/dp/B00INIXP26/ref=sr_1_1?dchild=1&keywords=althea+and+oliver&qid=1596279677&s=digital-text&sr=1-1) by Cristina Moracho
 - **October 2014** - [Where the Mountain Meets The Moon](https://www.amazon.com/Where-Mountain-Meets-Moon-Grace-ebook/dp/B0029KHT80/ref=sr_1_2?crid=3L9CV1QEB43HP&dchild=1&keywords=where+the+mountain+meets+the+moon&qid=1596279718&s=digital-text&sprefix=where+the+moun%2Cdigital-text%2C172&sr=1-2) by Grace Lin
@@ -112,6 +130,8 @@ permalink: /bookclub/booksread/
 - **April 2014** - [The Happiness Project](https://www.amazon.com/Happiness-Project-Tenth-Anniversary-Aristotle-ebook/dp/B07CRQMQ17/ref=sr_1_2?dchild=1&keywords=the+happiness+project&qid=1596281824&s=digital-text&sr=1-2) by Gretchen Rubin
 - **March 2014** - [Maximum Insecurity: A Doctor in the Supermax](https://www.amazon.com/Maximum-Insecurity-William-Wright-M-D-ebook/dp/B00HGZ8II8/ref=sr_1_fkmr1_1?dchild=1&keywords=maximum+in+security+william+wright&qid=1596281887&s=digital-text&sr=1-1-fkmr1) by William Wright, M.D.
 - **February 2014** - [The Storyteller](https://www.amazon.com/Storyteller-Jodi-Picoult-ebook/dp/B008J48RA4/ref=sr_1_2?dchild=1&keywords=the+storyteller&qid=1596281923&s=digital-text&sr=1-2) by Jodi Piccoult
+
+----
 - **December 2013/January 2014** [A Tree Grows in Brooklyn](https://www.amazon.com/dp/B08F3D3ZSB/ref=sr_1_3?crid=1GFHLAT4HUPYD&dchild=1&keywords=a+tree+grows+in+brooklyn&qid=1596281963&s=digital-text&sprefix=a+tree+grows+%2Cdigital-text%2C163&sr=1-3) by Betty Smith
 - **November 2013** - [The Book Thief](https://www.amazon.com/Book-Thief-Markus-Zusak-ebook/dp/B000XUBFE2/ref=sr_1_2?dchild=1&keywords=the+book+thief&qid=1596281999&s=digital-text&sr=1-2) by Markus Zusak
 - **October 2013** - [The Fault in our Stars](https://www.amazon.com/Fault-Our-Stars-John-Green-ebook/dp/B005ZOBNOI/ref=sr_1_2?crid=1BTU7CTINO82L&dchild=1&keywords=the+fault+in+our+stars&qid=1596282036&s=digital-text&sprefix=the+fault+in+%2Cdigital-text%2C182&sr=1-2) by John Green
@@ -123,6 +143,8 @@ permalink: /bookclub/booksread/
 - **April 2013** - [Wild](https://www.amazon.com/Wild-Oprahs-Book-Club-Digital-ebook/dp/B005CRQ4XI/ref=sr_1_2?dchild=1&keywords=wild&qid=1596282265&s=digital-text&sr=1-2) by Cheryl Strayed
 - **March 2013** - [Beyond Belief: My Secret Life Inside Scientology and My Harrowing Escape](https://www.amazon.com/Beyond-Belief-Secret-Scientology-Harrowing-ebook/dp/B008XOJ7C2/ref=sr_1_2?dchild=1&keywords=beyond+belief&qid=1596282316&s=digital-text&sr=1-2) by Jenna Miscavige Hill
 - **February 2013** - [On The Island](https://www.amazon.com/Island-Novel-Tracey-Garvis-Graves-ebook/dp/B0089PFZGW/ref=sr_1_2?dchild=1&keywords=on+the+island&qid=1596282341&s=digital-text&sr=1-2) by Tracy Garvis Graves
+
+----
 - **December 2012/January 2013** - [The Paris Wife](https://www.amazon.com/Paris-Wife-Novel-Paula-McLain-ebook/dp/B004DEPELY/ref=sr_1_2?dchild=1&keywords=the+paris+wife&qid=1596282369&s=digital-text&sr=1-2) by Paula Mclain
 - **November 2012** - [The Red House](https://www.amazon.com/Red-House-Novel-Mark-Haddon-ebook/dp/B006NKNGJ8/ref=sr_1_2?dchild=1&keywords=the+red+house&qid=1596282525&s=digital-text&sr=1-2) by Mark Haddon
 - **October 2012** - [One Thousand White Women](https://www.amazon.com/One-Thousand-White-Women-Journals-ebook/dp/B0042XA3OE/ref=sr_1_2?crid=3P3KNCIXSEEO&dchild=1&keywords=one+thousand+white+women&qid=1596282555&s=digital-text&sprefix=one+thousand%2Cdigital-text%2C185&sr=1-2) by Jim Fergus
