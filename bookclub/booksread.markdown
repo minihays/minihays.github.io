@@ -1,10 +1,11 @@
 ---
 layout: page
-# title: Book Club Reads
+# title: Book Club Monthly Book Picks
 permalink: /bookclub/booksread/
 ---
-<h2>- Book Club's Monthly Book Picks -</h2>
+<h2>Book Club's Monthly Book Picks</h2>
 
+![header](/images/SkinnyRainbow.jpg)
 - **JULY 2023** - [Lessons in Chemistry](https://smile.amazon.com/Lessons-Chemistry-Garmus-Bonnie/dp/1804990922/ref=monarch_sidesheet) by Boonie Garmus
 - **JUNE 2023** - [The Book of Hope](https://smile.amazon.com/Book-Hope-Goodall-Jane-Abram/dp/0241479460/ref=monarch_sidesheet) by Jane Goodall
 - **MAY 2023** - [The Seed Keeper](https://smile.amazon.com/Seed-Keeper-Novel-Diane-Wilson/dp/1571311378/ref=monarch_sidesheet) by Diane Wilson
