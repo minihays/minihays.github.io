@@ -5,13 +5,13 @@ permalink: /bookclub/booksread/
 ---
 <h2>- Book Club's Monthly Book Picks -</h2>
 
-- **July 2023** - [Lessons in Chemistry](https://smile.amazon.com/Lessons-Chemistry-Garmus-Bonnie/dp/1804990922/ref=monarch_sidesheet) by Boonie Garmus
-- **June 2023** - [The Book of Hope](https://smile.amazon.com/Book-Hope-Goodall-Jane-Abram/dp/0241479460/ref=monarch_sidesheet) by Jane Goodall
-- **May 2023** - [The Seed Keeper](https://smile.amazon.com/Seed-Keeper-Novel-Diane-Wilson/dp/1571311378/ref=monarch_sidesheet) by Diane Wilson
-- **April 2023** - [The Seven Husbands of Evelyn Hugo](https://smile.amazon.com/Seven-Husbands-Evelyn-Hugo-Novel/dp/1501161938/ref=monarch_sidesheet) by Taylor Jenkins Reid
-- **March 2023** - [The Book of Essie](https://smile.amazon.com/Book-Essie-Meghan-MacLean-Weir/dp/0525436073/ref=monarch_sidesheet) by Meghan MacLean Weir
-- **February 2023** - [The Sentence](https://smile.amazon.com/Sentence-Novel-Louise-Erdrich/dp/0062671138/ref=monarch_sidesheet) by Louise Erdich
-- **January 2023** - [Young Jane Young](https://smile.amazon.com/Young-Jane-Novel-Gabrielle-Zevin/dp/1616208694/ref=monarch_sidesheet) by Gabrielle Zevin
+- **JULY 2023** - [Lessons in Chemistry](https://smile.amazon.com/Lessons-Chemistry-Garmus-Bonnie/dp/1804990922/ref=monarch_sidesheet) by Boonie Garmus
+- **JUNE 2023** - [The Book of Hope](https://smile.amazon.com/Book-Hope-Goodall-Jane-Abram/dp/0241479460/ref=monarch_sidesheet) by Jane Goodall
+- **MAY 2023** - [The Seed Keeper](https://smile.amazon.com/Seed-Keeper-Novel-Diane-Wilson/dp/1571311378/ref=monarch_sidesheet) by Diane Wilson
+- **APRIL 2023** - [The Seven Husbands of Evelyn Hugo](https://smile.amazon.com/Seven-Husbands-Evelyn-Hugo-Novel/dp/1501161938/ref=monarch_sidesheet) by Taylor Jenkins Reid
+- **MARCH 2023** - [The Book of Essie](https://smile.amazon.com/Book-Essie-Meghan-MacLean-Weir/dp/0525436073/ref=monarch_sidesheet) by Meghan MacLean Weir
+- **FEBRUARY 2023** - [The Sentence](https://smile.amazon.com/Sentence-Novel-Louise-Erdrich/dp/0062671138/ref=monarch_sidesheet) by Louise Erdich
+- **JANUARY 2023** - [Young Jane Young](https://smile.amazon.com/Young-Jane-Novel-Gabrielle-Zevin/dp/1616208694/ref=monarch_sidesheet) by Gabrielle Zevin
 - **December 2022** - [Twenty-Four Hours In The Life Of A Woman](https://www.amazon.com/Twenty-Four-Hours-Woman-Stefan-Zweig/dp/1782272151) by Stefan Zweig (Austria)
 - **November 2022** - [Zuleikha](https://www.amazon.com/Zuleikha-Guzel-Yakhina/dp/1786073498) by Guzel Yakhina (Russia, Siberia)
 - **October 2022** - [The Good Life Elsewhere](https://www.amazon.com/Good-Life-Elsewhere-Vladimir-Lorchenkov/dp/1939931010) by Vladimir Lorchenkov (Moldova)
