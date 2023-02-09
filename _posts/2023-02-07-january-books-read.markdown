@@ -4,7 +4,9 @@ title: "The Books I Read - January 2023"
 categories: [Books]
 ---
 ![books](/images/January2023Books.JPG)
-I read 16 books in January. If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
+Here are the books I read in January. I decided I wasn't going to do (1/100) on instagram this year and just keep track of the total number. I am still working on how I might want to display them and I may change this to a bullet list instead of a numbered one. It could be one way or the other depending on when you look at this and what mood I am in. :) 
+
+If you want a little more on my thoughts for each of the books, check out my [bookstagram page - @minihaysreads](http://instagram.com/minihaysreads). 
 
 Here is a link for each of the books. I hope you find something that looks interesting to you. 
 
