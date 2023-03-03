@@ -18,7 +18,7 @@ Here is a link for each of the books. I hope you find something that looks inter
 
 4. [Hester](https://smile.amazon.com/Hester-Novel-Laurie-Lico-Albanese/dp/1250825164/ref=monarch_sidesheet) by Laurie Lico Albanese
 
-5. [The Boy With The Bookstore](hhttps://smile.amazon.com/Boy-Bookstore-Sarah-Echavarre-Smith/dp/0593545982/ref=monarch_sidesheet) by Sarah Echavarre Smith
+5. [The Boy With The Bookstore](https://smile.amazon.com/Boy-Bookstore-Sarah-Echavarre-Smith/dp/0593545982/ref=monarch_sidesheet) by Sarah Echavarre Smith
 
 6. [Love On The Brain](https://smile.amazon.com/Love-Brain-Ali-Hazelwood/dp/0593336844/ref=monarch_sidesheet) by Ali Hazelwood
 
