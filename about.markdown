@@ -9,7 +9,7 @@ Let’s see. What might someone want to know about me? Probably not nearly as mu
 
 ![Andi](/images/RinkMom.jpg){: .smaller-image .center-image}
 
-I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We started dating over 21 years ago and have been married almost 19 years. We live in on a lake in Minnesota and have three amazing kids!
+I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We started dating over 21 years ago and have been married almost 19 years. We live on a lake in Minnesota and have three amazing kids!
 
 ![Chuck & Andi](/images/CandA.jpg){: .smaller-image .center-image}
 
@@ -47,11 +47,11 @@ I get incredibly nervous to try new things, but I am working to get over that fe
 
 ![Hays Xmas](/images/Hays2022.JPG){: .smaller-image .center-image}
 
-My hubby currently works for [Google](http://google.com). He works with some of the most interesting and smartest people I know. And he is the smartest of them all (I’m not biased at all!). This guy never ceases to amaze me with all he knows and all he can do! He is always building something and working on various projects. He is so amazing! 
+My husband currently works for [Google](http://google.com). He works with some of the most interesting and smartest people I know. And he is the smartest of them all (not that I am biased at all!). This guy never ceases to amaze me with all he knows and all he can do! He is always building something and working on various projects. He is so amazing! 
 
-When my hubby got a job at Google, we uprooted ourselves from Minnesota and moved to Seattle.  We were there for a year and decided it wasn’t a place we wanted to stay and moved back home. Chuck still works for Google (working remotely) and we moved back into our house in Minnesota which was both weird and convenient. 
+When my hubby got a job at Google, we uprooted ourselves from Minnesota and moved to Seattle.  We were there for a year and decided it wasn’t a place we wanted to stay and moved back home. Chuck continued to work for Google (remotely) and we moved back into our house in Minnesota which was both weird and convenient. 
 
-We sold that house that we had for 11 years and built our dream home on Lake Minnetonka and moved in October 2020. We thought long and hard about getting a cabin, but with the sports our kids play, weekends away just wouldn't really work. So we started to pursue the idea of living on the lake full time. We found a perfect place to build the house we want and have been enjoying (and at times going a little crazy) with the process. 
+We sold that house that we had for 11 years and built our dream home on Lake Minnetonka and moved in October 2020. We thought long and hard about getting a cabin, but with the sports our kids play, weekends away just wouldn't really work for our family. So, we started to pursue the idea of living on the lake full time. We found a perfect place to build the house we wanted and enjoyed (and went a little crazy at times) with the process. 
 
 ![Andi at the lake](/images/AndiLake.jpg){: .smaller-image .center-image}
 
