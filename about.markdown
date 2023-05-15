@@ -9,7 +9,7 @@ Let’s see. What might someone want to know about me? Probably not nearly as mu
 
 ![Andi](/images/RinkMom.jpg){: .smaller-image .center-image}
 
-I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We live in Minnesota and are the proud parents of two girls, Madeline (Maddie – 2/2011) and Danielle (Dannie – 11/2012) and a boy, Alexander (Alex – 11/2014).
+I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We started dating over 21 years ago and have been married almost 19 years. We live in on a lake in Minnesota and have three amazing kids!
 
 ![Chuck & Andi](/images/CandA.jpg){: .smaller-image .center-image}
 
