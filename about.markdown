@@ -13,11 +13,11 @@ I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the be
 
 ![Chuck & Andi](/images/CandA.jpg){: .smaller-image .center-image}
 
-We are busy people. I am a tad bit lazy by nature, but thankfully Chuck doesn’t sit still very well and keeps us active. We do projects around the house (he’s VERY handy), take trips, go camping, go boating, go tubing (we love being on the lake!), go fishing, bike ride, swim, go on walks, downhill ski, play hockey, play softball, he coaches hockey and softball for the kids and a multitude of other things. Life’s too short to sit around. A lot of our recent activities include parks or activities to entertain the kiddos!
+We are busy people. I am a tad bit lazy by nature, but thankfully Chuck doesn’t sit still very well and keeps us active. We do projects around the house (he’s VERY handy), take trips, go camping, go boating, go tubing, wake surfing, water skiing (we love being on the lake!), go fishing, bike ride, swim, go on walks, downhill ski, play hockey, coaching sports and more. Life’s too short to sit around. 
 
 ![Hays Crew](/images/HaysExplore.JPG){: .smaller-image .center-image}
 
-Along with being very active, we are advocates for STEM and STEAM. We are teaching our kids all about coding, math, science, technology and art, have robots all over the house and a dedicated room for crafts, building and being creative. We used to host two [First LEGO League Jr.](https://www.firstinspires.org/robotics/fll) teams with our kids and some of their friends. It has been such an amazing experience to help these kids get excited about programming and seeing their ideas come to life. We are hoping to start a group at our middle school starting fall 2022.
+Along with being very active, we are advocates for STEM and STEAM. We are teaching our kids all about coding, math, science, technology and art, have robots all over the house and a dedicated room for crafts, building and being creative. We run the [First LEGO League Jr.](https://www.firstinspires.org/robotics/fll) robotics program at our local middle school during the school year.  It has been such an amazing experience to help these kids get excited about programming and seeing their ideas come to life. 
 
 ![Family Hockey](/images/FamilyHockey.JPG){: .smaller-image .center-image}
 
