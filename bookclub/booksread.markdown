@@ -6,6 +6,7 @@ permalink: /bookclub/booksread/
 <h2>Book Club's Monthly Book Picks</h2>
 
 ![header](/images/SkinnyRainbow.jpg)
+- **AUGUST 2023** - [All Boys Aren't Blue](https://www.amazon.com/All-Boys-Arent-Blue/dp/0241515033/ref=monarch_sidesheet) by George M Johnson
 - **JULY 2023** - [Lessons in Chemistry](https://smile.amazon.com/Lessons-Chemistry-Garmus-Bonnie/dp/1804990922/ref=monarch_sidesheet) by Boonie Garmus
 - **JUNE 2023** - [The Seven Husbands of Evelyn Hugo](https://smile.amazon.com/Seven-Husbands-Evelyn-Hugo-Novel/dp/1501161938/ref=monarch_sidesheet) by Taylor Jenkins Reid 
 - **MAY 2023** - [The Seed Keeper](https://smile.amazon.com/Seed-Keeper-Novel-Diane-Wilson/dp/1571311378/ref=monarch_sidesheet) by Diane Wilson
