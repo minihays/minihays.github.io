@@ -30,6 +30,6 @@ Here is a link for each of the books, in the order I read them. I hope you find 
 **Ponder This:**
 - Have you read any of these books?
 - Are there any new-to-you books on this list you might be interested in?
-- Which of these books sounds the most interesting to you?
+- Which of these books sound the most interesting to you?
 
 ----
