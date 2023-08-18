@@ -6,12 +6,12 @@ permalink: /bookclub/booksread/
 <h2>Book Club's Monthly Book Picks</h2>
 
 ![header](/images/SkinnyRainbow.jpg)
-- **DECEMBER 2023** - TBD
-- **NOVEMBER 2023** - TBD
-- **OCTOBER 2023** - TBD
-- **SEPTEMBER 2023** - TBD
+- **DECEMBER 2023/JANUARY 2024** - [Looking For Alaska](https://www.amazon.com/Looking-Alaska-John-Green-ebook/dp/B000YI1K0C/ref=sr_1_1?crid=3865IWYX2CJO0&keywords=looking%20for%20alaska&qid=1692383048&s=books&sprefix=looking%20for%20alaska%2Cstripbooks%2C135&sr=1-1&fbclid=IwAR3SppFlpT8IIDFO0zwNg2aAwIgyEdMd7H5vnsM0veg_oLsH3PBgJiHXAPw) by John Green **AND/OR** [The Perks Of Being A Wallflower](https://www.amazon.com/Perks-Being-Wallflower-Stephen-Chbosky/dp/1451696191/ref=sr_1_1?keywords=the+perks+of+being+a+wallflower+paperback&qid=1692385773&s=books&sprefix=the+perks+%2Cstripbooks%2C147&sr=1-1) by Stephen Chbosky
+- **NOVEMBER 2023** - [Lawn Boy](https://www.amazon.com/Lawn-Boy-Jonathan-Evison-ebook/dp/B075G4KSVS/ref=sr_1_2?crid=OGSMDA9X08UM&keywords=lawn+boy&qid=1692385631&s=books&sprefix=lawn+boy%2Cstripbooks%2C137&sr=1-2) by Jonathan Evison
+- **OCTOBER 2023** - [All American Boys](https://www.amazon.com/All-American-Boys-Jason-Reynolds/dp/1481463349/ref=sr_1_1?crid=2IVO5K0GX267T&keywords=all+american+boys&qid=1692385586&s=books&sprefix=all+american+boy%2Cstripbooks%2C144&sr=1-1) by Jason Reynolds & Brendan Kiely
+- **SEPTEMBER 2023** - [The Bluest Eye](https://www.amazon.com/Bluest-Eye-Vintage-International/dp/0307278441/ref=sr_1_1?crid=N4VGTWCMLKGZ&keywords=the+bluest+eye&qid=1692385533&s=books&sprefix=the+bluest+eye%2Cstripbooks%2C144&sr=1-1) by Toni Morrison
 - **AUGUST 2023** - [All Boys Aren't Blue](https://www.amazon.com/All-Boys-Arent-Blue/dp/0241515033/ref=monarch_sidesheet) by George M Johnson
-- **JULY 2023** - [Lessons in Chemistry](https://smile.amazon.com/Lessons-Chemistry-Garmus-Bonnie/dp/1804990922/ref=monarch_sidesheet) by Boonie Garmus
+- **JULY 2023** - [Lessons in Chemistry](https://smile.amazon.com/Lessons-Chemistry-Garmus-Bonnie/dp/1804990922/ref=monarch_sidesheet) by Bonnie Garmus
 - **JUNE 2023** - [The Seven Husbands of Evelyn Hugo](https://smile.amazon.com/Seven-Husbands-Evelyn-Hugo-Novel/dp/1501161938/ref=monarch_sidesheet) by Taylor Jenkins Reid 
 - **MAY 2023** - [The Seed Keeper](https://smile.amazon.com/Seed-Keeper-Novel-Diane-Wilson/dp/1571311378/ref=monarch_sidesheet) by Diane Wilson
 - **APRIL 2023** - [The Book of Hope](https://smile.amazon.com/Book-Hope-Goodall-Jane-Abram/dp/0241479460/ref=monarch_sidesheet) by Jane Goodall
@@ -73,7 +73,7 @@ permalink: /bookclub/booksread/
 - **February 2019** - [The Witness Tree](https://www.amazon.com/Witness-Tree-Amy-Pendino-ebook/dp/B07H5QML1S/ref=sr_1_1?dchild=1&keywords=the+witness+tree&qid=1595966725&s=digital-text&sr=1-1) by Amy Pendino
 
 ----
-- **December 2018/January 2019** - [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas-ebook/dp/B01M0614T9/ref=sr_1_2?dchild=1&keywords=the+hate+you+give&qid=1595966756&s=digital-text&sr=1-2) by Angie Thomas **and/or** [The Handmaid’s Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_2?dchild=1&keywords=the+handmaid%27s+tale&qid=1595966777&s=digital-text&sr=1-2) by Margaret Atwood
+- **December 2018/January 2019** - [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas-ebook/dp/B01M0614T9/ref=sr_1_2?dchild=1&keywords=the+hate+you+give&qid=1595966756&s=digital-text&sr=1-2) by Angie Thomas **AND/OR** [The Handmaid’s Tale](https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS/ref=sr_1_2?dchild=1&keywords=the+handmaid%27s+tale&qid=1595966777&s=digital-text&sr=1-2) by Margaret Atwood
 - **November 2018** - [The Alice Network](https://www.amazon.com/Alice-Network-Novel-Kate-Quinn-ebook/dp/B01LZFL63S/ref=sr_1_2?dchild=1&keywords=the+alice+network&qid=1595967228&s=digital-text&sr=1-2) by Kate Quinn
 - **October 2018** - [Crazy Rich Asians](https://www.amazon.com/Crazy-Rich-Asians-Trilogy-Book-ebook/dp/B00AP2VQEM/ref=sr_1_3?dchild=1&keywords=crazy+rich&qid=1596154594&s=digital-text&sr=1-3) by Kevin Kwan
 - **September 2018** - [Before We Were Yours](https://www.amazon.com/Before-We-Were-Yours-Novel-ebook/dp/B01M14UN1J/ref=sr_1_2?dchild=1&keywords=before+we+were+yours&qid=1596154626&s=digital-text&sr=1-2) by Lisa Wingate
@@ -86,7 +86,7 @@ permalink: /bookclub/booksread/
 - **February 2018** - [The Subtle Art of Not Giving a F*ck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive-ebook/dp/B019MMUA8S/ref=sr_1_2?crid=U3EV2YVFUEME&dchild=1&keywords=the+subtle+art+of+not+giving+a+fck&qid=1596154838&s=digital-text&sprefix=the+subtl%2Cdigital-text%2C182&sr=1-2) by Mark Manson
 
 ----
-- **December 2017/January 2018** - [I am Malala](https://www.amazon.com/Am-Malala-Stood-Education-Taliban-ebook/dp/B00CH3DBNQ/ref=sr_1_2?dchild=1&keywords=I+am+malala&qid=1596154865&s=digital-text&sr=1-2) by Malala Yousafzai **OR** [Half the Sky](https://www.amazon.com/Half-Sky-Nicholas-D-Kristof-ebook/dp/B002MHOCTO/ref=sr_1_2?dchild=1&keywords=half+the+sky&qid=1596154890&s=digital-text&sr=1-2) by Nicholas D. Kristof and Sheryl WuDunn 
+- **December 2017/January 2018** - [I am Malala](https://www.amazon.com/Am-Malala-Stood-Education-Taliban-ebook/dp/B00CH3DBNQ/ref=sr_1_2?dchild=1&keywords=I+am+malala&qid=1596154865&s=digital-text&sr=1-2) by Malala Yousafzai **AND/OR** [Half the Sky](https://www.amazon.com/Half-Sky-Nicholas-D-Kristof-ebook/dp/B002MHOCTO/ref=sr_1_2?dchild=1&keywords=half+the+sky&qid=1596154890&s=digital-text&sr=1-2) by Nicholas D. Kristof and Sheryl WuDunn 
 - **November 2017** - [Unbroken](https://www.amazon.com/Unbroken-World-Survival-Resilience-Redemption-ebook/dp/B003WUYPPG/ref=sr_1_2?dchild=1&keywords=unbroken&qid=1596154918&s=digital-text&sr=1-2) by Laura Hillenbrand
 - **October 2017** - [The Girls](https://www.amazon.com/Girls-Novel-Emma-Cline-ebook/dp/B015LYZH20/ref=sr_1_2?dchild=1&keywords=the+girls&qid=1596154943&s=digital-text&sr=1-2) by Emma Cline 
 - **September 2017** - [The Light Between Oceans](https://www.amazon.com/Light-Between-Oceans-Novel-ebook/dp/B0064CL1T2/ref=sr_1_2?crid=2K1WMPSUB1HCO&dchild=1&keywords=the+light+between+oceans&qid=1596154972&s=digital-text&sprefix=the+light+between+o%2Cdigital-text%2C173&sr=1-2) by M. L. Stedman
