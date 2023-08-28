@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All About Andi
+title: About Andi
 permalink: /about/
 ---
 <img src="/images/SkinnyRainbow.jpg">

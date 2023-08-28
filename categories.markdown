@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Categories
+title: Categories
 permalink: /blogcategories/
 ---
 ![rainbow](/images/SkinnyRainbow.jpg)
@@ -31,6 +31,11 @@ permalink: /blogcategories/
 <br />
 # <span style="text-decoration: underline">All The Randomness</span>
 {% for post in site.categories.Randomness %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+<br />
+# <span style="text-decoration: underline">All Things Robotics</span>
+{% for post in site.categories.Robotics %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 <br />
