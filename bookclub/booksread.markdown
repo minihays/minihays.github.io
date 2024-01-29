@@ -5,7 +5,7 @@ permalink: /bookclub/booksread/
 ---
 <h2>Book Club's Monthly Book Picks</h2>
 
-![header](/images/SkinnyRainbow.jpg)
+![header](/images/SkinnyRainbow2.jpeg)
 - **DECEMBER 2023/JANUARY 2024** - [Looking For Alaska](https://www.amazon.com/Looking-Alaska-John-Green-ebook/dp/B000YI1K0C/ref=sr_1_1?crid=3865IWYX2CJO0&keywords=looking%20for%20alaska&qid=1692383048&s=books&sprefix=looking%20for%20alaska%2Cstripbooks%2C135&sr=1-1&fbclid=IwAR3SppFlpT8IIDFO0zwNg2aAwIgyEdMd7H5vnsM0veg_oLsH3PBgJiHXAPw) by John Green **AND/OR** [The Perks Of Being A Wallflower](https://www.amazon.com/Perks-Being-Wallflower-Stephen-Chbosky/dp/1451696191/ref=sr_1_1?keywords=the+perks+of+being+a+wallflower+paperback&qid=1692385773&s=books&sprefix=the+perks+%2Cstripbooks%2C147&sr=1-1) by Stephen Chbosky
 - **NOVEMBER 2023** - [Lawn Boy](https://www.amazon.com/Lawn-Boy-Jonathan-Evison-ebook/dp/B075G4KSVS/ref=sr_1_2?crid=OGSMDA9X08UM&keywords=lawn+boy&qid=1692385631&s=books&sprefix=lawn+boy%2Cstripbooks%2C137&sr=1-2) by Jonathan Evison
 - **OCTOBER 2023** - [All American Boys](https://www.amazon.com/All-American-Boys-Jason-Reynolds/dp/1481463349/ref=sr_1_1?crid=2IVO5K0GX267T&keywords=all+american+boys&qid=1692385586&s=books&sprefix=all+american+boy%2Cstripbooks%2C144&sr=1-1) by Jason Reynolds & Brendan Kiely

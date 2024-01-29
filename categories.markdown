@@ -3,7 +3,7 @@ layout: page
 title: Categories
 permalink: /blogcategories/
 ---
-![rainbow](/images/SkinnyRainbow.jpg)
+![rainbow](/images/SkinnyRainbow2.jpeg)
 # <span style="text-decoration: underline">All Things Books</span>
 {% for post in site.categories.Books %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>

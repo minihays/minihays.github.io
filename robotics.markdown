@@ -21,7 +21,7 @@ We learned so much our first season working with the kids at this level (we have
 
 I will also be posting photos and updates on one of my Instagram pages as well: [@technicallyscattered](https://www.instagram.com/technicallyscattered/). We are looking forward to a great second season!
 
-![header](/images/SkinnyRainbow.jpg)
+![header](/images/SkinnyRainbow2.jpeg)
 
 # - All The Robotics Blog Posts -
 {% for post in site.categories.Robotics %}

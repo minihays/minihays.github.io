@@ -3,7 +3,7 @@ layout: page
 title: Link Love
 permalink: /links/
 ---
-  <img src="/images/SkinnyRainbow.jpg">
+  <img src="/images/SkinnyRainbow2.jpeg">
 
 <h1> Here you can find easy access to all the links I love and use frequently.</h1>
 

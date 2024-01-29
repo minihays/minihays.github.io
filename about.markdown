@@ -3,7 +3,7 @@ layout: page
 title: About Andi
 permalink: /about/
 ---
-<img src="/images/SkinnyRainbow.jpg">
+<img src="/images/SkinnyRainbow2.jpeg">
 
 Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you. First, my old web playground was [andihays.net](http://andihays.net). I started this new space for a place to learn more and for a bit of a change. You can read more at my [welcome post](https://andihays.dev/randomness/tech/2020/08/01/welcome.html).
 
