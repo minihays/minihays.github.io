@@ -9,7 +9,7 @@ Let’s see. What might someone want to know about me? Probably not nearly as mu
 
 ![Andi](/images/RinkMom.jpg){: .smaller-image .center-image}
 
-I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We started dating over 21 years ago and have been married almost 19 years. We live on a lake in Minnesota and have three amazing kids!
+I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We started dating in 2001 years ago and got married on my birthday in 2004. We live on a lake in Minnesota and have three amazing kids!
 
 ![Chuck & Andi](/images/CandA.jpg){: .smaller-image .center-image}
 
@@ -41,17 +41,17 @@ I also **LOVE** to read. I listen to audio books ALL the time (while doing dishe
 
 ![Book Love](/images/booklove.jpg){: .smaller-image .center-image}
 
-I keep a blog because I want to “journal” things. I am glad to have readers, but I do this for me. If you don’t like the content...wait until tomorrow. You might like it then. 🙂 And if not, well, maybe I’m just not for you. I tend to be quite random about what I post here. But I suppose that is because I am a very random person! I am really working on embracing doing things for me and not for everyone else. Which is a hard thing to do as a pleaser.
+I keep a blog because I want to journal things. I am glad to have readers, but I do this for me. If you don’t like the content...wait until tomorrow. You might like it then. 🙂 And if not, well, maybe I’m just not for you. I tend to be quite random about what I post here. But I suppose that is because I am a very random person! I am really working on embracing doing things for me and not for everyone else. Which is a hard thing to do as a pleaser.
 
 I get incredibly nervous to try new things, but I am working to get over that fear. It’s quite debilitating at times and frankly no fun. I am mostly afraid to fail. I am learning that failing is ok. You learn from it and grow. So it isn’t all bad!
 
 ![Hays Xmas](/images/Hays2022.JPG){: .smaller-image .center-image}
 
-My husband currently works for [Google](http://google.com). He works with some of the most interesting and smartest people I know. And he is the smartest of them all (not that I am biased at all!). This guy never ceases to amaze me with all he knows and all he can do! He is always building something and working on various projects. He is so amazing! 
+My husband currently works for [Google](http://google.com). He works with some of the most interesting and smartest people I know. And he is the smartest of them all (not that I am biased!). This guy never ceases to amaze me with everything he knows and all he can do! He is always building something and working on various projects. He is so amazing! 
 
 When my hubby got a job at Google, we uprooted ourselves from Minnesota and moved to Seattle.  We were there for a year and decided it wasn’t a place we wanted to stay and moved back home. Chuck continued to work for Google (remotely) and we moved back into our house in Minnesota which was both weird and convenient. 
 
-We sold that house that we had for 11 years and built our dream home on Lake Minnetonka and moved in October 2020. We thought long and hard about getting a cabin, but with the sports our kids play, weekends away just wouldn't really work for our family. So, we started to pursue the idea of living on the lake full time. We found a perfect place to build the house we wanted and enjoyed (and went a little crazy at times) with the process. 
+We sold that house that we had for 11 years and built our dream home on Lake Minnetonka and moved in October 2020. We thought long and hard about getting a cabin, but with the sports our kids play, weekends away just wouldn't really work for our family. So, we started to pursue the idea of living on the lake full time. We found a perfect place to build the house we wanted and enjoyed (and went a little crazy at times) the building process -- which was made more challenging by trying to build during COVID.
 
 ![Andi at the lake](/images/AndiLake.jpg){: .smaller-image .center-image}
 
