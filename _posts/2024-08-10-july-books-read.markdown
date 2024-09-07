@@ -8,7 +8,7 @@ Here are the 9 books I read in July. One of them will be added to my favorites l
 
 Check out my [Goodreads](https://www.goodreads.com/user_challenges/48253141) page for ⭐️ ratings of these books. I hope you find something that looks interesting to you. Below are a few notes on the books this month.
 
-**Total books for the year: 55**
+**Total books for the year: 64**
 
 1. 🎧📖 **The Rom-Commers** by *Katherine Center* -- This was an adorable read and I love everything I read by Katherine Center! 
 2. 🎧📱 **Funny Story** by *Emily Henry* -- This one was really good, too. I have enjoyed Emily Henry books, but I feel like some people haven't liked this one as much as some of her others, but I didn't get that feeling.
