@@ -6,7 +6,7 @@ categories: [Books]
 ![books](/images/July2024Books.JPG)
 Here are the 9 books I read in July. One of them will be added to my favorites list, some I really liked and others were just ok.
 
-Check out my [Goodreads](https://www.goodreads.com/user_challenges/48253141) page for ⭐️ ratings of these books. I also started trying out [Fable](https://fable.co/minihays-147798854824) recently, so feel free to check that out. I hope you find something that looks interesting to you. Below are a few notes on the books this month.
+Check out my [Goodreads](https://www.goodreads.com/user_challenges/48253141) page for ⭐️ ratings of these books. I hope you find something that looks interesting to you. Below are a few notes on the books this month.
 
 **Total books for the year: 64**
 
