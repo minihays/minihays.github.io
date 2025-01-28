@@ -5,8 +5,19 @@ permalink: /bookclub/booksread/
 ---
 <h2>Book Club's Monthly Book Picks</h2>
 
-![header](/images/SkinnyRainbow2.jpeg)
+![header](/images/BrightSkinnyRainbow.png)
 
+- **AUGUST 2025** - Mel's Pick
+- **JULY 2025** - Andi's Pick
+- **JUNE 2025** - [West With Giraffes](https://www.amazon.com/West-Giraffes-Novel-Lynda-Rutledge/dp/1542023343/ref=monarch_sidesheet_title) by Lynda Rutledge (Judy's Pick)
+- **MAY 2025** - [Piranesi](https://www.amazon.com/Piranesi-Susanna-Clarke/dp/1635577802/ref=monarch_sidesheet_title) by Susanna Clarke (Angie's Pick)
+- **APRIL 2025** - [Saturday Night At The Lakeside Supper Club](https://www.amazon.com/Saturday-Night-Lakeside-Supper-Club/dp/1984881094/ref=monarch_sidesheet_title) by J. Ryan Stradal (Katie's Pick)
+- **MARCH 2025** - [There Is No Ethan](https://www.amazon.com/There-No-Ethan-Americas-Biggest/dp/1538742195/ref=monarch_sidesheet_title) by Anna Akbary (Tami's Pick)
+- **FEBRUARY 2025** - [The Small & The Mighty](https://www.amazon.com/Small-Mighty-Americans-Founding-Movement/dp/0593541677/ref=monarch_sidesheet_title) by Sharon McMahon (Kelly's Pick)
+
+----
+- **DECEMBER 2024/JANUARY 2025** - [The Wife Upstairs](https://www.amazon.com/Wife-Upstairs-Novel-Rachel-Hawkins/dp/1250245508/ref=monarch_sidesheet_title) by Rachel Hawkins AND/OR [Jane Eyre](https://www.amazon.com/Jane-Penguin-Classics-Charlotte-Bront%C3%AB/dp/0141441143/ref=monarch_sidesheet_title) by Charlotte Bronte
+- **NOVEMBER 2024** - [Wrong Place Wrong Time](https://www.amazon.com/Wrong-Place-Time-Reeses-Book/dp/006325235X/ref=monarch_sidesheet_title) by Gillian McAllister
 - **OCTOBER 2024** - [Remarkably Bright Creatures](https://www.amazon.com/Remarkably-Bright-Creatures-Shelby-Pelt/dp/0063204150/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.KeXMWnxdJ5J48o4tPP-eg3quus5insBldTqa9Jsv3FuoNv4YJeP2p1dXxrxbBEATUtjP-cGcYu7-wOx2ZCFNGxLMbClRoirNB0YVUXtt0_LoRtz_2GwzIuR_qSiPMiE4dHmCbY1imkXVZPrM4TzPLFlrFIvXCWfoGtZON5mcCwUKx-7pp2RHoYDS-ITJCqE0zIJfuZMcO69eBwnS-LZX5CrTyWHbvgR85RlVTnEE-tI.SOxwg4OKfdhLpiCQKzA3udq7KpxOHW-LNJ5kiSlv6Ik&qid=1722027477&sr=1-1) by Shelby Van Pelt
 - **SEPTEMBER 2024** - [No Two Persons](https://www.amazon.com/No-Two-Persons-Erica-Bauermeister-ebook/dp/B0B9KTYMKT/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.mLXNFDD2VHAK91or2ssObcIg2IM6TztuWJnMzjbPv5AzH2CFf56caFG2hao8hGJu2TNroZhn6MvqmcvZahfBYDkgaDa-PqDzMHMUc9YI1vhk5R723SXfr7m3o0JPOSulf5OvULrucmWoqPmMBfYPu3nJylUlrodGp6yo8LNJ0QNnklH6K9w4z4gmfDpt3SFM6IKeDIHgK114leoimYi7TOIATuwFgZ1CdiPrQ5f5tyA.xL-z3TDgYzC0r44iyCvCT6kLa4hSa9efdd6me6QHpO4&qid=1716399173&sr=8-1) by Erica Bauermeister (Mel's Pick)
 - **AUGUST 2024** - No book pick this month.
