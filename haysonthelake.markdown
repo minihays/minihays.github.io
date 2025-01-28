@@ -3,7 +3,7 @@ layout: page
 title: Hays On The Lake
 permalink: /haysonthelake/
 ---
-![rainbow](/images/SkinnyRainbow2.jpeg)
+![rainbow](/images/BrightSkinnyRainbow.png)
 
 In the Spring of 2019, we bought a boat again. We had one years ago and sold it. We wanted to get a boat and see if it worked with our lives and that the kids enjoyed it. We discussed getting a cabin for years and were starting to feel like that was something we wanted to pursue. After lots of pros/cons lists, we realized that a cabin might not work well for our schedules and what we wanted.
 
@@ -20,7 +20,7 @@ e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 })();
 </script>
 
-![header](/images/SkinnyRainbow.jpg)
+![header](/images/BrightSkinnyRainbowHeader.png)
 
 # All The Lake Blog Posts:
 {% for post in site.categories.Lake %}

@@ -3,11 +3,11 @@ layout: page
 title: About Andi
 permalink: /about/
 ---
-<img src="/images/SkinnyRainbow2.jpeg">
+<img src="/images/BrightSkinnyRainbow.png">
 
 Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you. First, my old web playground was [andihays.net](http://andihays.net). I started this new space for a place to learn more and for a bit of a change. You can read more at my [welcome post](https://andihays.dev/randomness/tech/2020/08/01/welcome.html).
 
-![Andi](/images/RinkMom.jpg){: .smaller-image .center-image}
+![Andi](/images/ItsMe.jpg){: .smaller-image .center-image}
 
 I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We started dating in 2001 years ago and got married on my birthday in 2004. We live on a lake in Minnesota and have three amazing kids!
 

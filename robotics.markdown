@@ -3,7 +3,7 @@ layout: page
 title: Robotics
 permalink: /robotics/
 ---
-
+![rainbow](/images/BrightSkinnyRainbow.png)
 ![Lego Header](/images/FIRST.jpeg)
 
 For the 2022-2023 school year, my husband (Chuck) and I started a robotics program at our local Middle School (5th-7th graders). We met with district and community education staff to brainstorm, plan all the details, work out kinks and put together this program. The hope is for these middle schoolers to get excited about robotics and coding/programming and want to continue on in High School where were have an active robotics program. 
@@ -21,7 +21,7 @@ We learned so much our first season working with the kids at this level (we have
 
 I will also be posting photos and updates on one of my Instagram pages as well: [@technicallyscattered](https://www.instagram.com/technicallyscattered/). We are looking forward to a great second season!
 
-![header](/images/SkinnyRainbow2.jpeg)
+![header](/images/BrightSkinnyRainbowHeader.png)
 
 # - All The Robotics Blog Posts -
 {% for post in site.categories.Robotics %}
