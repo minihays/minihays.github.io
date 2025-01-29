@@ -24,9 +24,6 @@ I'm also an over-sharer and an open book. And it's actually been a pretty good w
 
 Overall, I am very happy with the friendships I am making here in our new home. I know there will be more to come and I am looking forward to that, but at this stage in my life, I want to make sure I am spending the time and energy on people that will be part of my life for many years to come. 
 
-BLOG CONTENT
-![reading](/images/ReadingChallenge.png){: .center-image } - to center images
-
 ![Andi](/images/andi.jpg)
 
 ![header](/images/SkinnyRainbow.jpg)
