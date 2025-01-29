@@ -7,7 +7,7 @@ permalink: /bookclub/booksread/
 
 ![header](/images/BrightSkinnyRainbow.png)
 
-- **AUGUST 2025** - Mel's Pick
+- **AUGUST 2025** - [Dry](https://www.amazon.com/Dry-Neal-Shusterman/dp/1481481975/ref=monarch_sidesheet_title) by Neal & Jarrod Shusterman (Mel's Pick)
 - **JULY 2025** - Andi's Pick
 - **JUNE 2025** - [West With Giraffes](https://www.amazon.com/West-Giraffes-Novel-Lynda-Rutledge/dp/1542023343/ref=monarch_sidesheet_title) by Lynda Rutledge (Judy's Pick)
 - **MAY 2025** - [Piranesi](https://www.amazon.com/Piranesi-Susanna-Clarke/dp/1635577802/ref=monarch_sidesheet_title) by Susanna Clarke (Angie's Pick)
