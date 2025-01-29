@@ -7,7 +7,7 @@ permalink: /about/
 
 Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you. I started this little corner of the webiverse in 2020 as a place for me to learn more and for a bit of a change from my previous site. You can read more at my [welcome post](https://andihays.dev/randomness/tech/2020/08/01/welcome.html).
 
-![Andi](/images/ItsMe.jpg){: .smaller-image .center-image}
+![Andi](/images/ItsMe.JPG){: .smaller-image .center-image}
 
 I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the best husband and dad out there. We started dating in 2001 and got married on my birthday in 2004. We live on a lake in Minnesota and have three amazing kids!
 
@@ -15,7 +15,7 @@ I am married to [Chuck](http://madebychuck.com) who is an amazing guy and the be
 
 We are busy people. Our kids are active in sports and school, we do projects around the house (Chuck is VERY handy), take trips, go camping, go boating, go tubing, wake surfing, water skiing (we love being on the lake!), go fishing, bike rides, swimming, go on walks, downhill ski, play hockey, coaching sports and more. Life’s too short to sit around. 
 
-![Hays Crew](/images/HaysStateFair.JPG){: .smaller-image .center-image}
+![Hays Crew](/images/HaysStateFair.jpg){: .smaller-image .center-image}
 
 Along with being very active, we are advocates for STEM and STEAM. We are teaching our kids all about coding, math, science, technology and art, have robots all over the house and a dedicated room for crafts, building and being creative. We ran the [First LEGO League Jr.](https://www.firstinspires.org/robotics/fll) robotics program at our local middle school for two seasons.  It was a great experience to help these kids get excited about programming and seeing their ideas come to life. 
 
