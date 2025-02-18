@@ -1,11 +1,9 @@
 ---
 layout: page
-# title: Book Club Monthly Book Picks
+# title: Book Club's Monthly Book Picks
 permalink: /bookclub/booksread/
 ---
-<h2>Book Club's Monthly Book Picks</h2>
-
-![header](/images/BrightSkinnyRainbow.png)
+<h2>Book Club Books</h2>
 
 - **AUGUST 2025** - [Dry](https://www.amazon.com/Dry-Neal-Shusterman/dp/1481481975/ref=monarch_sidesheet_title) by Neal & Jarrod Shusterman (Mel's Pick)
 - **JULY 2025** - Andi's Pick
