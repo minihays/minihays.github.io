@@ -3,8 +3,6 @@ layout: page
 title: About Andi
 permalink: /about/
 ---
-<img src="/images/BrightSkinnyRainbow.png">
-
 Let’s see. What might someone want to know about me? Probably not nearly as much as I am going to tell you. I started this little corner of the webiverse in 2020 as a place for me to learn more and for a bit of a change from my previous site. You can read more at my [welcome post](https://andihays.dev/randomness/tech/2020/08/01/welcome.html).
 
 ![Andi](/images/ItsMe.JPG){: .smaller-image .center-image}
