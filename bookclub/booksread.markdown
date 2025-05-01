@@ -8,7 +8,7 @@ permalink: /bookclub/booksread/
 - **AUGUST 2025** - [Dry](https://www.amazon.com/Dry-Neal-Shusterman/dp/1481481975/ref=monarch_sidesheet_title) by Neal & Jarrod Shusterman (Mel's Pick)
 - **JULY 2025** - Andi's Pick
 - **JUNE 2025** - [West With Giraffes](https://www.amazon.com/West-Giraffes-Novel-Lynda-Rutledge/dp/1542023343/ref=monarch_sidesheet_title) by Lynda Rutledge (Judy's Pick)
-- **MAY 2025** - [Piranesi](https://www.amazon.com/Piranesi-Susanna-Clarke/dp/1635577802/ref=monarch_sidesheet_title) by Susanna Clarke (Angie's Pick)
+- **MAY 2025** - [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222) by Kelly Barnhill (Angie's Pick)
 - **APRIL 2025** - [Saturday Night At The Lakeside Supper Club](https://www.amazon.com/Saturday-Night-Lakeside-Supper-Club/dp/1984881094/ref=monarch_sidesheet_title) by J. Ryan Stradal (Katie's Pick)
 - **MARCH 2025** - [There Is No Ethan](https://www.amazon.com/There-No-Ethan-Americas-Biggest/dp/1538742195) by Anna Akbari (Tami's Pick)
 - **FEBRUARY 2025** - [The Small & The Mighty](https://www.amazon.com/Small-Mighty-Americans-Founding-Movement/dp/0593541677/ref=monarch_sidesheet_title) by Sharon McMahon (Kelly's Pick)
