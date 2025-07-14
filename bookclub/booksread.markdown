@@ -6,7 +6,7 @@ permalink: /bookclub/booksread/
 <h2>Book Club Books</h2>
 
 - **AUGUST 2025** - [Dry](https://www.amazon.com/Dry-Neal-Shusterman/dp/1481481975/ref=monarch_sidesheet_title) by Neal & Jarrod Shusterman (Mel's Pick)
-- **JULY 2025** - Andi's Pick
+- **JULY 2025** - [How To Age Disgracefully](https://www.amazon.com/How-Age-Disgracefully-Clare-Pooley/dp/0143137948/ref=monarch_sidesheet_title) by Clare Pooley (Andi's Pick)
 - **JUNE 2025** - [West With Giraffes](https://www.amazon.com/West-Giraffes-Novel-Lynda-Rutledge/dp/1542023343/ref=monarch_sidesheet_title) by Lynda Rutledge (Judy's Pick)
 - **MAY 2025** - [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222) by Kelly Barnhill (Angie's Pick)
 - **APRIL 2025** - [Saturday Night At The Lakeside Supper Club](https://www.amazon.com/Saturday-Night-Lakeside-Supper-Club/dp/1984881094/ref=monarch_sidesheet_title) by J. Ryan Stradal (Katie's Pick)
