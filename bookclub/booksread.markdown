@@ -1,9 +1,11 @@
 ---
 layout: page
-# title: Book Club's Monthly Book Picks
+# title: Book Club Monthly Book Picks
 permalink: /bookclub/booksread/
 ---
 <h2>Book Club Books</h2>
+
+*This book club started in February 2012 and these friends are some of my very favorite people. They have been a dedicated group who have been flexible to all kinds of changes over the years and I am so thankful they have helped keep this going!*
 
 - **AUGUST 2025** - [Dry](https://www.amazon.com/Dry-Neal-Shusterman/dp/1481481975/ref=monarch_sidesheet_title) by Neal & Jarrod Shusterman (Mel's Pick)
 - **JULY 2025** - [How To Age Disgracefully](https://www.amazon.com/How-Age-Disgracefully-Clare-Pooley/dp/0143137948/ref=monarch_sidesheet_title) by Clare Pooley (Andi's Pick)
