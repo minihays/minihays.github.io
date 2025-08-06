@@ -3,19 +3,22 @@ layout: page
 title: Books & Reading
 permalink: /bookclub/
 ---
-- **[BOOK CLUB BOOK PICKS LIST](/bookclub/booksread/)** 
+- **[BOOK CLUB READING LIST](/bookclub/booksread/)** 
+- **[PRIDE BOOK CLUB READING LIST](/pridebookclub/booksread/)** 
 
 Welcome to my little corner about all things book related! I have always been a lover of books and reading since I was very young. I still read all the time and am doing my best to raise kids who love reading and grow up to be readers. I usually have more than one book going at a time in various forms (ebook on my Kindle, a physical book, an audiobook, and a couple books I am reading to the kids or with an individual child). 
 
-Another fun fact is I started a book club many years ago when my oldest was very young. We are nearing 9 years for our little group that has changed and grown over the years. Most of the members of book club are avid readers even if they aren't reading our current book. We love to talk about all things book-related and we also really like doing puzzles! We would love if you wanted to join us and give your input about current books you are reading, thoughts on the books we are reading, puzzles you are doing or anything else you can think of!
+Another fun fact is I started a book club many years ago when my oldest was very young. We started in February 2012 and our little group that has changed and evolved over the years. Most of the members of book club are avid readers even if they aren't reading our current book. We love to talk about all things book-related and we also really like doing puzzles! 
 
-We pick a book from our **[Book Picks List](/bookclub/booksread/)** for each month and meet in person or virtually at the end of each month. We read one book for December/January since we don't meet at the end of December. I try to get books chosen for about 6 months at a time so people have time get on waiting lists if need be. 
+We pick a book and try to meet at the end of each month, but life happens and we usually skip August and December with school and hocliday business. I try to get books chosen for a chunk of time so people have time get on waiting lists or acquire their book if need be. 
 
-Currently, our book club is through a [group on Facebook](http://facebook.com/groups/bookwormsandpuzzlepiecers/). We discuss all things books, book club and puzzles. Yes, we like puzzles, too. I also recently learned about Amazon Book Clubs and added [our group](https://www.amazon.com/amazonbookclubs/detail/amzn1.club.bookclub.28ba7cf3-de83-fac6-efe0-4252034d9917?) on there as well. 
+Currently, our book club is through a [group on Facebook](http://facebook.com/groups/bookwormsandpuzzlepiecers/). We discuss all things books, book club and puzzles. Yes, we like puzzles, too. I also recently learned about Amazon Book Clubs and added [our group](https://www.amazon.com/amazonbookclubs/detail/amzn1.club.bookclub.28ba7cf3-de83-fac6-efe0-4252034d9917?) on there as well. But I'm terrible about updating it!
+
+I added a new book club to the mix for a local pride group that I helped start. There was book club interest, so we are giving it a go! I can't wait to see how this club goes and you can follow our book picks above.
 
 I also keep an ongoing [wish list](https://www.amazon.com/hz/wishlist/ls/BX6IO38STJYM?ref_=wl_share) on Amazon of the books I want. Some are listed in paperback form, but usually I get Kindle ones. I like to keep track in case I have any discounts or coupons to use. I also started keeping track of [books for the kids](https://www.amazon.com/hz/wishlist/ls/EY284C689ZRR?ref_=wl_share) that I want to get them or read with/to them. I also keep track of books I have read on [Goodreads](https://www.goodreads.com/user/show/2648038-andi) if you want to be friends there.
 
-Below are the most recent posts from my [@minihaysreads](http://instagram.com/minihaysreads/) Instagram page where I post about all things book related and post reviews of books I have read.
+Below are the most recent posts from my [@minihaysreads](http://instagram.com/minihaysreads/) Instagram page where I post about all things book related and post reviews of books I have read. And each month I post a collage of the books I have read and there are some other bookish links there, too.
 
 <div id="curator-feed-minihaysreads-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
 <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
