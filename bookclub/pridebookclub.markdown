@@ -1,9 +1,9 @@
 ---
 layout: page
-# title: Pride Book Club Book Picks
-permalink: /pridebookclub/booksread/
+# title: The Beacon Book Club Book Picks
+permalink: /beaconbookclub/booksread/
 ---
-<h2>Pride Book Club Books</h2>
+<h2>The Beacon Book Club Books</h2>
 
 *This group started in 2025 with members from a local Pride group we started called "The Beacon". I can't wait to see how this group grows and evolves over time!*
 
