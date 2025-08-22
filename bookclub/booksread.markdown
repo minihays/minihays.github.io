@@ -1,19 +1,23 @@
 ---
 layout: page
-# title: Book Club Monthly Book Picks
+# title: OG Book Club Monthly Book Picks
 permalink: /bookclub/booksread/
 ---
-<h2>Book Club Books</h2>
+<h2>OG Book Club Books</h2>
 
-*This book club started in February 2012 and these friends are some of my very favorite people. They have been a dedicated group who have been flexible to all kinds of changes over the years and I am so thankful they have helped keep this going!*
+*This book club started in February 2012 and these friends are some of my very favorite people and my original (OG) book clubbers. They have been a dedicated group who have been flexible to all kinds of changes over the years and I am so thankful they have helped keep this going!*
 
-- **AUGUST 2025** - [Dry](https://www.amazon.com/Dry-Neal-Shusterman/dp/1481481975/ref=monarch_sidesheet_title) by Neal & Jarrod Shusterman (Mel's Pick)
-- **JULY 2025** - [How To Age Disgracefully](https://www.amazon.com/How-Age-Disgracefully-Clare-Pooley/dp/0143137948/ref=monarch_sidesheet_title) by Clare Pooley (Andi's Pick)
-- **JUNE 2025** - [West With Giraffes](https://www.amazon.com/West-Giraffes-Novel-Lynda-Rutledge/dp/1542023343/ref=monarch_sidesheet_title) by Lynda Rutledge (Judy's Pick)
-- **MAY 2025** - [When Women Were Dragons](https://www.amazon.com/When-Women-Were-Dragons-Novel/dp/0385548222) by Kelly Barnhill (Angie's Pick)
-- **APRIL 2025** - [Saturday Night At The Lakeside Supper Club](https://www.amazon.com/Saturday-Night-Lakeside-Supper-Club/dp/1984881094/ref=monarch_sidesheet_title) by J. Ryan Stradal (Katie's Pick)
-- **MARCH 2025** - [There Is No Ethan](https://www.amazon.com/There-No-Ethan-Americas-Biggest/dp/1538742195) by Anna Akbari (Tami's Pick)
-- **FEBRUARY 2025** - [The Small & The Mighty](https://www.amazon.com/Small-Mighty-Americans-Founding-Movement/dp/0593541677/ref=monarch_sidesheet_title) by Sharon McMahon (Kelly's Pick)
+**Disclaimer**: In 2025, I chose to start linking books from [Bookshop.org](https://bookshop.org/) so you can help support the Independent bookstore of your choice. Previously, they were linked to Amazon. My Indie bookstore pick is [The Thinking Spot](https://www.thethinkingspot.us/) which is a local STEM bookstore. 🤩📚👩‍🔬🛍️
+
+![Bright](/images/BrightSkinnyRainbow.png)
+
+- **AUGUST 2025** - [Dry](https://bookshop.org/p/books/dry-neal-shusterman/218606?ean=9781481481977&next=t) by Neal & Jarrod Shusterman (Mel's Pick)
+- **JULY 2025** - [How To Age Disgracefully](https://bookshop.org/p/books/how-to-age-disgracefully-a-novel-clare-pooley/7808d8558b27da8d?ean=9780143137948&next=t) by Clare Pooley (Andi's Pick)
+- **JUNE 2025** - [West With Giraffes](https://bookshop.org/p/books/west-with-giraffes-lynda-rutledge/16010077?ean=9781542023344&next=t) by Lynda Rutledge (Judy's Pick)
+- **MAY 2025** - [When Women Were Dragons](https://bookshop.org/p/books/when-women-were-dragons-kelly-barnhill/18754869?ean=9780593466575&next=t) by Kelly Barnhill (Angie's Pick)
+- **APRIL 2025** - [Saturday Night At The Lakeside Supper Club](https://bookshop.org/p/books/saturday-night-at-the-lakeside-supper-club-j-ryan-stradal/18668003?ean=9781984881090&next=t&next=t) by J. Ryan Stradal (Katie's Pick)
+- **MARCH 2025** - [There Is No Ethan](https://bookshop.org/p/books/there-is-no-ethan-how-three-women-caught-america-s-biggest-catfish-anna-akbari/20664816?ean=9781538742198&next=t) by Anna Akbari (Tami's Pick)
+- **FEBRUARY 2025** - [The Small & The Mighty](https://bookshop.org/p/books/the-small-and-the-mighty-twelve-unsung-americans-who-changed-the-course-of-history-sharon-mcmahon/20994019?ean=9780593541678&next=t) by Sharon McMahon (Kelly's Pick)
 
 ----
 - **DECEMBER 2024/JANUARY 2025** - [The Wife Upstairs](https://www.amazon.com/Wife-Upstairs-Novel-Rachel-Hawkins/dp/1250245508/ref=monarch_sidesheet_title) by Rachel Hawkins AND/OR [Jane Eyre](https://www.amazon.com/Jane-Penguin-Classics-Charlotte-Bront%C3%AB/dp/0141441143/ref=monarch_sidesheet_title) by Charlotte Bronte
