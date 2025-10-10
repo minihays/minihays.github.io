@@ -11,4 +11,7 @@ permalink: /beaconbookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
+- **DECEMBER 2025** - 
+- **NOVEMBER 2025** - 
+- **OCTOBER 2025** - [These Witches Don't Burn](https://bookshop.org/p/books/these-witches-don-t-burn-isabel-sterling/8bf6084308603b0f?ean=9780451480347&next=t) by Isabel Sterling
 - **SEPTEMBER 2025** - [The Stand-In Dad](https://bookshop.org/p/books/the-stand-in-dad-jake-williams/21807192?ean=9780008740665&next=t) by Alex Summers
