@@ -11,6 +11,7 @@ permalink: /bookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
+- **SEPTEMBER 2025** - [Sandwich](https://bookshop.org/p/books/sandwich-a-novel-catherine-newman/dd5b7d90a7475b76?ean=9780063345171&next=t) **AND/OR** [Wait Till Helen Comes](https://bookshop.org/p/books/wait-till-helen-comes-a-ghost-story-mary-downing-hahn/8a4ea61d650a3f4b?ean=9780547028644&next=t)
 - **AUGUST 2025** - [Dry](https://bookshop.org/p/books/dry-neal-shusterman/218606?ean=9781481481977&next=t) by Neal & Jarrod Shusterman (Mel's Pick)
 - **JULY 2025** - [How To Age Disgracefully](https://bookshop.org/p/books/how-to-age-disgracefully-a-novel-clare-pooley/7808d8558b27da8d?ean=9780143137948&next=t) by Clare Pooley (Andi's Pick)
 - **JUNE 2025** - [West With Giraffes](https://bookshop.org/p/books/west-with-giraffes-lynda-rutledge/16010077?ean=9781542023344&next=t) by Lynda Rutledge (Judy's Pick)
