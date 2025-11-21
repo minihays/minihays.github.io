@@ -11,7 +11,9 @@ permalink: /beaconbookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
-- **DECEMBER 2025** - 
-- **NOVEMBER 2025** - 
+- **JANUARY 2026** - [Girls Girls Girls](https://bookshop.org/p/books/girls-girls-girls-shoshana-von-blanckensee/4fc158e567640a47?ean=9780593718445&next=t) by Shoshana von Blanckensee
+
+----
+- **NOVEMBER/DECEMBER 2025** - [A Queer History Of The United States](https://bookshop.org/p/books/a-queer-history-of-the-united-states-michael-bronski/ca7eda15f540ccce?ean=9780807044650&next=t) by Michael Bronski
 - **OCTOBER 2025** - [These Witches Don't Burn](https://bookshop.org/p/books/these-witches-don-t-burn-isabel-sterling/8bf6084308603b0f?ean=9780451480347&next=t) by Isabel Sterling
 - **SEPTEMBER 2025** - [The Stand-In Dad](https://bookshop.org/p/books/the-stand-in-dad-jake-williams/21807192?ean=9780008740665&next=t) by Alex Summers
