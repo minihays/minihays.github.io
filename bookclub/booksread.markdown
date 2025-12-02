@@ -1,9 +1,9 @@
 ---
 layout: page
-# title: OG Book Club Monthly Book Picks
+# title: Book Worms & Puzzle Piecers Book Club Monthly Book Picks
 permalink: /bookclub/booksread/
 ---
-<h2>OG Book Club Books</h2>
+<h2>Book Worms & Puzzle Piecers Book Club Books</h2>
 
 *This book club started in February 2012 and these friends are some of my very favorite people and my original (OG) book clubbers. They have been a dedicated group who have been flexible to all kinds of changes over the years and I am so thankful they have helped keep this going!*
 
@@ -11,8 +11,13 @@ permalink: /bookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
-- **SEPTEMBER 2025** - [Sandwich](https://bookshop.org/p/books/sandwich-a-novel-catherine-newman/dd5b7d90a7475b76?ean=9780063345171&next=t) **AND/OR** [Wait Till Helen Comes](https://bookshop.org/p/books/wait-till-helen-comes-a-ghost-story-mary-downing-hahn/8a4ea61d650a3f4b?ean=9780547028644&next=t)
-- **AUGUST 2025** - [Dry](https://bookshop.org/p/books/dry-neal-shusterman/218606?ean=9781481481977&next=t) by Neal & Jarrod Shusterman (Mel's Pick)
+- **FEBRUARY 2026** - 
+
+----
+- **DECEMBER 2025/JANUARY 2026** - [The Mad Wife](https://bookshop.org/p/books/the-mad-wife-meagan-church/05be1efbb790c329?ean=9781464236747&next=t) by Meagan Church (Tami's Pick)
+- **NOVEMBER 2025** - [Of Women And Salt](https://bookshop.org/p/books/of-women-and-salt-a-novel-gabriela-garcia/71a8b64c0a37df8b?ean=9781250776709&next=t) by Gabriela Garcia (Judy's Pick)
+- **OCTOBER 2025** - [Sandwich](https://bookshop.org/p/books/sandwich-a-novel-catherine-newman/dd5b7d90a7475b76?ean=9780063345171&next=t) by Catherine Newman (Angie's Pick) **AND/OR** [Wait Till Helen Comes](https://bookshop.org/p/books/wait-till-helen-comes-a-ghost-story-mary-downing-hahn/8a4ea61d650a3f4b?ean=9780547028644&next=t) by Mary Downing Hahn (Kelly's Pick)
+- **SEPTEMBER/AUGUST 2025** - [Dry](https://bookshop.org/p/books/dry-neal-shusterman/218606?ean=9781481481977&next=t) by Neal & Jarrod Shusterman (Mel's Pick)
 - **JULY 2025** - [How To Age Disgracefully](https://bookshop.org/p/books/how-to-age-disgracefully-a-novel-clare-pooley/7808d8558b27da8d?ean=9780143137948&next=t) by Clare Pooley (Andi's Pick)
 - **JUNE 2025** - [West With Giraffes](https://bookshop.org/p/books/west-with-giraffes-lynda-rutledge/16010077?ean=9781542023344&next=t) by Lynda Rutledge (Judy's Pick)
 - **MAY 2025** - [When Women Were Dragons](https://bookshop.org/p/books/when-women-were-dragons-kelly-barnhill/18754869?ean=9780593466575&next=t) by Kelly Barnhill (Angie's Pick)
