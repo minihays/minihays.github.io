@@ -11,6 +11,7 @@ permalink: /beaconbookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
+- **MARCH 2026** - [Dear America](https://bookshop.org/p/books/dear-america-notes-of-an-undocumented-citizen-jose-antonio-vargas/b4634ed400f07ee2?ean=9780062851345&next=t) by Jose Antonio Vargas
 - **FEBRUARY 2026** - [Gender Queer](https://bookshop.org/p/books/gender-queer-a-memoir-maia-kobabe/e0187f83093ae9b7?ean=9781549304002&next=t&next=t&affiliate=47115) by Maia Kobabe
 - **JANUARY 2026** - [Girls Girls Girls](https://bookshop.org/p/books/girls-girls-girls-shoshana-von-blanckensee/4fc158e567640a47?ean=9780593718445&next=t) by Shoshana von Blanckensee
 
