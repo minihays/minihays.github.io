@@ -11,7 +11,17 @@ permalink: /bookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
-- **FEBRUARY 2026** - 
+- **DECEMBER 2026/January 2027** - [Grace Of the Empire State](https://bookshop.org/p/books/grace-of-the-empire-state-a-novel-gemma-tizzard/e3e32cc425c806d6?ean=9781668056943&next=t) by Gemma Tizzard (Kelsey's Pick) **AND/OR** [The Cliffs](https://bookshop.org/p/books/the-cliffs-reese-s-book-club-a-novel-j-courtney-sullivan/7144945c4a8d1801?ean=9780593312841&next=t) by J. Courtney Sullivan (Angie's Pick)
+- **NOVEMBER 2026** - [The Happiness Files](https://bookshop.org/p/books/the-happiness-files-insights-on-work-and-life-by-arthur-c-brooks-arthur-c-brooks/96afb8c49292abed?ean=9798892792264&next=t) by Arthur C. Brooks (Katie's Pick)
+- **OCTOBER 2026** - [The Buffalo Hunter Hunter](https://bookshop.org/p/books/the-buffalo-hunter-hunter-stephen-graham-jones/d1b4a8cac4757e4e?ean=9781668075081&next=t) by Stephen Graham Jones (Tami's Pick)
+- **SEPTEMBER 2026** - [The Names](https://bookshop.org/p/books/the-names-a-read-with-jenna-pick-a-novel-florence-knapp/f88fe6a7b29db8eb?ean=9780593833902&next=t) by Florence Knapp (Andi's Pick)
+- **AUGUST 2026** - [Waiting For The Long Night Moon](https://bookshop.org/p/books/waiting-for-the-long-night-moon-stories-amanda-peters/ce108a5d51ee91f6?ean=9781646222599&next=t) by Amanda Peters (Judy's Pick)
+- **JULY 2026** - [Women Of The Dunes](https://bookshop.org/p/books/women-of-the-dunes-a-novel-sarah-maine/54982f1580d00da9?ean=9781501189593&next=t) by Sarah Maine (Kelly's Pick)
+- **JUNE 2026** - [Becoming Marlow Fin](https://bookshop.org/p/books/becoming-marlow-fin-ellen-won-steil/e2b57eeb54175742?ean=9781662512124&next=t) by Ellen Won Steil (Tami's Pick)
+- **MAY 2026** - [Prayers For The Stolen](https://bookshop.org/p/books/prayers-for-the-stolen-jennifer-clement/d88a01ee7ed75253?ean=9780804138802&next=t) by Jennifer Clement (Donna's Pick)
+- **APRIL 2026** - [Abundance](https://bookshop.org/p/books/abundance-derek-thompson/28c86c47a61a8296?ean=9781668023488&next=t) by Ezra Klein & Derek Thompson (Mel's Pick)
+- **MARCH 2026** - [We Were Liars](https://bookshop.org/p/books/we-were-liars-e-lockhart/bb9977e8dde2c3cc?ean=9780385741279&next=t) by. E. Lockhart (Kelly's Pick)
+- **FEBRUARY 2026** - [Commonwealth](https://bookshop.org/p/books/commonwealth-a-novel-ann-patchett/5b4ee093a12a5efc?ean=9780062491831&next=t) by Ann Patchett (Angie's Pick)
 
 ----
 - **DECEMBER 2025/JANUARY 2026** - [The Mad Wife](https://bookshop.org/p/books/the-mad-wife-meagan-church/05be1efbb790c329?ean=9781464236747&next=t) by Meagan Church (Tami's Pick)
@@ -26,7 +36,7 @@ permalink: /bookclub/booksread/
 - **FEBRUARY 2025** - [The Small & The Mighty](https://bookshop.org/p/books/the-small-and-the-mighty-twelve-unsung-americans-who-changed-the-course-of-history-sharon-mcmahon/20994019?ean=9780593541678&next=t) by Sharon McMahon (Kelly's Pick)
 
 ----
-- **DECEMBER 2024/JANUARY 2025** - [The Wife Upstairs](https://www.amazon.com/Wife-Upstairs-Novel-Rachel-Hawkins/dp/1250245508/ref=monarch_sidesheet_title) by Rachel Hawkins AND/OR [Jane Eyre](https://www.amazon.com/Jane-Penguin-Classics-Charlotte-Bront%C3%AB/dp/0141441143/ref=monarch_sidesheet_title) by Charlotte Bronte
+- **DECEMBER 2024/JANUARY 2025** - [The Wife Upstairs](https://www.amazon.com/Wife-Upstairs-Novel-Rachel-Hawkins/dp/1250245508/ref=monarch_sidesheet_title) by Rachel Hawkins **AND/OR** [Jane Eyre](https://www.amazon.com/Jane-Penguin-Classics-Charlotte-Bront%C3%AB/dp/0141441143/ref=monarch_sidesheet_title) by Charlotte Bronte
 - **NOVEMBER 2024** - [Wrong Place Wrong Time](https://www.amazon.com/Wrong-Place-Time-Reeses-Book/dp/006325235X/ref=monarch_sidesheet_title) by Gillian McAllister
 - **OCTOBER 2024** - [Remarkably Bright Creatures](https://www.amazon.com/Remarkably-Bright-Creatures-Shelby-Pelt/dp/0063204150/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.KeXMWnxdJ5J48o4tPP-eg3quus5insBldTqa9Jsv3FuoNv4YJeP2p1dXxrxbBEATUtjP-cGcYu7-wOx2ZCFNGxLMbClRoirNB0YVUXtt0_LoRtz_2GwzIuR_qSiPMiE4dHmCbY1imkXVZPrM4TzPLFlrFIvXCWfoGtZON5mcCwUKx-7pp2RHoYDS-ITJCqE0zIJfuZMcO69eBwnS-LZX5CrTyWHbvgR85RlVTnEE-tI.SOxwg4OKfdhLpiCQKzA3udq7KpxOHW-LNJ5kiSlv6Ik&qid=1722027477&sr=1-1) by Shelby Van Pelt
 - **SEPTEMBER 2024** - [No Two Persons](https://www.amazon.com/No-Two-Persons-Erica-Bauermeister-ebook/dp/B0B9KTYMKT/ref=tmm_kin_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.mLXNFDD2VHAK91or2ssObcIg2IM6TztuWJnMzjbPv5AzH2CFf56caFG2hao8hGJu2TNroZhn6MvqmcvZahfBYDkgaDa-PqDzMHMUc9YI1vhk5R723SXfr7m3o0JPOSulf5OvULrucmWoqPmMBfYPu3nJylUlrodGp6yo8LNJ0QNnklH6K9w4z4gmfDpt3SFM6IKeDIHgK114leoimYi7TOIATuwFgZ1CdiPrQ5f5tyA.xL-z3TDgYzC0r44iyCvCT6kLa4hSa9efdd6me6QHpO4&qid=1716399173&sr=8-1) by Erica Bauermeister (Mel's Pick)
