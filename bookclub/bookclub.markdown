@@ -14,7 +14,7 @@ We pick a book and try to meet at the end of each month, but life happens and we
 
 Currently, our book club is through a [group on Facebook](http://facebook.com/groups/bookwormsandpuzzlepiecers/). We discuss all things books, book club and puzzles. Yes, we like puzzles, too. I also recently learned about Amazon Book Clubs and added [our group](https://www.amazon.com/amazonbookclubs/detail/amzn1.club.bookclub.28ba7cf3-de83-fac6-efe0-4252034d9917?) on there as well. But I'm terrible about updating it!
 
-I added a new book club to the mix for a local pride group that I helped start. There was book club interest, so we are giving it a go! I can't wait to see how this club goes and you can follow our book picks above.
+I recently added a new book club to the mix for a local pride group that I helped start called The Beacon. There was book club interest, so we are giving it a go! We have decided to read a mix of fiction and non-fiction book poicks that have LGBTQIA2S+ topics, characters or themes. I can't wait to see how this club goes and you can follow our book picks above. If you are local and want to join, let me know and I'll get you connected.
 
 I also keep an ongoing [wish list](https://www.amazon.com/hz/wishlist/ls/BX6IO38STJYM?ref_=wl_share) on Amazon of the books I want. Some are listed in paperback form, but usually I get Kindle ones. I like to keep track in case I have any discounts or coupons to use. I also started keeping track of [books for the kids](https://www.amazon.com/hz/wishlist/ls/EY284C689ZRR?ref_=wl_share) that I want to get them or read with/to them. I also keep track of books I have read on [Goodreads](https://www.goodreads.com/user/show/2648038-andi) if you want to be friends there.
 
