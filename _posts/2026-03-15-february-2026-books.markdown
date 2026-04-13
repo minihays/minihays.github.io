@@ -13,7 +13,7 @@ Check out my various pages for ⭐️ ratings of these books:
 
 I hope you find something that looks interesting to you. Below are a few notes on the books this month.
 
-**Total books for the year: 23**
+**Total books for the year: 23** 
 
 1. 🎧 **Show Me A Sign** - *Ann Clare LeZotte* - I was really excited about this one, but it took place farther in the past than I had expected. 
 2. 🎧 **Accidentally Yours** - *Christina Lauren* 
