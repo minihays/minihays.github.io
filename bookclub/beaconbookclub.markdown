@@ -11,6 +11,7 @@ permalink: /beaconbookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
+- **JUNE 2026** - [The Stonewall Reader](https://bookshop.org/p/books/the-stonewall-reader-edmund-white/8d30d905883e4bd8?ean=9780143133513&next=t) Edited by NY Public Library & Jason Baumann, Forward by Edmund White
 - **MAY 2026** - [Becoming Ted](https://bookshop.org/p/books/becoming-ted-matt-cain/0d9e8619cb192801?ean=9781496745958&next=t) by Matt Cain
 - **APRIL 2026** - [Game Changer](https://bookshop.org/p/books/game-changer-now-streaming-on-crave-and-hbo-max-rachel-reid/5d54267b91d5d98e?ean=9781335534620&next=t) by Rachel Reid
 - **MARCH 2026** - [Dear America](https://bookshop.org/p/books/dear-america-notes-of-an-undocumented-citizen-jose-antonio-vargas/b4634ed400f07ee2?ean=9780062851345&next=t) by Jose Antonio Vargas
