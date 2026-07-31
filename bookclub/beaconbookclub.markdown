@@ -11,6 +11,8 @@ permalink: /beaconbookclub/booksread/
 
 ![Bright](/images/BrightSkinnyRainbow.png)
 
+- **SEPTEPMBER 2026** - [Hijab Butch Blues](https://bookshop.org/p/books/hijab-butch-blues-a-memoir-lamya-h/b6892ddf53f9c44e?ean=9780593448786&bkshp-astro=t) by Lamya H
+- **AUGUST 2026** - [How To Become The Dark Lord And Die Trying](https://bookshop.org/p/books/how-to-become-the-dark-lord-and-die-trying-django-wexler/7f86b297e298c638?ean=9780316392204&bkshp-astro=t) by Django Wexler
 - **JULY 2026** - [Scorched Grace](https://bookshop.org/p/books/scorched-grace-a-sister-holiday-mystery-margot-douaihy/33110ee238a009c9?ean=9781638930983&next=t) by Margot Douaihy
 - **JUNE 2026** - [The Stonewall Reader](https://bookshop.org/p/books/the-stonewall-reader-edmund-white/8d30d905883e4bd8?ean=9780143133513&next=t) Edited by NY Public Library & Jason Baumann, Forward by Edmund White
 - **MAY 2026** - [Becoming Ted](https://bookshop.org/p/books/becoming-ted-matt-cain/0d9e8619cb192801?ean=9781496745958&next=t) by Matt Cain
