@@ -10,7 +10,7 @@ permalink: /bookclub/booksread/
 **Disclaimer**: In 2025, I chose to start linking books from [Bookshop.org](https://bookshop.org/) so you can help support the Independent bookstore of your choice. Previously, they were linked to Amazon. My Indie bookstore pick is [The Thinking Spot](https://www.thethinkingspot.us/) which is a local STEM bookstore. 🤩📚👩‍🔬🛍️
 
 ![Bright](/images/BrightSkinnyRainbow.png)
-
+                        
 - **DECEMBER 2026/January 2027** - [Grace Of the Empire State](https://bookshop.org/p/books/grace-of-the-empire-state-a-novel-gemma-tizzard/e3e32cc425c806d6?ean=9781668056943&next=t) by Gemma Tizzard (Kelsey's Pick) **AND/OR** [The Cliffs](https://bookshop.org/p/books/the-cliffs-reese-s-book-club-a-novel-j-courtney-sullivan/7144945c4a8d1801?ean=9780593312841&next=t) by J. Courtney Sullivan (Angie's Pick)
 - **NOVEMBER 2026** - [The Happiness Files](https://bookshop.org/p/books/the-happiness-files-insights-on-work-and-life-by-arthur-c-brooks-arthur-c-brooks/96afb8c49292abed?ean=9798892792264&next=t) by Arthur C. Brooks (Katie's Pick)
 - **OCTOBER 2026** - [The Buffalo Hunter Hunter](https://bookshop.org/p/books/the-buffalo-hunter-hunter-stephen-graham-jones/d1b4a8cac4757e4e?ean=9781668075081&next=t) by Stephen Graham Jones (Tami's Pick)
