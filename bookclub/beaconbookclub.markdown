@@ -9,8 +9,9 @@ permalink: /beaconbookclub/booksread/
 <br />
 **Disclaimer**: All book links go to [Bookshop.org](https://bookshop.org/) so you can help support the Independent bookstore of your choice. My pick is [The Thinking Spot](https://www.thethinkingspot.us/) which is a local STEM bookstore. 🤩📚👩‍🔬🛍️
 
-![Bright](/images/BrightSkinnyRainbow.png)
 
+- **NOVEMBER 2026** - [The Art Of Being Normal](https://bookshop.org/p/books/the-art-of-being-normal-a-novel-lisa-williamson/9d4986d777595fb4?ean=9781250144270&bkshp-astro=t) by Lisa Williamson
+- **OCTOBER 2026** - [Take Me With You](https://bookshop.org/p/books/take-me-with-you-steven-rowley/5ffff3aaf7c2255c?ean=9780593851494&bkshp-astro=t) by Steven Rowley
 - **SEPTEPMBER 2026** - [Hijab Butch Blues](https://bookshop.org/p/books/hijab-butch-blues-a-memoir-lamya-h/b6892ddf53f9c44e?ean=9780593448786&bkshp-astro=t) by Lamya H
 - **AUGUST 2026** - [How To Become The Dark Lord And Die Trying](https://bookshop.org/p/books/how-to-become-the-dark-lord-and-die-trying-django-wexler/7f86b297e298c638?ean=9780316392204&bkshp-astro=t) by Django Wexler
 - **JULY 2026** - [Scorched Grace](https://bookshop.org/p/books/scorched-grace-a-sister-holiday-mystery-margot-douaihy/33110ee238a009c9?ean=9781638930983&next=t) by Margot Douaihy
